@@ -1,0 +1,739 @@
+Movie,trunc,Release Date,Distributor,Genre
+Black Panther,Black Panther,"Feb 16, 2018",Walt Disney,Action
+Avengers: Infinity War,Avengers: Infinity W,"Apr 27, 2018",Walt Disney,Action
+Incredibles 2,Incredibles 2,"Jun 15, 2018",Walt Disney,Adventure
+Jurassic World: Fallen Kingdom,Jurassic World: Fall,"Jun 22, 2018",Universal,Action
+Deadpool 2,Deadpool 2,"May 18, 2018",20th Century Fox,Action
+Dr. Seuss’ The Grinch,Dr. Seuss’ The Grinc,"Nov 9, 2018",Universal,Adventure
+Jumanji: Welcome to the Jungle,Jumanji: Welcome to ,"Dec 20, 2017",Sony Pictures,Adventure
+Mission: Impossible—Fallout,Mission: Impossible—,"Jul 27, 2018",Paramount Pictures,Action
+Ant-Man and the Wasp,Ant-Man and the Wasp,"Jul 6, 2018",Walt Disney,Action
+Solo: A Star Wars Story,Solo: A Star Wars St,"May 25, 2018",Walt Disney,Adventure
+Venom,Venom,"Oct 5, 2018",Sony Pictures,Action
+A Star is Born,A Star is Born,"Oct 5, 2018",Warner Bros.,Drama
+Aquaman,Aquaman,"Dec 21, 2018",Warner Bros.,Action
+Bohemian Rhapsody,Bohemian Rhapsody,"Nov 2, 2018",20th Century Fox,Drama
+A Quiet Place,A Quiet Place,"Apr 6, 2018",Paramount Pictures,Horror
+Ralph Breaks The Internet,Ralph Breaks The Int,"Nov 21, 2018",Walt Disney,Adventure
+Crazy Rich Asians,Crazy Rich Asians,"Aug 15, 2018",Warner Bros.,Romantic Comedy
+Hotel Transylvania 3: Summe…,Hotel Transylvania 3,"Jul 13, 2018",Sony Pictures,Adventure
+Halloween,Halloween,"Oct 19, 2018",Universal,Horror
+Fantastic Beasts: The Crime…,Fantastic Beasts: Th,"Nov 16, 2018",Warner Bros.,Adventure
+The Meg,The Meg,"Aug 10, 2018",Warner Bros.,Action
+Ocean’s 8,Ocean’s 8,"Jun 8, 2018",Warner Bros.,Comedy
+Mary Poppins Returns,Mary Poppins Returns,"Dec 19, 2018",Walt Disney,Musical
+Ready Player One,Ready Player One,"Mar 29, 2018",Warner Bros.,Adventure
+Spider-Man: Into The Spider…,Spider-Man: Into The,"Dec 14, 2018",Sony Pictures,Adventure
+The Greatest Showman,The Greatest Showman,"Dec 20, 2017",20th Century Fox,Musical
+Mamma Mia: Here We Go Again!,Mamma Mia: Here We G,"Jul 20, 2018",Universal,Musical
+The Nun,The Nun,"Sep 7, 2018",Warner Bros.,Horror
+Peter Rabbit,Peter Rabbit,"Feb 9, 2018",Sony Pictures,Adventure
+Creed II,Creed II,"Nov 21, 2018",MGM,Drama
+Star Wars Ep. VIII: The Las…,Star Wars Ep. VIII: ,"Dec 15, 2017",Walt Disney,Adventure
+The Equalizer 2,The Equalizer 2,"Jul 20, 2018",Sony Pictures,Action
+Rampage,Rampage,"Apr 13, 2018",Warner Bros.,Action
+A Wrinkle in Time,A Wrinkle in Time,"Mar 9, 2018",Walt Disney,Adventure
+Fifty Shades Freed,Fifty Shades Freed,"Feb 9, 2018",Universal,Drama
+Christopher Robin,Christopher Robin,"Aug 3, 2018",Walt Disney,Adventure
+I Can Only Imagine,I Can Only Imagine,"Mar 16, 2018",Roadside Attractions,Drama
+Smallfoot,Smallfoot,"Sep 28, 2018",Warner Bros.,Adventure
+The Post,The Post,"Dec 22, 2017",20th Century Fox,Drama
+Night School,Night School,"Sep 28, 2018",Universal,Comedy
+Bumblebee,Bumblebee,"Dec 21, 2018",Paramount Pictures,Adventure
+The First Purge,The First Purge,"Jul 4, 2018",Universal,Horror
+Game Night,Game Night,"Feb 23, 2018",Warner Bros.,Comedy
+Book Club,Book Club,"May 18, 2018",Paramount Pictures,Romantic Comedy
+The House with a Clock in i…,The House with a Clo,"Sep 21, 2018",Universal,Comedy
+Skyscraper,Skyscraper,"Jul 13, 2018",Universal,Action
+Insidious: The Last Key,Insidious: The Last ,"Jan 5, 2018",Universal,Horror
+Instant Family,Instant Family,"Nov 16, 2018",Paramount Pictures,Comedy
+The Mule,The Mule,"Dec 14, 2018",Warner Bros.,Drama
+Blockers,Blockers,"Apr 6, 2018",Universal,Comedy
+Pacific Rim: Uprising,Pacific Rim: Uprisin,"Mar 23, 2018",Universal,Action
+Tomb Raider,Tomb Raider,"Mar 16, 2018",Warner Bros.,Action
+Maze Runner: The Death Cure,Maze Runner: The Dea,"Jan 26, 2018",20th Century Fox,Action
+The Nutcracker and the Four…,The Nutcracker and t,"Nov 2, 2018",Walt Disney,Adventure
+Tag,Tag,"Jun 15, 2018",Warner Bros.,Comedy
+A Simple Favor,A Simple Favor,"Sep 14, 2018",Lionsgate,Thriller/Suspense
+Life of the Party,Life of the Party,"May 11, 2018",Warner Bros.,Comedy
+The Predator,The Predator,"Sep 14, 2018",20th Century Fox,Action
+Overboard,Overboard,"May 4, 2018",Lionsgate,Romantic Comedy
+Sicario: Day of the Soldado,Sicario: Day of the ,"Jun 29, 2018",Sony Pictures,Action
+I Feel Pretty,I Feel Pretty,"Apr 20, 2018",STX Entertainment,Comedy
+BlacKkKlansman,BlacKkKlansman,"Aug 10, 2018",Focus Features,Black Comedy
+The Shape of Water,The Shape of Water,"Dec 1, 2017",Fox Searchlight,Drama
+Red Sparrow,Red Sparrow,"Mar 2, 2018",20th Century Fox,Thriller/Suspense
+Breaking In,Breaking In,"May 11, 2018",Universal,Thriller/Suspense
+Goosebumps 2: Haunted Hallo…,Goosebumps 2: Haunte,"Oct 12, 2018",Sony Pictures,Horror
+12 Strong,12 Strong,"Jan 19, 2018",Warner Bros.,Drama
+Den of Thieves,Den of Thieves,"Jan 19, 2018",STX Entertainment,Action
+First Man,First Man,"Oct 12, 2018",Universal,Drama
+Hereditary,Hereditary,"Jun 8, 2018",A24,Horror
+Acrimony,Acrimony,"Mar 30, 2018",Lionsgate,Thriller/Suspense
+Sherlock Gnomes,Sherlock Gnomes,"Mar 23, 2018",Paramount Pictures,Adventure
+Uncle Drew,Uncle Drew,"Jun 29, 2018",Lionsgate,Comedy
+Widows,Widows,"Nov 16, 2018",20th Century Fox,Thriller/Suspense
+Pitch Perfect 3,Pitch Perfect 3,"Dec 22, 2017",Universal,Comedy
+Truth or Dare,Truth or Dare,"Apr 13, 2018",Universal,Thriller/Suspense
+Paddington 2,Paddington 2,"Jan 12, 2018",Warner Bros.,Adventure
+"Love, Simon","Love, Simon","Mar 16, 2018",20th Century Fox,Drama
+Darkest Hour,Darkest Hour,"Nov 22, 2017",Focus Features,Drama
+The Commuter,The Commuter,"Jan 12, 2018",Lionsgate,Action
+The 15:17 to Paris,The 15:17 to Paris,"Feb 9, 2018",Warner Bros.,Drama
+Mile 22,Mile 22,"Aug 17, 2018",STX Entertainment,Action
+Alpha,Alpha,"Aug 17, 2018",Sony Pictures,Adventure
+Peppermint,Peppermint,"Sep 7, 2018",STX Entertainment,Action
+Death Wish,Death Wish,"Mar 2, 2018",MGM,Action
+The Spy Who Dumped Me,The Spy Who Dumped M,"Aug 3, 2018",Lionsgate,Comedy
+Second Act,Second Act,"Dec 21, 2018",STX Entertainment,Comedy
+Annihilation,Annihilation,"Feb 23, 2018",Paramount Pictures,Thriller/Suspense
+Green Book,Green Book,"Nov 21, 2018",Universal,Comedy
+Isle of Dogs,Isle of Dogs,"Mar 23, 2018",Fox Searchlight,Adventure
+Nobody’s Fool,Nobody’s Fool,"Nov 2, 2018",Paramount Pictures,Drama
+Adrift,Adrift,"Jun 1, 2018",STX Entertainment,Drama
+Ferdinand,Ferdinand,"Dec 15, 2017",20th Century Fox,Adventure
+Robin Hood,Robin Hood,"Nov 21, 2018",Lionsgate,Action
+Super Troopers 2,Super Troopers 2,"Apr 20, 2018",20th Century Fox,Comedy
+Slender Man,Slender Man,"Aug 10, 2018",Sony Pictures,Horror
+Three Billboards Outside Eb…,Three Billboards Out,"Nov 10, 2017",Fox Searchlight,Black Comedy
+Coco,Coco,"Nov 22, 2017",Walt Disney,Musical
+Teen Titans Go! To The Movies,Teen Titans Go! To T,"Jul 27, 2018",Warner Bros.,Adventure
+Hostiles,Hostiles,"Dec 22, 2017",Entertainment Stu…,Western
+Vice,Vice,"Dec 25, 2018",Annapurna Pictures,Black Comedy
+The Hate U Give,The Hate U Give,"Oct 19, 2018",20th Century Fox,Drama
+Holmes & Watson,Holmes & Watson,"Dec 25, 2018",Sony Pictures,Comedy
+"I, Tonya","I, Tonya","Dec 8, 2017",Neon,Black Comedy
+Searching,Searching,"Aug 24, 2018",Sony Pictures,Thriller/Suspense
+Winchester,Winchester,"Feb 2, 2018",CBS Films,Horror
+The Strangers: Prey at Night,The Strangers: Prey ,"Mar 9, 2018",Aviron Pictures,Horror
+White Boy Rick,White Boy Rick,"Sep 14, 2018",Sony Pictures,Drama
+Molly’s Game,Molly’s Game,"Dec 25, 2017",STX Entertainment,Drama
+Won’t You Be My Neighbor?,Won’t You Be My Neig,"Jun 8, 2018",Focus Features,Documentary
+Overlord,Overlord,"Nov 9, 2018",Paramount Pictures,Action
+The Fog,The Fog,"Feb 1, 1980",Rialto Pictures,Horror
+Proud Mary,Proud Mary,"Jan 12, 2018",Sony Pictures,Action
+The Happytime Murders,The Happytime Murder,"Aug 24, 2018",STX Entertainment,Black Comedy
+Phantom Thread,Phantom Thread,"Dec 25, 2017",Focus Features,Drama
+Superfly,Superfly,"Jun 13, 2018",Sony Pictures,Thriller/Suspense
+Escape Room,Escape Room,,,Horror
+Bad Times at the El Royale,Bad Times at the El ,"Oct 12, 2018",20th Century Fox,Thriller/Suspense
+Show Dogs,Show Dogs,"May 18, 2018",Global Road,Comedy
+Operation Finale,Operation Finale,"Aug 29, 2018",MGM,Drama
+"Paul, Apostle of Christ","Paul, Apostle of Chr","Mar 23, 2018",Sony Pictures,Drama
+Lady Bird,Lady Bird,"Nov 3, 2017",A24,Drama
+Sorry to Bother You,Sorry to Bother You,"Jul 6, 2018",Annapurna Pictures,Black Comedy
+Chappaquiddick,Chappaquiddick,"Apr 6, 2018",Entertainment Stu…,Drama
+Forever My Girl,Forever My Girl,"Jan 19, 2018",Roadside Attractions,Drama
+The Favourite,The Favourite,"Nov 23, 2018",Fox Searchlight,Black Comedy
+Hunter Killer,Hunter Killer,"Oct 26, 2018",Lionsgate,Thriller/Suspense
+Mortal Engines,Mortal Engines,"Dec 14, 2018",Universal,Action
+The Girl in the Spider’s Web,The Girl in the Spid,"Nov 9, 2018",Sony Pictures,Thriller/Suspense
+The Possession of Hannah Grace,The Possession of Ha,"Nov 30, 2018",Sony Pictures,Horror
+RBG,RBG,"May 4, 2018",Magnolia Pictures,Documentary
+Eighth Grade,Eighth Grade,"Jul 13, 2018",A24,Drama
+Call Me by Your Name,Call Me by Your Name,"Nov 24, 2017",Sony Pictures Cla…,Drama
+The Darkest Minds,The Darkest Minds,"Aug 3, 2018",20th Century Fox,Adventure
+All the Money in the World,All the Money in the,"Dec 25, 2017",Sony Pictures,Thriller/Suspense
+Three Identical Strangers,Three Identical Stra,"Jun 29, 2018",Neon,Documentary
+Upgrade,Upgrade,"Jun 1, 2018",BH Tilt,Thriller/Suspense
+Padmavati,Padmavati,"Jan 25, 2018",Paramount Pictures,Drama
+Free Solo,Free Solo,"Sep 28, 2018",Greenwich,Documentary
+The Old Man and the Gun,The Old Man and the ,"Sep 28, 2018",Fox Searchlight,Comedy
+Hell Fest,Hell Fest,"Sep 28, 2018",CBS Films,Horror
+Wonder,Wonder,"Nov 17, 2017",Lionsgate,Drama
+The Miracle Season,The Miracle Season,"Apr 6, 2018",LD Entertainment,Drama
+Mary Queen of Scots,Mary Queen of Scots,"Dec 7, 2018",Focus Features,Drama
+Midnight Sun,Midnight Sun,"Mar 23, 2018",Global Road,Drama
+Tully,Tully,"May 4, 2018",Focus Features,Comedy
+Traffik,Traffik,"Apr 20, 2018",Lionsgate,Thriller/Suspense
+Unfriended: Dark Web,Unfriended: Dark Web,"Jul 20, 2018",OTL Releasing,Horror
+Welcome to Marwen,Welcome to Marwen,"Dec 21, 2018",Universal,Drama
+Early Man,Early Man,"Feb 16, 2018",Lionsgate,Adventure
+The Wife,The Wife,"Aug 17, 2018",Sony Pictures Cla…,Drama
+The Death of Stalin,The Death of Stalin,"Mar 9, 2018",IFC Films,Black Comedy
+Sanju,Sanju,"Jun 29, 2018",20th Century Fox,Drama
+Unsane,Unsane,"Mar 23, 2018",Bleecker Street,Thriller/Suspense
+Beautiful Boy,Beautiful Boy,"Oct 12, 2018",Amazon Studios,Drama
+Can You Ever Forgive Me?,Can You Ever Forgive,"Oct 19, 2018",Fox Searchlight,Drama
+Mid90s,Mid90s,"Oct 19, 2018",A24,Drama
+Downsizing,Downsizing,"Dec 22, 2017",Paramount Pictures,Comedy
+Dog Days,Dog Days,"Aug 8, 2018",LD Entertainment,Romantic Comedy
+Boy Erased,Boy Erased,"Nov 2, 2018",Focus Features,Drama
+Hotel Artemis,Hotel Artemis,"Jun 8, 2018",Global Road,Thriller/Suspense
+A.X.L.,A.X.L.,"Aug 24, 2018",Global Road,Action
+Fahrenheit 11/9,Fahrenheit 11/9,"Sep 21, 2018",Briarcliff Entert…,Documentary
+Unbroken: Path to Redemption,Unbroken: Path to Re,"Sep 14, 2018",Pure Flix Enterta…,Drama
+The Hurricane Heist,The Hurricane Heist,"Mar 9, 2018",Entertainment Stu…,Thriller/Suspense
+Every Day,Every Day,"Feb 23, 2018",Orion Pictures,Drama
+Leave No Trace,Leave No Trace,"Jun 29, 2018",Bleecker Street,Drama
+Death of a Nation,Death of a Nation,"Aug 3, 2018",Quality Flix,Documentary
+Pandas,Pandas,"Apr 6, 2018",IMAX Films,Documentary
+God’s Not Dead: A Light in …,God’s Not Dead: A Li,"Mar 30, 2018",Pure Flix Enterta…,Drama
+Kin,Kin,"Aug 31, 2018",Lionsgate,Action
+They Shall Not Grow Old,They Shall Not Grow ,"Dec 17, 2018",Warner Bros.,Documentary
+My Hero Academia: Two Heroes,My Hero Academia: Tw,"Sep 25, 2018",FUNimation,Adventure
+Colette,Colette,"Sep 21, 2018",Bleecker Street,Drama
+Action Point,Action Point,"Jun 1, 2018",Paramount Pictures,Comedy
+Beirut,Beirut,"Apr 11, 2018",Bleecker Street,Thriller/Suspense
+Gringo,Gringo,"Mar 9, 2018",STX Entertainment,Black Comedy
+Samson,Samson,"Feb 16, 2018",Pure Flix Enterta…,Drama
+Father Figures,Father Figures,"Dec 22, 2017",Warner Bros.,Comedy
+Johnny English Strikes Again,Johnny English Strik,"Oct 26, 2018",Focus Features,Comedy
+If Beale Street Could Talk,If Beale Street Coul,"Dec 14, 2018",Annapurna Pictures,Drama
+Blindspotting,Blindspotting,"Jul 20, 2018",Lionsgate,Drama
+Gotti,Gotti,"Jun 15, 2018",Vertical Entertai…,Drama
+Ya Veremos,Ya Veremos,"Aug 31, 2018",Lionsgate,Drama
+Simmba,Simmba,"Dec 28, 2018",Reliance Entertai…,Action
+Life Itself,Life Itself,"Sep 21, 2018",Amazon Studios,Drama
+Thor: Ragnarok,Thor: Ragnarok,"Nov 3, 2017",Walt Disney,Action
+Gosnell: The Trial of Ameri…,Gosnell: The Trial o,"Oct 12, 2018",GVN Releasing,Drama
+Indivisible,Indivisible,"Oct 26, 2018",Pure Flix Enterta…,Drama
+2018 Oscar Shorts,2018 Oscar Shorts,"Feb 9, 2018",ShortsHD,Multiple Genres
+Disobedience,Disobedience,"Apr 27, 2018",Bleecker Street,Drama
+Justice League,Justice League,"Nov 17, 2017",Warner Bros.,Action
+First Reformed,First Reformed,"May 18, 2018",A24,Thriller/Suspense
+"Juliet, Naked","Juliet, Naked","Aug 17, 2018",Roadside Attractions,Romantic Comedy
+Bad Samaritan,Bad Samaritan,"May 4, 2018",Electric Entertai…,Thriller/Suspense
+The Disaster Artist,The Disaster Artist,"Dec 1, 2017",A24,Comedy
+2001: A Space Odyssey,2001: A Space Odysse,"Apr 2, 1968",Warner Bros.,Adventure
+The Leisure Seeker,The Leisure Seeker,"Mar 9, 2018",Sony Pictures Cla…,Drama
+7 Days in Entebbe,7 Days in Entebbe,"Mar 16, 2018",Focus Features,Thriller/Suspense
+The Sisters Brothers,The Sisters Brothers,"Sep 21, 2018",Annapurna Pictures,Western
+Thoroughbreds,Thoroughbreds,"Mar 9, 2018",Focus Features,Thriller/Suspense
+Sgt. Stubby: An American Hero,Sgt. Stubby: An Amer,"Apr 13, 2018",Fun Academy Motio…,Adventure
+Whitney,Whitney,"Jul 6, 2018",Roadside Attractions,Documentary
+American Animals,American Animals,"Jun 1, 2018",The Orchard,Thriller/Suspense
+God Bless the Broken Road,God Bless the Broken,"Sep 7, 2018",Freestyle Releasing,Drama
+La Boda de Valentina,La Boda de Valentina,"Feb 9, 2018",Lionsgate,Romantic Comedy
+Bharat Ane Nenu,Bharat Ane Nenu,"Apr 20, 2018",Great India Films,Thriller/Suspense
+You Were Never Really Here,You Were Never Reall,"Apr 6, 2018",Amazon Studios,Drama
+Ben is Back,Ben is Back,"Dec 7, 2018",Roadside Attractions,Drama
+Suspiria,Suspiria,"Oct 26, 2018",Amazon Studios,Horror
+The Rider,The Rider,"Apr 13, 2018",Sony Pictures Cla…,Drama
+Mary and the Witch’s Flower,Mary and the Witch’s,"Jan 19, 2018",GKIDS,Adventure
+Hearts Beat Loud,Hearts Beat Loud,"Jun 8, 2018",Gunpowder & Sky,Drama
+Papillon,Papillon,"Aug 24, 2018",Bleecker Street,Drama
+Daddy’s Home 2,Daddy’s Home 2,"Nov 10, 2017",Paramount Pictures,Comedy
+Murder on the Orient Express,Murder on the Orient,"Nov 10, 2017",20th Century Fox,Drama
+Puzzle,Puzzle,"Jul 27, 2018",Sony Pictures Cla…,Drama
+A Fantastic Woman,A Fantastic Woman,"Feb 2, 2018",Sony Pictures Cla…,Drama
+Pope Francis—A Man of His W…,Pope Francis—A Man o,"May 18, 2018",Focus Features,Documentary
+Assassination Nation,Assassination Nation,"Sep 21, 2018",Neon,Thriller/Suspense
+The Front Runner,The Front Runner,"Nov 6, 2018",Sony Pictures,Drama
+Detective Chinatown 2,Detective Chinatown ,"Feb 16, 2018",Warner Bros.,Action
+At Eternity’s Gate,At Eternity’s Gate,"Nov 16, 2018",CBS Films,Drama
+Dunkirk,Dunkirk,"Jul 21, 2017",Warner Bros.,Action
+Race 3,Race 3,"Jun 15, 2018",Yash Raj Films,Action
+On the Basis of Sex,On the Basis of Sex,"Dec 25, 2018",Focus Features,Drama
+Padman,Padman,"Feb 9, 2018",Sony Pictures,Comedy
+Shoplifters,Shoplifters,"Nov 23, 2018",Magnolia Pictures,Drama
+A Private War,A Private War,"Nov 2, 2018",Aviron Pictures,Drama
+The Bookshop,The Bookshop,"Aug 24, 2018",Greenwich,Drama
+Operation Red Sea,Operation Red Sea,"Feb 23, 2018",Well Go USA,Action
+Thugs of Hindostan,Thugs of Hindostan,"Nov 8, 2018",Yash Raj Films,Action
+"Don’t Worry, He Won’t Get F…","Don’t Worry, He Won’","Jul 13, 2018",Amazon Studios,Drama
+Finding Your Feet,Finding Your Feet,"Mar 30, 2018",Roadside Attractions,Comedy
+Princess Mononoke,Princess Mononoke,"Oct 29, 1999",,Action
+Little Women,Little Women,"Sep 28, 2018",Pinnacle Peak,Drama
+102 Not Out,102 Not Out,"May 4, 2018",Sony Pictures,Comedy
+Baaghi 2,Baaghi 2,"Mar 30, 2018",FIP,Action
+Along With The Gods: The Tw…,Along With The Gods:,"Dec 22, 2017",Well Go USA,Action
+McQueen,McQueen,"Jul 20, 2018",Bleecker Street,Documentary
+The Seagull,The Seagull,"May 11, 2018",Sony Pictures Cla…,Drama
+The Hows of Us,The Hows of Us,"Sep 7, 2018",ABS-CBN,Drama
+Maria by Callas,Maria by Callas,"Nov 2, 2018",Sony Pictures Cla…,Documentary
+Mandy,Mandy,"Sep 14, 2018",RLJ Entertainment,Thriller/Suspense
+Beautifully Broken,Beautifully Broken,"Aug 24, 2018",ArtAffects,Drama
+Along with the Gods: The La…,Along with the Gods:,"Aug 1, 2018",Well Go USA,Action
+Andhadhun,Andhadhun,"Oct 5, 2018",Eros Entertainment,Thriller/Suspense
+Lean on Pete,Lean on Pete,"Apr 6, 2018",A24,Drama
+The Dawn Wall,The Dawn Wall,"Sep 14, 2018",The Orchard,Documentary
+Wildlife,Wildlife,"Oct 19, 2018",IFC Films,Drama
+Raid,Raid,"Mar 16, 2018",Eros Entertainment,Drama
+The Insult,The Insult,"Jan 12, 2018",Cohen Media Group,Drama
+Yellow Submarine,Yellow Submarine,"Nov 13, 1968",Abramorama Films,Musical
+Tiger Zinda Hai,Tiger Zinda Hai,"Dec 22, 2017",Yash Raj Films,Action
+Film Stars Don’t Die in Liv…,Film Stars Don’t Die,"Dec 29, 2017",Sony Pictures Cla…,Drama
+The Miseducation of Cameron…,The Miseducation of ,"Aug 3, 2018",FilmRise,Drama
+Kedarnath,Kedarnath,"Dec 7, 2018",PackYourBag Films,Drama
+Let The Sunshine In,Let The Sunshine In,"Apr 27, 2018",Sundance Selects,Romantic Comedy
+The Star,The Star,"Nov 17, 2017",Sony Pictures,Adventure
+The Cakemaker,The Cakemaker,"Jun 29, 2018",Strand Releasing,Drama
+Tea with the Dames,Tea with the Dames,"Sep 21, 2018",IFC Films,Documentary
+Schindler’s List,Schindler’s List,"Dec 15, 1993",Universal,Drama
+Beast,Beast,"May 11, 2018",Roadside Attractions,Drama
+Sui Dhaaga: Made in India,Sui Dhaaga: Made in ,"Sep 28, 2018",Yash Raj Films,Romantic Comedy
+Border,Border,"Oct 26, 2018",Neon,Thriller/Suspense
+1945,1945,"Nov 1, 2017",Menemsha Entertai…,Drama
+The Party,The Party,"Feb 16, 2018",Roadside Attractions,Drama
+How Long Will I Love U,How Long Will I Love,"May 25, 2018",Well Go USA,Romantic Comedy
+On Chesil Beach,On Chesil Beach,"May 18, 2018",Bleecker Street,Drama
+The Polar Express,The Polar Express,"Nov 10, 2004",,Adventure
+Vox Lux,Vox Lux,"Dec 7, 2018",Neon,Musical
+Walk with me,Walk with me,"Jul 18, 2017",Gathr Films,Documentary
+The Catcher Was A Spy,The Catcher Was A Sp,"Jun 22, 2018",IFC Films,Drama
+Mirai no Mirai,Mirai no Mirai,"Nov 29, 2018",GKIDS,Adventure
+The Little Stranger,The Little Stranger,"Aug 31, 2018",Focus Features,Drama
+Monster Hunt 2,Monster Hunt 2,"Feb 16, 2018",Lionsgate,Adventure
+Blaze,Blaze,"Aug 17, 2018",IFC Films,Drama
+Boundaries,Boundaries,"Jun 22, 2018",Sony Pictures Cla…,Drama
+Nothing to Lose,Nothing to Lose,"May 10, 2018",Swen Group,Drama
+The Island,The Island,"Aug 10, 2018",Well Go USA,Comedy
+Bombshell: The Hedy Lamarr …,Bombshell: The Hedy ,"Nov 24, 2017",Zeitgeist,Documentary
+Perfect Blue,Perfect Blue,"Aug 20, 1999",GKIDS,Drama
+Ex Files 3: Return of the Exes,Ex Files 3: Return o,"Dec 29, 2017",China Lion Film D…,Romantic Comedy
+Lizzie,Lizzie,"Sep 14, 2018",Roadside Attractions,Drama
+"Love, Gilda","Love, Gilda","Sep 21, 2018",Magnolia Pictures,Documentary
+Itzhak,Itzhak,"Mar 9, 2018",Greenwich,Documentary
+Burning,Burning,"Oct 26, 2018",Well Go USA,Thriller/Suspense
+Foxtrot,Foxtrot,"Mar 2, 2018",Sony Pictures Cla…,Drama
+The Florida Project,The Florida Project,"Oct 6, 2017",A24,Drama
+Batman: Mask of the Phantasm,Batman: Mask of the ,"Dec 25, 1993",Warner Bros.,Action
+Marshall,Marshall,"Oct 13, 2017",Open Road,Drama
+Pick of the Litter,Pick of the Litter,"Aug 31, 2018",IFC Films,Documentary
+Loveless,Loveless,"Feb 16, 2018",Sony Pictures Cla…,Drama
+A Cool Fish,A Cool Fish,"Nov 16, 2018",China Lion Film D…,Comedy
+Anna and the Apocalypse,Anna and the Apocaly,"Nov 30, 2018",Orion Pictures,Musical
+Fireworks,Fireworks,"Jul 4, 2018",GKIDS,Drama
+Beetle Juice,Beetle Juice,"Mar 30, 1988",,Comedy
+Husband Material,Husband Material,"Sep 14, 2018",Eros Entertainment,Drama
+Monsters and Men,Monsters and Men,"Sep 28, 2018",Neon,Drama
+The Spy Gone North,The Spy Gone North,"Aug 10, 2018",CJ Entertainment,Drama
+Bilal: A New Breed of Hero,Bilal: A New Breed o,"Feb 2, 2018",Vertical Entertai…,Adventure
+The Great Battle,The Great Battle,"Sep 21, 2018",Well Go USA,Action
+Loving Vincent,Loving Vincent,"Sep 22, 2017",Good Deed Enterta…,Drama
+The Happy Prince,The Happy Prince,"Oct 10, 2018",Sony Pictures Cla…,Drama
+Scotty and the Secret Histo…,Scotty and the Secre,"Jul 27, 2018",Greenwich,Documentary
+Final Portrait,Final Portrait,"Mar 23, 2018",Sony Pictures Cla…,Drama
+The Children Act,The Children Act,"Sep 14, 2018",A24,Drama
+Condorito: The Movie,Condorito: The Movie,"Jan 12, 2018",Lionsgate,Adventure
+Elf,Elf,"Nov 7, 2003",,Comedy
+Anthropocene: The Human Epoch,Anthropocene: The Hu,"Sep 28, 2018",,Documentary
+A Bag of Marbles,A Bag of Marbles,"Mar 23, 2018",Gaumont British P…,Drama
+Hubble 3D,Hubble 3D,"Mar 19, 2010",,Documentary
+"The Night is Short, Walk on…","The Night is Short, ","Aug 21, 2018",GKIDS,Romantic Comedy
+The Oath,The Oath,"Oct 12, 2018",Roadside Attractions,Black Comedy
+We The Animals,We The Animals,"Aug 17, 2018",The Orchard,Drama
+The Gospel According to Andre,The Gospel According,"May 25, 2018",Magnolia Pictures,Documentary
+Leaning into the Wind,Leaning into the Win,"Mar 9, 2018",Magnolia Pictures,Documentary
+Blade Runner 2049,Blade Runner 2049,"Oct 6, 2017",Warner Bros.,Thriller/Suspense
+Soorma,Soorma,"Jul 13, 2018",Sony Pictures,Drama
+The Dark Knight,The Dark Knight,"Jul 18, 2008",,Action
+Oh Lucy!,Oh Lucy!,"Mar 2, 2018",Film Movement,Comedy
+Grace Jones: Bloodlight and…,Grace Jones: Bloodli,"Apr 13, 2018",Kino Lorber,Documentary
+Jurassic Park,Jurassic Park,"Aug 26, 1994",Universal,Adventure
+Believer,Believer,"Jun 8, 2018",Well Go USA,Thriller/Suspense
+Mountain,Mountain,"May 11, 2018",Greenwich,Documentary
+Jane and Emma,Jane and Emma,"Oct 12, 2018",Excel Entertainment,Drama
+Kusama: Infinity,Kusama: Infinity,"Sep 7, 2018",Magnolia Pictures,Documentary
+The Rocky Horror Picture Show,The Rocky Horror Pic,"Sep 26, 1975",20th Century Fox,Musical
+Get Out,Get Out,"Feb 24, 2017",Universal,Horror
+The Wizard of Oz,The Wizard of Oz,"Sep 23, 2009",,Musical
+"Faces, Places","Faces, Places","Oct 6, 2017",Cohen Media Group,Documentary
+Under the Sea 3D,Under the Sea 3D,"Feb 13, 2009",,Documentary
+Shine,Shine,"Oct 5, 2018",GVN Releasing,Drama
+Flower,Flower,"Mar 16, 2018",The Orchard,Drama
+Youth,Youth,"Dec 15, 2017",China Lion Film D…,Drama
+In The Fade,In The Fade,"Dec 27, 2017",Magnolia Pictures,Drama
+Damsel,Damsel,"Jun 22, 2018",Magnolia Pictures,Western
+Harry Potter and the Sorcer…,Harry Potter and the,"Nov 16, 2001",,Adventure
+Golden Job,Golden Job,"Sep 28, 2018",Well Go USA,Action
+But Deliver Us From Evil,But Deliver Us From ,"Feb 9, 2018",Indican Pictures,Horror
+The Square,The Square,"Oct 27, 2017",Magnolia Pictures,Drama
+Science Fair,Science Fair,"Sep 14, 2018",National Geograph…,Documentary
+Kings,Kings,"Apr 27, 2018",The Orchard,Drama
+Cold War,Cold War,"Dec 21, 2018",Amazon Studios,Drama
+The Endless,The Endless,"Apr 6, 2018",Well Go USA,Thriller/Suspense
+Detective Dee: The Four Hea…,Detective Dee: The F,"Jul 27, 2018",Well Go USA,Action
+The King,The King,"Jun 22, 2018",Oscilloscope Pict…,Documentary
+What They Had,What They Had,"Oct 19, 2018",Bleecker Street,Drama
+Back to Burgundy,Back to Burgundy,"Mar 23, 2018",Music Box Films,Drama
+London Fields,London Fields,"Oct 26, 2018",GVN Releasing,Thriller/Suspense
+Destroyer,Destroyer,"Dec 25, 2018",Annapurna Pictures,Thriller/Suspense
+Harry Potter and the Chambe…,Harry Potter and the,"Nov 15, 2002",,Adventure
+Generation Wealth,Generation Wealth,"Jul 20, 2018",Amazon Studios,Documentary
+The House That Jack Built,The House That Jack ,"Dec 14, 2018",IFC Films,Thriller/Suspense
+Skate Kitchen,Skate Kitchen,"Aug 10, 2018",Magnolia Pictures,Drama
+Meditation Park,Meditation Park,"Mar 9, 2018",,Drama
+Stan & Ollie,Stan & Ollie,"Dec 28, 2018",Sony Pictures Cla…,Drama
+Borg vs McEnroe,Borg vs McEnroe,"Apr 13, 2018",Neon,Drama
+Matangi/Maya/M.I.A.,Matangi/Maya/M.I.A.,"Sep 28, 2018",Abramorama Films,Documentary
+Happy End,Happy End,"Dec 22, 2017",Sony Pictures Cla…,Drama
+MFKZ,MFKZ,"Oct 11, 2018",GKIDS,Adventure
+Island of Lemurs: Madagascar,Island of Lemurs: Ma,"Apr 4, 2014",Warner Bros.,Documentary
+Jane,Jane,"Oct 20, 2017",Abramorama Films,Documentary
+Harry Potter and the Prison…,Harry Potter and the,"Jun 4, 2004",,Adventure
+A Bad Moms Christmas,A Bad Moms Christmas,"Nov 1, 2017",STX Entertainment,Comedy
+Dark Money,Dark Money,"Jul 13, 2018",PBS Distribution,Documentary
+Getting Grace,Getting Grace,"Mar 23, 2018",Hannover House,Comedy
+Agent Mr. Chan,Agent Mr. Chan,"Feb 23, 2018",China Lion Film D…,Comedy
+The Guilty,The Guilty,"Oct 19, 2018",Magnolia Pictures,Thriller/Suspense
+Keep The Change,Keep The Change,"Mar 16, 2018",Kino Lorber,Romantic Comedy
+Gemini,Gemini,"Mar 30, 2018",Neon,Thriller/Suspense
+Zama,Zama,"Apr 13, 2018",Strand Releasing,Action
+Gauguin: Voyage to Tahiti,Gauguin: Voyage to T,"Jul 13, 2018",Cohen Media Group,Drama
+Little Pink House,Little Pink House,"Apr 20, 2018",Dada Films,Drama
+Swing Kids,Swing Kids,"Dec 21, 2018",Well Go USA,Drama
+The Final Year,The Final Year,"Jan 19, 2018",Magnolia Pictures,Documentary
+Studio 54,Studio 54,"Oct 5, 2018",Zeitgeist,Documentary
+Harry Potter and the Goblet…,Harry Potter and the,"Nov 18, 2005",,Adventure
+The Monkey King 3: Kingdom …,The Monkey King 3: K,"Feb 16, 2018",Well Go USA,Action
+Never-Ending Man: Hayao Miy…,Never-Ending Man: Ha,"Dec 13, 2018",GKIDS,Documentary
+Goldbuster,Goldbuster,"Jan 5, 2018",Well Go USA,Comedy
+Summer 1993,Summer 1993,"May 25, 2018",Oscilloscope Pict…,Drama
+Madeline’s Madeline,Madeline’s Madeline,"Aug 10, 2018",Oscilloscope Pict…,Drama
+Born to be Wild 3D,Born to be Wild 3D,"Apr 8, 2011",,Documentary
+Karwaan,Karwaan,"Aug 3, 2018",Self Distributed,Comedy
+Harry Potter and the Deathl…,Harry Potter and the,"Jul 15, 2011",,Adventure
+Last Letter,Last Letter,"Nov 9, 2018",China Lion Film D…,
+BuyBust,BuyBust,"Aug 10, 2018",Well Go USA,Action
+The Guardians,The Guardians,"May 4, 2018",Music Box Films,Drama
+Always at the Carlyle,Always at the Carlyl,"May 11, 2018",Good Deed Enterta…,Documentary
+Capernaum,Capernaum,"Dec 14, 2018",Sony Pictures Cla…,Drama
+Rampant,Rampant,"Oct 26, 2018",Well Go USA,Horror
+Double Lover,Double Lover,"Feb 14, 2018",Cohen Media Group,Thriller/Suspense
+Boom for Real: The Late Tee…,Boom for Real: The L,"May 11, 2018",Magnolia Pictures,Documentary
+Far From the Tree,Far From the Tree,"Jul 20, 2018",Sundance Selects,Documentary
+Only the Brave,Only the Brave,"Oct 20, 2017",Sony Pictures,Drama
+Batti Gul Meter Chalu,Batti Gul Meter Chal,"Sep 21, 2018",Eros Entertainment,Drama
+Eating Animals,Eating Animals,"Jun 15, 2018",Sundance Selects,Documentary
+Ghost Stories,Ghost Stories,"Apr 20, 2018",IFC Midnight,Horror
+Bad Reputation,Bad Reputation,"Sep 28, 2018",Magnolia Pictures,Documentary
+Museum,Museum,"Sep 14, 2018",YouTube,Drama
+Journey’s End,Journey’s End,"Mar 16, 2018",Good Deed Enterta…,Drama
+Harry Potter and the Deathl…,Harry Potter and the,"Nov 19, 2010",,Adventure
+The Great Buster,The Great Buster,"Oct 5, 2018",Cohen Media Group,Documentary
+The World Before Your Feet,The World Before You,"Nov 21, 2018",Greenwich,Documentary
+Harry Potter and the Order …,Harry Potter and the,"Jul 11, 2007",,Adventure
+Harry Potter and the Half-B…,Harry Potter and the,"Jul 15, 2009",,Adventure
+Support The Girls,Support The Girls,"Aug 24, 2018",Magnolia Pictures,Comedy
+The Young Karl Marx,The Young Karl Marx,"Feb 23, 2018",The Orchard,Drama
+Geostorm,Geostorm,"Oct 20, 2017",Warner Bros.,Thriller/Suspense
+Love After Love,Love After Love,"Mar 30, 2018",IFC Films,Drama
+Wings of Desire (1987) (Re-…,Wings of Desire (198,"Oct 19, 2018",Janus Films,Drama
+Till the End of the World,Till the End of the ,"Feb 2, 2018",China Lion Film D…,Drama
+Bisbee ‘17,Bisbee ‘17,"Sep 5, 2018",4th Row Films,Documentary
+Ryuichi Sakamoto: Coda,Ryuichi Sakamoto: Co,"Jul 6, 2018",MUBI,Documentary
+‘85 The Greatest Team in Fo…,‘85 The Greatest Tea,"Jan 29, 2018",Fathom Events,Documentary
+Gonjiam: Haunted Asylum,Gonjiam: Haunted Asy,"Apr 13, 2018",Well Go USA,Horror
+Bodied,Bodied,"Nov 2, 2018",Independent Artists,Comedy
+"Roman J. Israel, Esq.","Roman J. Israel, Esq","Nov 17, 2017",Sony Pictures,Drama
+Lu Over The Wall,Lu Over The Wall,"May 11, 2018",GKIDS,Adventure
+The Negotiation,The Negotiation,"Sep 19, 2018",CJ Entertainment,Drama
+El Angel,El Angel,"Nov 9, 2018",The Orchard,Drama
+The Captain,The Captain,"Jul 27, 2018",Music Box Films,Drama
+Mary Shelley,Mary Shelley,"May 25, 2018",IFC Films,Drama
+Deep Sea 3-D,Deep Sea 3-D,"Mar 3, 2006",,Documentary
+In Between,In Between,"Jan 5, 2018",Film Movement,Drama
+"Love, Cecil","Love, Cecil","Jun 29, 2018",Zeitgeist,Documentary
+Namaste England,Namaste England,"Oct 19, 2018",Eros Entertainment,Romantic Comedy
+Detective K: Secret of the …,Detective K: Secret ,"Feb 16, 2018",Well Go USA,Comedy
+Memoir of War,Memoir of War,"Aug 17, 2018",Music Box Films,Drama
+Airpocalypse,Airpocalypse,"Dec 21, 2018",China Lion Film D…,Adventure
+Ismael’s Ghost,Ismael’s Ghost,"Mar 23, 2018",Magnolia Pictures,Thriller/Suspense
+Andrei Rublev,Andrei Rublev,"Oct 31, 1973",Janus Films,Drama
+Unstoppable,Unstoppable,"Nov 30, 2018",Well Go USA,Action
+The Man Who Invented Christmas,The Man Who Invented,"Nov 22, 2017",Bleecker Street,Comedy
+All About Nina,All About Nina,"Sep 28, 2018",The Orchard,Drama
+Filmworker,Filmworker,"May 11, 2018",Kino Lorber,Documentary
+Revenge,Revenge,"May 11, 2018",Neon,Action
+Champion,Champion,"May 11, 2018",Well Go USA,Drama
+Wonder Wheel,Wonder Wheel,"Dec 1, 2017",Amazon Studios,Drama
+Let the Corpses Tan,Let the Corpses Tan,"Aug 31, 2018",Kino Lorber,Thriller/Suspense
+Reign of Judges: Title of L…,Reign of Judges: Tit,"Mar 15, 2018",Darin Southam End…,Action
+The Breadwinner,The Breadwinner,"Nov 17, 2017",GKIDS,Drama
+John McEnroe: In the Realm …,John McEnroe: In the,"Aug 22, 2018",Oscilloscope Pict…,Documentary
+Running for Grace,Running for Grace,"Jul 19, 2018",Blue Fox Entertai…,Drama
+The Third Murder,The Third Murder,"Jul 20, 2018",Film Movement,Thriller/Suspense
+The Price of Everything,The Price of Everyth,"Oct 19, 2018",HBO Documentary F…,Documentary
+Nostalgia,Nostalgia,"Feb 16, 2018",Bleecker Street,Drama
+Big Brother,Big Brother,"Aug 31, 2018",Well Go USA,Multiple Genres
+Sweet Country,Sweet Country,"Apr 6, 2018",Samuel Goldwyn Films,Western
+Lobster Cop,Lobster Cop,"Jun 22, 2018",China Lion Film D…,Action
+How to Talk to Girls at Par…,How to Talk to Girls,"May 25, 2018",A24,Comedy
+Custody,Custody,"Jun 29, 2018",Kino Lorber,Drama
+Claire’s Camera,Claire’s Camera,"Mar 9, 2018",Cinema Guild,Drama
+Godard Mon Amour,Godard Mon Amour,"Apr 20, 2018",Cohen Media Group,Drama
+Bel Canto,Bel Canto,"Sep 14, 2018",Screen Media Films,Drama
+Have a Nice Day,Have a Nice Day,"Jan 26, 2018",Strand Releasing,Comedy
+On The Seventh Day,On The Seventh Day,"Jun 8, 2018",Cinema Guild,Drama
+Becoming Astrid,Becoming Astrid,"Nov 23, 2018",Music Box Films,Drama
+93Queen,93Queen,"Jul 25, 2018",Abramorama Films,Documentary
+The Riot Act,The Riot Act,"Sep 14, 2018",Hannover House,Thriller/Suspense
+Tehran Taboo,Tehran Taboo,"Feb 14, 2018",Kino Lorber,Drama
+Bye Bye Germany,Bye Bye Germany,"Apr 13, 2018",Film Movement,Drama
+The Last Suit,The Last Suit,"Sep 21, 2018",Outsider,Drama
+"Nico, 1988","Nico, 1988","Aug 1, 2018",Magnolia Pictures,Drama
+Helicopter Eela,Helicopter Eela,"Oct 12, 2018",Eros Entertainment,Drama
+Wastelander,Wastelander,"Jan 12, 2018",Indican Pictures,Action
+Parchi,Parchi,"Jan 12, 2018",Atlas Distribution,Comedy
+Tom of Finland,Tom of Finland,"Oct 13, 2017",Kino Lorber,Drama
+Outside In,Outside In,"Mar 30, 2018",The Orchard,Drama
+Where Hands Touch,Where Hands Touch,"Sep 14, 2018",Vertical Entertai…,Drama
+Chef Flynn,Chef Flynn,"Nov 9, 2018",Kino Lorber,Documentary
+Under the Tree,Under the Tree,"Jul 6, 2018",Magnolia Pictures,Black Comedy
+The Doctor From India,The Doctor From Indi,"Apr 20, 2018",Zeitgeist,Documentary
+The Big Bad Fox & Other Tales,The Big Bad Fox & Ot,"Oct 19, 2018",GKIDS,Comedy
+3100: Run and Become,3100: Run and Become,"Aug 17, 2018",Illumine Films,Documentary
+Beuys,Beuys,"Jan 17, 2018",Kino Lorber,Documentary
+My Friend Dahmer,My Friend Dahmer,"Nov 3, 2017",FilmRise,Drama
+Nancy,Nancy,"Jun 8, 2018",Samuel Goldwyn Films,Thriller/Suspense
+The Gardener,The Gardener,"Mar 30, 2018",Gravitas Ventures,Documentary
+"Monrovia, Indiana","Monrovia, Indiana","Oct 26, 2018",Zipporah,Documentary
+Never Goin’ Back,Never Goin’ Back,"Aug 3, 2018",A24,Comedy
+Viper Club,Viper Club,"Oct 26, 2018",Roadside Attractions,Drama
+Where is Kyra?,Where is Kyra?,"Apr 6, 2018",Great Point Media,Drama
+Bomb City,Bomb City,"Feb 9, 2018",Gravitas Ventures,Drama
+"Westwood: Punk, Icon, Activist","Westwood: Punk, Icon","Jun 8, 2018",Greenwich,Documentary
+A Kid Like Jake,A Kid Like Jake,"Jun 1, 2018",IFC Films,Drama
+In Search of Greatness,In Search of Greatne,"Nov 2, 2018",Self Distributed,Documentary
+Cynthia,Cynthia,"Aug 31, 2018",Indican Pictures,Black Comedy
+Woman Walks Ahead,Woman Walks Ahead,"Jun 29, 2018",A24,Western
+Ramen Heads,Ramen Heads,"Mar 16, 2018",Gunpowder & Sky,Documentary
+Black 47,Black 47,"Sep 28, 2018",IFC Films,Drama
+Django,Django,"Jan 5, 2018",Under the Milky Way,Documentary
+The Great Silence (1969) (R…,The Great Silence (1,"Mar 30, 2018",Film Movement,Western
+Wanda (1971) (Re-Release),Wanda (1971) (Re-Rel,"Jul 20, 2018",Janus Films,Drama
+Before We Vanish,Before We Vanish,"Feb 2, 2018",Super LTD,Drama
+Garry Winogrand: All Things…,Garry Winogrand: All,"Sep 19, 2018",Greenwich,Documentary
+Yun Nan Chong Gu Yunnan Valley,Yun Nan Chong Gu Yun,,,Action
+I am Not a Witch,I am Not a Witch,"Sep 7, 2018",Film Movement,Drama
+The China Hustle,The China Hustle,"Mar 30, 2018",Magnolia Pictures,Documentary
+Big Sonia,Big Sonia,"Nov 17, 2017",Argot Pictures,Documentary
+Bigger,Bigger,"Oct 12, 2018",Freestyle Releasing,Drama
+Hal,Hal,"Sep 7, 2018",Oscilloscope Pict…,Documentary
+Summer in the Forest,Summer in the Forest,"Mar 23, 2018",Abramorama Films,Documentary
+Wait For Your Laugh,Wait For Your Laugh,"Nov 3, 2017",Vitagraph Films,Documentary
+What Will People Say,What Will People Say,"Jul 13, 2018",Kino Lorber,Drama
+Hitler’s Hollywood,Hitler’s Hollywood,"Apr 11, 2018",Kino Lorber,Documentary
+The Other Side of Hope,The Other Side of Ho,"Dec 1, 2017",Janus Films,Comedy
+Antonio Lopez 1970: Sex Fas…,Antonio Lopez 1970: ,"Sep 14, 2018",Film Movement,Documentary
+The Sacrifice,The Sacrifice,"Nov 7, 2014",Kino Lorber,Drama
+Western,Western,"Feb 16, 2018",Cinema Guild,Drama
+Young Lions of Gypsy,Young Lions of Gypsy,"Jan 19, 2018",IFC Films,Drama
+"Hale County This Morning, T…",Hale County This Mor,"Sep 14, 2018",Cinema Guild,Documentary
+Submission,Submission,"Mar 2, 2018",Great Point Media,Drama
+Namiya,Namiya,"Jan 5, 2018",China Lion Film D…,Drama
+Humor Me,Humor Me,"Jan 12, 2018",Shout! Factory,Comedy
+Divide and Conquer: The Sto…,Divide and Conquer: ,"Dec 7, 2018",Magnolia Pictures,Documentary
+Gray Matter,Gray Matter,"May 18, 2018",Indican Pictures,Horror
+The Heart of Nuba,The Heart of Nuba,"Apr 6, 2018",Abramorama Films,Documentary
+Golden Exits,Golden Exits,"Feb 9, 2018",Sony Pictures,Drama
+Krystal,Krystal,"Apr 13, 2018",Paladin,Drama
+Girls vs. Gangsters,Girls vs. Gangsters,"Mar 9, 2018",Well Go USA,Comedy
+Breath,Breath,"Jun 1, 2018",FilmRise,Drama
+Rodin,Rodin,"Jun 1, 2018",Cohen Media Group,Drama
+Mind Game (2004) (Re-Release),Mind Game (2004) (Re,"Feb 16, 2018",GKIDS,Adventure
+Racer and the Jailbird,Racer and the Jailbi,"May 4, 2018",Neon,Drama
+Le Corbeau,Le Corbeau,"Feb 23, 1948",Rialto Pictures,Drama
+The Road Movie,The Road Movie,"Jan 19, 2018",Oscilloscope Pict…,Documentary
+Liyana,Liyana,"Oct 10, 2018",Abramorama Films,Documentary
+That Summer,That Summer,"May 18, 2018",Sundance Selects,Documentary
+24 Frames: Before and After…,24 Frames: Before an,"Feb 2, 2018",Janus Films,Drama
+Holy Hell,Holy Hell,"Jul 20, 2018",Indican Pictures,Horror
+"No Date, No Signature","No Date, No Signatur","Aug 1, 2018",Distrib Films,Drama
+Searching For Ingmar Bergman,Searching For Ingmar,"Nov 2, 2018",Oscilloscope Pict…,Documentary
+God’s Own Country,God’s Own Country,"Oct 25, 2017",Samuel Goldwyn Films,Drama
+Soller’s Point,Soller’s Point,"May 11, 2018",Oscilloscope Pict…,Drama
+Just Getting Started,Just Getting Started,"Dec 8, 2017",Broad Green Pictures,Comedy
+BPM (Beats per Minute),BPM (Beats per Minut,"Oct 20, 2017",The Orchard,Drama
+Moynihan,Moynihan,"Oct 3, 2018",First Run Features,Documentary
+Saving Brinton,Saving Brinton,"Sep 22, 2017",Barn Owl,Documentary
+Good Manners,Good Manners,"Jul 27, 2018",Distrib Films,Horror
+Poor Boy,Poor Boy,"Jul 13, 2018",Indican Pictures,Western
+Cold Water (1994) (Re-Release),Cold Water (1994) (R,"Apr 27, 2018",Janus Films,Drama
+The Desert Bride,The Desert Bride,"May 4, 2018",Strand Releasing,Drama
+Memories of Underdevelopmen…,Memories of Underdev,"Jan 12, 2018",Janus Films,Drama
+Same Kind of Different as Me,Same Kind of Differe,"Oct 20, 2017",Pure Flix Enterta…,Drama
+Charm City,Charm City,"Oct 12, 2018",PBS Distribution,Documentary
+Horn From the Heart: The Pa…,Horn From the Heart:,"Oct 17, 2018",Abramorama Films,Documentary
+The Apparition,The Apparition,"Sep 7, 2018",Music Box Films,Drama
+On Her Shoulders,On Her Shoulders,"Oct 19, 2018",Oscilloscope Pict…,Documentary
+Senso,Senso,"Jul 8, 1968",Rialto Pictures,Drama
+The Cured,The Cured,"Feb 23, 2018",IFC Films,Horror
+Milford Graves: Full Mantis,Milford Graves: Full,"Jul 13, 2018",Cinema Guild,Documentary
+Belle de Jour,Belle de Jour,"Apr 10, 1968",Miramax,Drama
+The Misandrists,The Misandrists,"May 25, 2018",Cartilage Films,Comedy
+Ridge Runners,Ridge Runners,"Jan 19, 2018",Indican Pictures,Drama
+Jet Trash,Jet Trash,"Apr 27, 2018",Indican Pictures,Drama
+Birdboy: The Forgotten Chil…,Birdboy: The Forgott,"Dec 15, 2017",GKIDS,Horror
+Swimming With Men,Swimming With Men,"Dec 7, 2018",IFC Films,Comedy
+The Day After,The Day After,"May 11, 2018",Cinema Guild,Drama
+Vazante,Vazante,"Jan 12, 2018",Music Box Films,Drama
+Death House,Death House,"Mar 2, 2018",Hannover House,Horror
+The Divine Order,The Divine Order,"Oct 27, 2017",Kino Lorber,Drama
+Let There Be Light,Let There Be Light,"Oct 27, 2017",Atlas Distribution,Drama
+The Atomic Cafe,The Atomic Cafe,"Mar 17, 1982",Kino Lorber,Documentary
+The Judge,The Judge,"Apr 13, 2018",Idle Wild Films,Documentary
+Winning Formula,Winning Formula,"Jul 27, 2018",Indican Pictures,Comedy
+Loving Pablo,Loving Pablo,"Oct 5, 2018",OTL Releasing,Drama
+The Female Brain,The Female Brain,"Feb 9, 2018",IFC Films,Comedy
+A Paris Education,A Paris Education,"Aug 31, 2018",Kino Lorber,Drama
+Half the Picture,Half the Picture,"Jun 8, 2018",Gravitas Ventures,Documentary
+Ganja & Hess,Ganja & Hess,"Apr 23, 1973",Kino Lorber,Thriller/Suspense
+The Happys,The Happys,"Mar 16, 2018",Indican Pictures,Comedy
+The Last Resort,The Last Resort,"Dec 21, 2018",Kino Lorber,Documentary
+The Workshop,The Workshop,"Mar 23, 2018",Strand Releasing,Drama
+The Devil and Father Amorth,The Devil and Father,"Apr 20, 2018",The Orchard,Documentary
+Apocalypsis,Apocalypsis,"Mar 2, 2018",Indican Pictures,Thriller/Suspense
+The Charmer,The Charmer,"Dec 5, 2018",Film Movement,Thriller/Suspense
+Eight Hours Don’t Make a Da…,Eight Hours Don’t Ma,"Mar 14, 2018",Janus Films,Drama
+"One Sings, the Other Doesn’…","One Sings, the Other","Jun 1, 2018",Janus Films,Drama
+Active Measures,Active Measures,"Aug 31, 2018",Super LTD,Documentary
+Freak Show,Freak Show,"Jan 12, 2018",IFC Films,Comedy
+To the Arctic 3D,To the Arctic 3D,"Apr 20, 2012",,Documentary
+Who We Are Now,Who We Are Now,"May 25, 2018",FilmRise,Drama
+Oolong Courtyard:Kung Fu Sc…,Oolong Courtyard:Kun,"Aug 24, 2018",China Lion Film D…,Comedy
+Anything,Anything,"May 11, 2018",Paladin,Drama
+The Tag-Along 2,The Tag-Along 2,"Sep 22, 2017",China Lion Film D…,Horror
+Crime + Punishment,Crime + Punishment,"Aug 24, 2018",IFC Films,Documentary
+Mrs. Hyde,Mrs. Hyde,"Apr 27, 2018",Cartilage Films,Drama
+306 Hollywood,306 Hollywood,"Sep 28, 2018",El Tigre Productions,Documentary
+Quest,Quest,"Dec 1, 2017",First Run Features,Documentary
+King of Hearts,King of Hearts,"Jun 19, 1967",Cohen Media Group,
+Life & Nothing More,Life & Nothing More,"Oct 24, 2018",CFI,Drama
+Gabriel and the Mountain,Gabriel and the Moun,"Jun 15, 2018",Strand Releasing,Drama
+Desolation,Desolation,"Jan 26, 2018",Parade Deck Films,Thriller/Suspense
+Goodland,Goodland,"May 11, 2018",Parade Deck Films,Thriller/Suspense
+Bob le flambeur,Bob le flambeur,"Jan 1, 1959",Rialto Pictures,Drama
+Thelma,Thelma,"Nov 10, 2017",The Orchard,Drama
+People’s Republic of Desire,People’s Republic of,"Nov 30, 2018",Tripod Media,Documentary
+The Lucky Man,The Lucky Man,"Dec 21, 2017",Indican Pictures,Action
+When You Read This Letter (…,When You Read This L,"Sep 12, 2018",Rialto Pictures,Drama
+Detour,Detour,"Nov 30, 1945",Janus Films,Drama
+A Prayer Before Dawn,A Prayer Before Dawn,"Apr 13, 2018",A24,Action
+Weed the People,Weed the People,"Oct 26, 2018",Abramorama Films,Documentary
+The Last Movie Star,The Last Movie Star,"Mar 30, 2018",A24,Drama
+Narcissister Organ Player,Narcissister Organ P,"Nov 7, 2018",Film Movement,Documentary
+Ichi The Killer: Definitive…,Ichi The Killer: Def,"Nov 10, 2017",Well Go USA,Horror
+The Escape,The Escape,"May 11, 2018",IFC Films,Drama
+The Boy Downstairs,The Boy Downstairs,"Feb 16, 2018",FilmRise,Romantic Comedy
+Our Blood is Wine,Our Blood is Wine,"Mar 9, 2018",Music Box Films,Documentary
+Here and Now,Here and Now,"Nov 9, 2018",AMBI,Drama
+Shed Skin Papa,Shed Skin Papa,"Mar 23, 2018",China Lion Film D…,Comedy
+Novitiate,Novitiate,"Oct 27, 2017",Sony Pictures Cla…,Drama
+Stavisky,Stavisky,"Dec 22, 1974",Rialto Pictures,Drama
+Like Me,Like Me,"Jan 26, 2018",Kino Lorber,Drama
+"Lou Andreas-Salomé, The Aud…","Lou Andreas-Salomé, ","Apr 20, 2018",Cinema Libre,Drama
+American Socialist: The Lif…,American Socialist: ,"Mar 2, 2018",First Run Features,Documentary
+My Art,My Art,"Jan 12, 2018",Film Movement,Comedy
+Head Full of Honey,Head Full of Honey,"Nov 30, 2018",Warner Bros.,Drama
+Tyrel,Tyrel,"Dec 5, 2018",Magnolia Pictures,Drama
+The Most Unknown,The Most Unknown,"May 18, 2018",Abramorama Films,Documentary
+Return of the Hero,Return of the Hero,"Aug 31, 2018",Distrib Films,Drama
+Ex Libris: The New York Pub…,Ex Libris: The New Y,"Sep 15, 2017",Zipporah,Documentary
+Minding the Gap,Minding the Gap,"Aug 17, 2018",Magnolia Pictures,Documentary
+The Last Race,The Last Race,"Nov 16, 2018",Magnolia Pictures,Documentary
+Victoria and Abdul,Victoria and Abdul,"Sep 22, 2017",Focus Features,Drama
+Summer 03,Summer 03,"Sep 28, 2018",Blue Fox Entertai…,Comedy
+This Is Our Land,This Is Our Land,"Apr 18, 2018",Distrib Films,Drama
+Sicilian Ghost Story,Sicilian Ghost Story,"Nov 30, 2018",Strand Releasing,Drama
+Rendezvous in July (1949) (…,Rendezvous in July (,"Aug 1, 2018",Rialto Pictures,Comedy
+The Public Image is Rotten,The Public Image is ,"Sep 14, 2018",Abramorama Films,Documentary
+Bullitt County,Bullitt County,"Oct 26, 2018",Self Distributed,Thriller/Suspense
+The Assassin’s Code,The Assassin’s Code,"May 11, 2018",Gravitas Ventures,Thriller/Suspense
+The Wedding Party 2: Destin…,The Wedding Party 2:,"Feb 14, 2018",IronFlix,Comedy
+The Samuel Project,The Samuel Project,"Sep 28, 2018",in8 Releasing,Drama
+Souvenir,Souvenir,"Mar 2, 2018",Strand Releasing,Drama
+The Advocates,The Advocates,"Oct 19, 2018",Cinema Libre,Documentary
+Heavy Trip,Heavy Trip,"Oct 5, 2018",Doppelganger Rele…,Comedy
+River Runs Red,River Runs Red,"Nov 9, 2018",Cinedigm,Thriller/Suspense
+Please Stand By,Please Stand By,"Jan 26, 2018",Magnolia Pictures,Drama
+Mama Africa,Mama Africa,"Jan 19, 2018",ArtMattan Films,Documentary
+Quai des Orfevres (1947) (R…,Quai des Orfevres (1,"Nov 1, 2002",Rialto Pictures,Drama
+Kayak to Klemtu,Kayak to Klemtu,"May 25, 2018",,Adventure
+The Quest of Alain Ducasse,The Quest of Alain D,"Jun 8, 2018",Magnolia Pictures,Documentary
+Strangers on the Earth,Strangers on the Ear,"May 4, 2018",First Run Features,Documentary
+El Mar La Mar,El Mar La Mar,"Feb 23, 2018",Cinema Guild,Documentary
+Blood Feast,Blood Feast,"Apr 6, 2018",Hannover House,Horror
+Un Traductor,Un Traductor,"Oct 19, 2018",Film Movement,Drama
+November,November,"Feb 23, 2018",Oscilloscope Pict…,Drama
+Summer of 67,Summer of 67,"Jun 29, 2018",Self Distributed,Drama
+Furlough,Furlough,"Mar 16, 2018",,Comedy
+Let Yourself Go,Let Yourself Go,"Mar 2, 2018",Menemsha Entertai…,Comedy
+The Crime of Monsieur Lange,The Crime of Monsieu,"Nov 17, 2017",Rialto Pictures,Comedy
+Kingsman: The Golden Circle,Kingsman: The Golden,"Sep 22, 2017",20th Century Fox,Action
+Dark River,Dark River,"Jun 29, 2018",FilmRise,Drama
+Legend of the Mountain (197…,Legend of the Mounta,"Feb 2, 2018",Kino Lorber,Thriller/Suspense
+American Chaos,American Chaos,"Sep 14, 2018",Sony Pictures Cla…,Documentary
+The Lodgers,The Lodgers,"Feb 23, 2018",Epic Pictures Group,Horror
+Beauty and the Dogs,Beauty and the Dogs,"Mar 23, 2018",Oscilloscope Pict…,Drama
+In Echo Park,In Echo Park,"Oct 12, 2018",Indican Pictures,Drama
+This is Congo,This is Congo,"Jun 29, 2018",Abramorama Films,Documentary
+In the Land of Pomegranates,In the Land of Pomeg,"Jan 5, 2018",First Run Features,Documentary
+Painless,Painless,"Sep 21, 2018",Indican Pictures,Thriller/Suspense
+Of Fathers and Sons,Of Fathers and Sons,"Nov 16, 2018",Kino Lorber,Documentary
+Duck Butter,Duck Butter,"Apr 27, 2018",The Orchard,Romantic Comedy
+On the Beach at Night Alone,On the Beach at Nigh,"Nov 17, 2017",Cinema Guild,Drama
+Calling All Earthlings,Calling All Earthlin,"Jun 29, 2018",Carpe Stella,Documentary
+A Whale of a Tale,A Whale of a Tale,"Aug 17, 2018",Fine Line,Documentary
+School of Life,School of Life,"Sep 7, 2018",Distrib Films,Comedy
+Spiral,Spiral,"Jun 22, 2018",Cohen Media Group,Documentary
+The Nun,The Nun,"Jul 8, 1971",,Drama
+The Quake,The Quake,"Dec 14, 2018",Magnolia Pictures,Thriller/Suspense
+Lemonade,Lemonade,"Nov 23, 2018",,Drama
+Bill Nye: Science Guy,Bill Nye: Science Gu,"Oct 27, 2017",PBS Distribution,Documentary
+Dolores,Dolores,"Sep 1, 2017",PBS Distribution,Documentary
+Shoah Four Sisters,Shoah Four Sisters,"Nov 14, 2018",Cohen Media Group,Documentary
+Cuban Food Stories,Cuban Food Stories,"Aug 10, 2018",First Run Features,Documentary
+Postcards From London,Postcards From Londo,"Nov 9, 2018",Strand Releasing,Drama
+"Distant Voices, Still Lives…","Distant Voices, Stil","Aug 31, 2018",Arrow Releasing,Drama
+Chavela,Chavela,"Oct 4, 2017",Music Box Films,Documentary
+In Searching,In Searching,"Nov 9, 2018",Indican Pictures,Adventure
+Intersection,Intersection,"Jun 15, 2018",Indican Pictures,Drama
+The Texture of Falling,The Texture of Falli,"Jun 1, 2018",Self Distributed,Drama
+Edward II,Edward II,"Mar 20, 1992",Film Movement,Drama
+The Long Dumb Road,The Long Dumb Road,"Nov 9, 2018",Universal,Comedy
+Kangaroo,Kangaroo,"Jan 19, 2018",Abramorama Films,Documentary
+Kickboxer: Retaliation,Kickboxer: Retaliati,"Jan 26, 2018",Well Go USA,Action
+Weightless,Weightless,"Nov 9, 2018",Paladin,Drama
+Stella’s Last Weekend,Stella’s Last Weeken,"Oct 12, 2018",Paladin,Comedy
+The Party’s Just Beginning,The Party’s Just Beg,"Dec 7, 2018",The Orchard,Drama
+Brimstone & Glory,Brimstone & Glory,"Oct 27, 2017",Oscilloscope Pict…,Documentary
+Frank and Ava,Frank and Ava,"Dec 7, 2018",Gravitas Ventures,Drama
+The Citizen,The Citizen,"Jul 6, 2018",ArtMattan Films,Drama
+Porto,Porto,"Nov 17, 2017",Kino Lorber,Drama
+The Second Time Around,The Second Time Arou,"Dec 14, 2018",First Run Features,Romantic Comedy
+Song of Granite,Song of Granite,"Nov 15, 2017",Oscilloscope Pict…,Drama
+The Family,The Family,"Aug 3, 2018",Film Movement,Drama
+Under the Wire,Under the Wire,"Nov 16, 2018",Abramorama Films,Documentary
+Reinventing Marvin,Reinventing Marvin,"Mar 30, 2018",,Drama
+The Cage Fighter,The Cage Fighter,"Feb 2, 2018",IFC Films,Documentary
+Over the Limit,Over the Limit,"Oct 3, 2018",Film Movement,Documentary
+The Ghosts of Johnson Woods,The Ghosts of Johnso,"Dec 2, 2016",Driving With Our …,Horror
+Hot to Trot,Hot to Trot,"Aug 24, 2018",First Run Features,Documentary
+Aida’s Secrets,Aida’s Secrets,"Oct 20, 2017",Music Box Films,Documentary
+Nelly,Nelly,"Sep 7, 2018",Cinema Libre,Drama
+State Like Sleep,State Like Sleep,,,Drama
+An L.A. Minute,An L.A. Minute,"Aug 24, 2018",Strand Releasing,Comedy
+Nana,Nana,"Apr 13, 2018",First Run Features,Documentary
+The Paris Opera,The Paris Opera,"Oct 18, 2017",Film Movement,Documentary
+Straight Into a Storm,Straight Into a Stor,"Jun 15, 2018",Abramorama Films,Documentary
+12 Days,12 Days,"Mar 16, 2018",Distrib Films,Documentary
+ACORN and the Firestorm,ACORN and the Firest,"Apr 6, 2018",First Run Features,Documentary
+Shadowman,Shadowman,"Dec 1, 2017",Film Movement,Documentary
+The Tribes of Palos Verdes,The Tribes of Palos ,"Dec 1, 2017",,Drama
+Frank Serpico,Frank Serpico,"Nov 1, 2017",,Documentary
+A Wizard’s Tale,A Wizard’s Tale,"Sep 14, 2018",Blue Fox Entertai…,Adventure
+Félicité,Félicité,"Oct 27, 2017",Strand Releasing,Drama
+West of the Jordan River,West of the Jordan R,"Jan 26, 2018",Kino Lorber,Documentary
+The Fencer,The Fencer,"Jul 21, 2017",CFI,Drama
+The Lost Village,The Lost Village,"Oct 19, 2018",First Run Features,Documentary
+Permanent,Permanent,"Dec 15, 2017",Magnolia Pictures,Comedy
+Rat Film,Rat Film,"Sep 15, 2017",Cinema Guild,Documentary
+Mama Africa,Mama Africa,"Jun 7, 2002",,
+El Pacto,El Pacto,"Oct 26, 2018",Sony Pictures,Horror
+That Way Madness Lies,That Way Madness Lie,"Dec 14, 2018",First Run Features,Documentary
+Marrowbone,Marrowbone,"Apr 13, 2018",Magnet Pictures,Horror
+Beauty & the Beholder,Beauty & the Beholde,"Oct 26, 2018",Reel One Entertai…,Romantic Comedy
+Invisible Hands,Invisible Hands,"Nov 23, 2018",First Run Features,Documentary
+30 Years of Garbage: The Ga…,30 Years of Garbage:,"Jul 28, 2017",Indican Pictures,Documentary
+Two Men Went to War,Two Men Went to War,"Mar 26, 2004",Indican Pictures,Comedy
+Bad Lucky Goat,Bad Lucky Goat,"Oct 13, 2017",Film Movement,Drama
+TVTV: Video Revolutionaries,TVTV: Video Revoluti,"Oct 19, 2018",First Run Features,Documentary
+Billionaire Boys Club,Billionaire Boys Clu,"Aug 17, 2018",Vertical Entertai…,Drama
+To Die is Hard,To Die is Hard,"Dec 17, 2010",Driving With Our …,Comedy
+Higher Power,Higher Power,"May 11, 2018",Magnet Pictures,Thriller/Suspense
+Mobile Homes,Mobile Homes,"Apr 20, 2018",Uncork'd Entertai…,Drama
+Midget Zombie Takeover,Midget Zombie Takeov,"Feb 8, 2013",Driving With Our …,Comedy
+Sweet Virginia,Sweet Virginia,"Nov 17, 2017",,Thriller/Suspense

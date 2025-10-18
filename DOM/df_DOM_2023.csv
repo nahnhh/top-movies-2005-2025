@@ -1,0 +1,587 @@
+Movie,trunc,Release Date,Distributor,Genre
+Barbie,Barbie,"Jul 21, 2023",Warner Bros.,Comedy
+The Super Mario Bros. Movie,The Super Mario Bros,"Apr 5, 2023",Universal,Adventure
+Jurassic Park,Jurassic Park,"Aug 26, 1994",Universal,Adventure
+Spider-Man: Across the Spid…,Spider-Man: Across t,"Jun 2, 2023",Sony Pictures,Adventure
+Guardians of the Galaxy Vol 3,Guardians of the Gal,"May 5, 2023",Walt Disney,Action
+Oppenheimer,Oppenheimer,"Jul 21, 2023",Universal,Drama
+The Little Mermaid,The Little Mermaid,"May 26, 2023",Walt Disney,Musical
+Avatar: The Way of Water,Avatar: The Way of W,"Dec 16, 2022",20th Century Studios,Action
+The Exorcist,The Exorcist,"Dec 26, 1973",Fathom Events,Horror
+Ant-Man and the Wasp: Quant…,Ant-Man and the Wasp,"Feb 17, 2023",Walt Disney,Action
+John Wick: Chapter 4,John Wick: Chapter 4,"Mar 24, 2023",Lionsgate,Action
+Sound of Freedom,Sound of Freedom,"Jul 4, 2023",Angel Studios,Thriller/Suspense
+TAYLOR SWIFT | THE ERAS TOUR,TAYLOR SWIFT | THE E,"Oct 13, 2023",AMC Theatres Dist…,Concert/Perfor…
+Indiana Jones and the Dial …,Indiana Jones and th,"Jun 30, 2023",Walt Disney,Adventure
+Mission: Impossible Dead Re…,Mission: Impossible ,"Jul 12, 2023",Paramount Pictures,Action
+The Hunger Games: The Balla…,The Hunger Games: Th,"Nov 17, 2023",Lionsgate,Action
+Transformers: Rise of the B…,Transformers: Rise o,"Jun 9, 2023",Paramount Pictures,Action
+Creed III,Creed III,"Mar 3, 2023",MGM,Drama
+Elemental,Elemental,"Jun 16, 2023",Walt Disney,Adventure
+Fast X,Fast X,"May 19, 2023",Universal,Action
+Five Nights at Freddy’s,Five Nights at Fredd,"Oct 27, 2023",Universal,Horror
+Wonka,Wonka,"Dec 15, 2023",Warner Bros.,Musical
+Puss in Boots: The Last Wish,Puss in Boots: The L,"Dec 21, 2022",Universal,Adventure
+"Crouching Tiger, Hidden Dragon","Crouching Tiger, Hid","Dec 8, 2000",Sony Pictures Cla…,Action
+Teenage Mutant Ninja Turtle…,Teenage Mutant Ninja,"Aug 2, 2023",Paramount Pictures,Action
+Scream VI,Scream VI,"Mar 10, 2023",Paramount Pictures,Horror
+The Flash,The Flash,"Jun 16, 2023",Warner Bros.,Action
+Trolls Band Together,Trolls Band Together,"Nov 17, 2023",Universal,Adventure
+The Others,The Others,"Aug 10, 2001",Rialto Pictures,Horror
+M3GAN,M3GAN,"Jan 6, 2023",Universal,Horror
+Dungeons & Dragons: Honor A…,Dungeons & Dragons: ,"Mar 31, 2023",Paramount Pictures,Adventure
+The Equalizer 3,The Equalizer 3,"Sep 1, 2023",Sony Pictures,Action
+The Nun II,The Nun II,"Sep 8, 2023",Warner Bros.,Horror
+The Marvels,The Marvels,"Nov 10, 2023",Walt Disney,Adventure
+Meg 2: The Trench,Meg 2: The Trench,"Aug 4, 2023",Warner Bros.,Action
+Insidious: The Red Door,Insidious: The Red D,"Jul 7, 2023",Sony Pictures,Horror
+Aquaman and the Lost Kingdom,Aquaman and the Lost,"Dec 22, 2023",Warner Bros.,Action
+Blue Beetle,Blue Beetle,"Aug 18, 2023",Warner Bros.,Action
+Haunted Mansion,Haunted Mansion,"Jul 28, 2023",Walt Disney,Comedy
+Evil Dead Rise,Evil Dead Rise,"Apr 21, 2023",Warner Bros.,Horror
+Killers of the Flower Moon,Killers of the Flowe,"Oct 20, 2023",Paramount Pictures,Western
+The Exorcist: Believer,The Exorcist: Believ,"Oct 6, 2023",Universal,Horror
+PAW Patrol: The Mighty Movie,PAW Patrol: The Migh,"Sep 29, 2023",Paramount Pictures,Adventure
+Cocaine Bear,Cocaine Bear,"Feb 24, 2023",Universal,Black Comedy
+A Man Called Otto,A Man Called Otto,"Dec 30, 2022",Sony Pictures,Comedy
+Wish,Wish,"Nov 22, 2023",Walt Disney,Adventure
+Napoleon,Napoleon,"Nov 22, 2023",Sony Pictures,Drama
+Love Actually,Love Actually,"Nov 7, 2003",Universal,Romantic Comedy
+Shazam! Fury of the Gods,Shazam! Fury of the ,"Mar 17, 2023",Warner Bros.,Action
+Migration,Migration,"Dec 22, 2023",Universal,Adventure
+Saw X,Saw X,"Sep 29, 2023",Lionsgate,Horror
+AIR,AIR,"Apr 5, 2023",Amazon Studios,Drama
+Jesus Revolution,Jesus Revolution,"Feb 24, 2023",Lionsgate,Drama
+No Hard Feelings,No Hard Feelings,"Jun 23, 2023",Sony Pictures,Romantic Comedy
+Talk To Me,Talk To Me,"Jul 28, 2023",A24,Horror
+Godzilla Minus One,Godzilla Minus One,"Dec 1, 2023",Toho International,Action
+Gran Turismo: Based on a Tr…,Gran Turismo: Based ,"Aug 25, 2023",Sony Pictures,Action
+The Color Purple,The Color Purple,"Dec 25, 2023",Warner Bros.,Musical
+The Boogeyman,The Boogeyman,"Jun 2, 2023",20th Century Studios,Horror
+A Haunting in Venice,A Haunting in Venice,"Sep 15, 2023",20th Century Studios,Thriller/Suspense
+The Creator,The Creator,"Sep 29, 2023",20th Century Studios,Thriller/Suspense
+80 for Brady,80 for Brady,"Feb 3, 2023",Paramount Pictures,Comedy
+The Boy and the Heron,The Boy and the Hero,"Dec 8, 2023",GKIDS,Adventure
+Knock at the Cabin,Knock at the Cabin,"Feb 3, 2023",Universal,Thriller/Suspense
+RENAISSANCE: A FILM BY BEYO…,RENAISSANCE: A FILM ,"Dec 1, 2023",AMC Theatres Dist…,Concert/Perfor…
+Missing,Missing,"Jan 20, 2023",Sony Pictures,Thriller/Suspense
+Plane,Plane,"Jan 13, 2023",Lionsgate,Action
+65,65,"Mar 10, 2023",Sony Pictures,Thriller/Suspense
+Thanksgiving,Thanksgiving,"Nov 17, 2023",Sony Pictures,Horror
+My Big Fat Greek Wedding 3,My Big Fat Greek Wed,"Sep 8, 2023",Focus Features,Romantic Comedy
+Asteroid City,Asteroid City,"Jun 16, 2023",Focus Features,Comedy
+Magic Mike’s Last Dance,Magic Mike’s Last Da,"Feb 10, 2023",Warner Bros.,Comedy
+Anyone But You,Anyone But You,"Dec 22, 2023",Sony Pictures,Romantic Comedy
+Strays,Strays,"Aug 18, 2023",Universal,Comedy
+The Boys in the Boat,The Boys in the Boat,"Dec 25, 2023",Amazon MGM Studios,Drama
+Priscilla,Priscilla,"Nov 3, 2023",A24,Drama
+"Are You There God? It’s Me,…",Are You There God? I,"Apr 28, 2023",Lionsgate,Comedy
+The Pope’s Exorcist,The Pope’s Exorcist,"Apr 14, 2023",Sony Pictures,Horror
+The Holdovers,The Holdovers,"Oct 27, 2023",Focus Features,Comedy
+The Blackening,The Blackening,"Jun 16, 2023",Lionsgate,Horror
+Book Club: The Next Chapter,Book Club: The Next ,"May 12, 2023",Focus Features,Romantic Comedy
+Pathaan,Pathaan,"Jan 25, 2023",Yash Raj Films,Thriller/Suspense
+Black Panther: Wakanda Forever,Black Panther: Wakan,"Nov 11, 2022",Walt Disney,Action
+Renfield,Renfield,"Apr 14, 2023",Universal,Black Comedy
+The Blind,The Blind,"Sep 28, 2023",Fathom Events,Drama
+Demon Slayer: Kimetsu No Ya…,Demon Slayer: Kimets,"Mar 3, 2023",Crunchyroll,Adventure
+Guy Ritchie’s The Covenant,Guy Ritchie’s The Co,"Apr 21, 2023",MGM,Action
+Expend4bles,Expend4bles,"Sep 22, 2023",Lionsgate,Action
+Champions,Champions,"Mar 10, 2023",Focus Features,Comedy
+The Iron Claw,The Iron Claw,"Dec 22, 2023",A24,Drama
+"Ruby Gillman, Teenage Kraken","Ruby Gillman, Teenag","Jun 30, 2023",Universal,Comedy
+Jawan,Jawan,"Sep 7, 2023",Yash Raj Films,Action
+Titanic,Titanic,"Dec 19, 1997",Paramount Pictures,Drama
+Animal,Animal,"Dec 1, 2023",Moksha Movies,Action
+Dumb Money,Dumb Money,"Sep 15, 2023",Sony Pictures,Comedy
+The Last Voyage of the Demeter,The Last Voyage of t,"Aug 11, 2023",Universal,Horror
+Joy Ride,Joy Ride,"Jul 7, 2023",Lionsgate,Comedy
+The Whale,The Whale,"Dec 9, 2022",A24,Drama
+About My Father,About My Father,"May 26, 2023",Lionsgate,Comedy
+His Only Son,His Only Son,"Mar 31, 2023",Angel Studios,Drama
+Bottoms,Bottoms,"Aug 25, 2023",MGM,Comedy
+The Shift,The Shift,"Dec 1, 2023",Angel Studios,Thriller/Suspense
+After Death,After Death,"Oct 27, 2023",Angel Studios,Documentary
+Saltburn,Saltburn,"Nov 17, 2023",Amazon MGM Studios,Thriller/Suspense
+Past Lives,Past Lives,"Jun 2, 2023",A24,Drama
+Brotherhood of the Wolf,Brotherhood of the W,"Jan 11, 2002",Rialto Pictures,Action
+Suzume,Suzume,"Apr 14, 2023",Sony Pictures,Adventure
+Ferrari,Ferrari,"Dec 25, 2023",Neon,Drama
+The Machine,The Machine,"May 26, 2023",Sony Pictures,Action
+Whitney Houston I Wanna Dan…,Whitney Houston I Wa,"Dec 23, 2022",Sony Pictures,Drama
+Poor Things,Poor Things,"Dec 8, 2023",Searchlight Pictures,Black Comedy
+The Nightmare Before Christmas,The Nightmare Before,"Oct 13, 1993",Walt Disney,Musical
+House Party,House Party,"Jan 13, 2023",Warner Bros.,Comedy
+Radical,Radical,"Nov 3, 2023",Pantelion Films,Drama
+Salaar: Part 1 Ceasefire,Salaar: Part 1 Cease,"Dec 22, 2023",Prathyangira Cine…,Action
+Beau is Afraid,Beau is Afraid,"Apr 21, 2023",A24,Horror
+Silent Night,Silent Night,"Dec 1, 2023",Lionsgate,Action
+BTS: Yet to Come in Cinemas,BTS: Yet to Come in ,"Feb 1, 2023",Trafalgar Releasing,Concert/Perfor…
+The Hill,The Hill,"Aug 25, 2023",Briarcliff Entert…,Drama
+Sisu,Sisu,"Apr 28, 2023",Lionsgate,Action
+Star Wars Ep. VI: Return of…,Star Wars Ep. VI: Re,"Mar 14, 1997",20th Century Studios,Adventure
+Everything Everywhere All A…,Everything Everywher,"Mar 25, 2022",A24,Action
+Dunki,Dunki,"Dec 21, 2023",Yash Raj Films,Comedy
+Retribution,Retribution,"Aug 25, 2023",Roadside Attractions,Action
+Next Goal Wins,Next Goal Wins,"Nov 17, 2023",Searchlight Pictures,Comedy
+Babylon,Babylon,"Dec 23, 2022",Paramount Pictures,Drama
+Operation Fortune: Ruse de …,Operation Fortune: R,"Dec 31, 2022",Lionsgate,Action
+Coraline,Coraline,"Feb 6, 2009",Fathom Events,Adventure
+Love Again,Love Again,"May 5, 2023",Sony Pictures,Romantic Comedy
+Journey to Bethlehem,Journey to Bethlehem,"Nov 10, 2023",Sony Pictures,Musical
+Dream Scenario,Dream Scenario,"Nov 10, 2023",A24,Black Comedy
+The Fabelmans,The Fabelmans,"Nov 23, 2022",Universal,Drama
+The Chosen Season 3 Finale,The Chosen Season 3 ,"Feb 2, 2023",Fathom Events,Drama
+Nefarious,Nefarious,"Apr 14, 2023",SDG Releasing,Thriller/Suspense
+Big George Foreman: The Mir…,Big George Foreman: ,"Apr 28, 2023",Sony Pictures,Drama
+Waitress: The Musical,Waitress: The Musica,"Dec 7, 2023",Bleecker Street,Concert/Perfor…
+Tiger 3,Tiger 3,"Nov 11, 2023",Yash Raj Films,Action
+Women Talking,Women Talking,"Dec 23, 2022",United Artists,Drama
+Freelance,Freelance,"Oct 27, 2023",Relativity,Action
+Infinity Pool,Infinity Pool,"Jan 27, 2023",Neon,Horror
+Stop Making Sense,Stop Making Sense,"Oct 19, 1984",A24,Concert/Perfor…
+The Wandering Earth 2,The Wandering Earth ,"Jan 22, 2023",Well Go USA,Action
+The Way,The Way,"Oct 7, 2011",Fathom Events,Drama
+Mummies,Mummies,"Feb 24, 2023",Warner Bros.,Adventure
+Hocus Pocus,Hocus Pocus,"Jul 16, 1993",Walt Disney,Comedy
+You Hurt My Feelings,You Hurt My Feelings,"May 26, 2023",A24,Comedy
+Kandahar,Kandahar,"May 26, 2023",Briarcliff Entert…,Action
+Golda,Golda,"Aug 25, 2023",,Drama
+Christmas with the Chosen: …,Christmas with the C,"Dec 12, 2023",Fathom Events,Concert/Perfor…
+It Lives Inside,It Lives Inside,"Sep 22, 2023",Neon,Horror
+Hypnotic,Hypnotic,"May 12, 2023",Ketchup Entertain…,Thriller/Suspense
+Marlowe,Marlowe,"Feb 15, 2023",Open Road,Thriller/Suspense
+The Amazing Maurice,The Amazing Maurice,"Feb 3, 2023",Viva Pictures,Adventure
+Monty Python and the Holy G…,Monty Python and the,"May 10, 1975",Iconic Releasing,Comedy
+Jailer,Jailer,"Aug 9, 2023",Ayngaran Internat…,Action
+Theater Camp,Theater Camp,"Jul 14, 2023",Searchlight Pictures,Comedy
+Ponniyin Selvan: Part II,Ponniyin Selvan: Par,"Apr 28, 2023",Zee Studios,Action
+Anatomy of a Fall,Anatomy of a Fall,"Oct 13, 2023",Neon,Drama
+Left Behind: Rise of the An…,Left Behind: Rise of,"Jan 26, 2023",Fathom Events,Thriller/Suspense
+The Journey: A Music Special,The Journey: A Music,"Apr 2, 2023",Fathom Events,Documentary
+Chevalier,Chevalier,"Apr 21, 2023",Searchlight Pictures,Drama
+Mafia Mamma,Mafia Mamma,"Apr 14, 2023",Bleecker Street,Comedy
+A Thousand and One,A Thousand and One,"Mar 31, 2023",Focus Features,Drama
+Violent Night,Violent Night,"Dec 2, 2022",Universal,Comedy
+What Happens Later,What Happens Later,"Nov 3, 2023",Bleecker Street,Romantic Comedy
+Rocky Aur Rani Kii Prem Kah…,Rocky Aur Rani Kii P,"Jul 28, 2023",Viacom18 Motion P…,Comedy
+2023 Oscar Shorts,2023 Oscar Shorts,"Feb 17, 2023",ShortsHD,Multiple Genres
+Elf,Elf,"Nov 7, 2003",New Line,Comedy
+Living,Living,"Dec 23, 2022",Sony Pictures Cla…,Drama
+The Menu,The Menu,"Nov 18, 2022",Searchlight Pictures,Black Comedy
+Come Out in Jesus Name,Come Out in Jesus Na,"Mar 13, 2023",Fathom Events,Documentary
+Tu Jhoothi Main Makkaar,Tu Jhoothi Main Makk,"Mar 8, 2023",Yash Raj Films,Romantic Comedy
+The Miracle Club,The Miracle Club,"Jul 14, 2023",Sony Pictures Cla…,Comedy
+Oldboy,Oldboy,"Mar 25, 2005",Neon,Thriller/Suspense
+Blackberry,Blackberry,"May 12, 2023",IFC Films,Comedy
+Chocolat,Chocolat,"Sep 18, 2015",Janus Films,Drama
+A Good Person,A Good Person,"Mar 24, 2023",MGM,Drama
+Fear,Fear,"Jan 27, 2023",Hidden Empire Rel…,Horror
+Moving On,Moving On,"Mar 17, 2023",Roadside Attractions,Comedy
+Winnie-The-Pooh: Blood and …,Winnie-The-Pooh: Blo,"Feb 15, 2023",Fathom Events,Horror
+Skinamarink,Skinamarink,"Jan 13, 2023",IFC Midnight,Horror
+Die Hard,Die Hard,"Jul 15, 1988",20th Century Studios,Action
+Jules,Jules,"Aug 11, 2023",Bleecker Street,Drama
+That Time I Got Reincarnate…,That Time I Got Rein,"Jan 20, 2023",Crunchyroll,Adventure
+Somewhere in Queens,Somewhere in Queens,"Apr 21, 2023",Roadside Attractions,Comedy
+Delicatessen,Delicatessen,"Apr 3, 1992",Rialto Pictures,Comedy
+The Marsh King’s Daughter,The Marsh King’s Dau,"Nov 3, 2023",Roadside Attractions,Thriller/Suspense
+Creation of the Gods I: Kin…,Creation of the Gods,"Sep 20, 2023",Well Go USA,Adventure
+American Fiction,American Fiction,"Dec 15, 2023",Amazon MGM Studios,Comedy
+The Retirement Plan,The Retirement Plan,"Sep 15, 2023",Falling Forward F…,Action
+Route 60: The Biblical Highway,Route 60: The Biblic,"Sep 18, 2023",Fathom Events,Documentary
+Princess Mononoke,Princess Mononoke,"Oct 29, 1999",Fathom Events,Action
+Polite Society,Polite Society,"Apr 28, 2023",Focus Features,Action
+The Banshees of Inisherin,The Banshees of Inis,"Oct 21, 2022",Searchlight Pictures,Drama
+The Polar Express,The Polar Express,"Nov 10, 2004",Warner Bros.,Adventure
+The Quiet Girl,The Quiet Girl,"Dec 16, 2022",Super LTD,Drama
+Spirited Away: Live on Stage,Spirited Away: Live ,"Apr 23, 2023",Fathom Events,Concert/Perfor…
+Dicks: The Musical,Dicks: The Musical,"Oct 6, 2023",A24,Musical
+Eileen,Eileen,"Dec 1, 2023",Neon,Drama
+Maybe I Do,Maybe I Do,"Jan 27, 2023",Vertical Entertai…,Romantic Comedy
+The First Slam Dunk,The First Slam Dunk,"Jul 28, 2023",GKIDS,Comedy
+Billie Eilish Live at the 0…,Billie Eilish Live a,"Jan 27, 2023",Trafalgar Releasing,Concert/Perfor…
+The Big Lebowski,The Big Lebowski,"Mar 6, 1998",Fathom Events,Comedy
+Back to the Future,Back to the Future,"Jul 3, 1985",Fathom Events,Adventure
+TÁR,TÁR,"Oct 7, 2022",Focus Features,Drama
+The Lost King,The Lost King,"Mar 24, 2023",IFC Films,Comedy
+Sword Art Online Progressiv…,Sword Art Online Pro,"Feb 3, 2023",Crunchyroll,Action
+The Lord of the Rings: The …,The Lord of the Ring,"Dec 17, 2003",Fathom Events,Adventure
+Gadar 2,Gadar 2,"Aug 11, 2023",Zee Studios,Action
+Camp Hideout,Camp Hideout,"Sep 15, 2023",Roadside Attractions,Adventure
+Strange World,Strange World,"Nov 23, 2022",Walt Disney,Adventure
+Close,Close,"Dec 2, 2022",A24,Drama
+National Lampoon’s Christma…,National Lampoon’s C,"Dec 1, 1989",Warner Bros.,Comedy
+Emily,Emily,"Feb 17, 2023",Bleecker Street,Drama
+Knights of the Zodiac,Knights of the Zodia,"May 12, 2023",Sony Pictures,Action
+Waltair Veerayya,Waltair Veerayya,"Jan 13, 2023",Friday Entertainment,Drama
+Broker,Broker,"Dec 26, 2022",Neon,Drama
+Contempt,Contempt,"Mar 14, 2008",Rialto Pictures,Drama
+Inside,Inside,"Mar 17, 2023",Focus Features,Thriller/Suspense
+The Roundup: No Way Out,The Roundup: No Way ,"Jun 2, 2023",Capelight Pictures,Action
+Dr. Seuss’ The Grinch,Dr. Seuss’ The Grinc,"Nov 9, 2018",Universal,Adventure
+Fool’s Paradise,Fool’s Paradise,"May 12, 2023",Roadside Attractions,Comedy
+The Domino Revival,The Domino Revival,"Oct 24, 2023",Fathom Events,Documentary
+Lost in the Stars,Lost in the Stars,"Jul 7, 2023",CMC Pictures,Thriller/Suspense
+It’s A Wonderful Knife,It’s A Wonderful Kni,"Nov 10, 2023",RLJ Entertainment,Horror
+Paint,Paint,"Apr 7, 2023",IFC Films,Comedy
+Hidden Blade,Hidden Blade,"Feb 17, 2023",Well Go USA,Drama
+Return to Seoul,Return to Seoul,"Dec 2, 2022",Sony Pictures Cla…,Drama
+The Royal Hotel,The Royal Hotel,"Oct 6, 2023",Neon,Thriller/Suspense
+The Devil Conspiracy,The Devil Conspiracy,"Jan 13, 2023",Third Day Product…,Horror
+ODESZA: The Last Goodbye Ci…,ODESZA: The Last Goo,"Jul 7, 2023",Trafalgar Releasing,Concert/Perfor…
+Showing Up,Showing Up,"Apr 7, 2023",A24,Drama
+How to Blow Up a Pipeline,How to Blow Up a Pip,"Apr 7, 2023",Neon,Drama
+Rally Road Racers,Rally Road Racers,"May 12, 2023",Viva Pictures,Adventure
+Jaws,Jaws,"Jun 20, 1975",Fathom Events,Thriller/Suspense
+Harry Potter and the Deathl…,Harry Potter and the,"Nov 19, 2010",Warner Bros.,Adventure
+It Ain’t Over,It Ain’t Over,"May 12, 2023",Sony Pictures Cla…,Documentary
+How the Grinch Stole Christmas,How the Grinch Stole,"Nov 17, 2000",Universal,Adventure
+The Goonies,The Goonies,"Jun 7, 1985",Warner Bros.,Adventure
+Shortcomings,Shortcomings,"Aug 4, 2023",Sony Pictures Cla…,Comedy
+Devotion,Devotion,"Nov 23, 2022",Sony Pictures,Action
+Master Gardener,Master Gardener,"May 19, 2023",Magnolia Pictures,Thriller/Suspense
+Fallen Leaves,Fallen Leaves,"Nov 17, 2023",MUBI,Drama
+She Came to Me,She Came to Me,"Oct 6, 2023",Vertical Entertai…,Romantic Comedy
+Beetle Juice,Beetle Juice,"Mar 30, 1988",Warner Bros.,Comedy
+Joan Baez I Am a Noise,Joan Baez I Am a Noi,"Oct 6, 2023",Magnolia Pictures,Documentary
+EO,EO,"Nov 18, 2022",Janus Films,Drama
+Corsage,Corsage,"Dec 23, 2022",IFC Films,Drama
+Aftersun,Aftersun,"Oct 21, 2022",A24,Drama
+CatVideoFest 2023,CatVideoFest 2023,"Aug 4, 2023",Oscilloscope Pict…,Documentary
+Shin Ultraman,Shin Ultraman,"Jan 11, 2023",Fathom Events,Action
+Mirando al Cielo,Mirando al Cielo,"Apr 17, 2023",Fathom Events,Drama
+Minions: The Rise of Gru,Minions: The Rise of,"Jul 1, 2022",Universal,Adventure
+The Persian Version,The Persian Version,"Oct 20, 2023",Sony Pictures Cla…,Romantic Comedy
+Scarface,Scarface,"Dec 9, 1983",Fathom Events,Drama
+Of an Age,Of an Age,"Feb 17, 2023",Focus Features,Drama
+Passages,Passages,"Aug 4, 2023",MUBI,Drama
+When Evil Lurks,When Evil Lurks,"Oct 6, 2023",IFC Films,Horror
+"RRR: Rise, Roar, Revolt","RRR: Rise, Roar, Rev","Mar 24, 2022",Variance Films,Action
+Sweetwater,Sweetwater,"Apr 14, 2023",Briarcliff Entert…,Drama
+Consecration,Consecration,"Feb 10, 2023",IFC Films,Horror
+Sanctuary,Sanctuary,"May 19, 2023",Neon,Thriller/Suspense
+The Abyss,The Abyss,"Aug 9, 1989",20th Century Fox,Adventure
+The Dark Knight,The Dark Knight,"Jul 18, 2008",Warner Bros.,Action
+Strange Way of Life,Strange Way of Life,"Oct 6, 2023",Sony Pictures Cla…,Western
+The Good Mother,The Good Mother,"Sep 1, 2023",Vertical Entertai…,Thriller/Suspense
+Triangle of Sadness,Triangle of Sadness,"Oct 7, 2022",Neon,Black Comedy
+The Shining,The Shining,"May 23, 1980",Fathom Events,Horror
+The Oath,The Oath,"Dec 8, 2023",Freestyle Releasing,Action
+The Zone of Interest,The Zone of Interest,"Dec 15, 2023",A24,Drama
+Under the Sea 3D,Under the Sea 3D,"Feb 13, 2009",Warner Bros.,Documentary
+The Son,The Son,"Nov 25, 2022",Sony Pictures Cla…,Drama
+A Father’s Heart,A Father’s Heart,"May 1, 2023",Fathom Events,Documentary
+They Live,They Live,"Nov 4, 1988",Fathom Events,Thriller/Suspense
+Carlos,Carlos,"Sep 23, 2023",Sony Pictures Cla…,Documentary
+Amerikatsi,Amerikatsi,"Sep 8, 2023",Variance Films,Comedy
+Aristotle and Dante Discove…,Aristotle and Dante ,"Sep 8, 2023",Blue Fox Entertai…,Drama
+Mending the Line,Mending the Line,"Jun 9, 2023",Blue Fox Entertai…,Drama
+Elvis,Elvis,"Jun 24, 2022",Warner Bros.,Drama
+The Wizard of Oz,The Wizard of Oz,"Sep 23, 2009",Warner Bros.,Musical
+All of Us Strangers,All of Us Strangers,"Dec 22, 2023",Searchlight Pictures,Drama
+Mother Teresa & Me,Mother Teresa & Me,"Oct 5, 2023",Fathom Events,Drama
+Go West,Go West,"Jul 19, 2023",Purdie Distribution,Western
+Terrifier,Terrifier,"Jul 19, 2023",Iconic Releasing,Horror
+UFC 293: Adesyana vs. Stric…,UFC 293: Adesyana vs,"Sep 9, 2023",Iconic Releasing,Concert/Perfor…
+Selfiee,Selfiee,"Feb 24, 2023",Star Studios,Action
+Turn Every Page: The Advent…,Turn Every Page: The,"Dec 30, 2022",Sony Pictures Cla…,Documentary
+Wild Life,Wild Life,"Apr 14, 2023",National Geograph…,Documentary
+Children of the Corn,Children of the Corn,"Mar 3, 2023",RLJ Entertainment,Horror
+Terrifier 2,Terrifier 2,"Oct 6, 2022",Iconic Releasing,Horror
+Farewell My Concubine,Farewell My Concubin,"Oct 13, 1993",Film Movement,Drama
+Monster,Monster,"Nov 22, 2023",Well Go USA,Thriller/Suspense
+Outlaw Johnny Black,Outlaw Johnny Black,"Sep 15, 2023",Samuel Goldwyn Films,Western
+The Lesson,The Lesson,"Jul 7, 2023",Bleecker Street,Thriller/Suspense
+Psycho-Pass Providence,Psycho-Pass Providen,"Jul 14, 2023",Crunchyroll,Thriller/Suspense
+UFC 291: Poirier vs. Gaethje 2,UFC 291: Poirier vs.,"Jul 29, 2023",Iconic Releasing,Concert/Perfor…
+The Inventor,The Inventor,"Sep 15, 2023",Blue Fox Entertai…,Adventure
+Joyland,Joyland,"Apr 7, 2023",Oscilloscope Pict…,Drama
+Dreamin’ Wild,Dreamin’ Wild,"Aug 4, 2023",Roadside Attractions,Drama
+The Eight Mountains,The Eight Mountains,"Apr 28, 2023",Janus Films,Drama
+Southern Gospel,Southern Gospel,"Mar 10, 2023",Iconic Releasing,Drama
+School of Magical Animals,School of Magical An,"Mar 24, 2023",Blue Fox Entertai…,Adventure
+Born to Fly,Born to Fly,"Apr 28, 2023",Well Go USA,Action
+Every Body,Every Body,"Jun 30, 2023",Focus Features,Documentary
+Fremont,Fremont,"Aug 25, 2023",Music Box Films,Documentary
+Blue Giant,Blue Giant,"Oct 8, 2023",GKIDS,Drama
+American Graffiti,American Graffiti,"Aug 11, 1973",Fathom Events,Drama
+Empire of Light,Empire of Light,"Dec 9, 2022",Searchlight Pictures,Drama
+The Essential Church,The Essential Church,"Jul 28, 2023",Atlas Distribution,Documentary
+Common Ground,Common Ground,"Sep 29, 2023",Area 23a,Documentary
+Afire,Afire,"Jul 14, 2023",Janus Films,Drama
+The Land Before Time,The Land Before Time,"Nov 18, 1988",Universal,Adventure
+The Secret Life of Pets,The Secret Life of P,"Jul 8, 2016",Universal,Adventure
+Shelter in Solitude,Shelter in Solitude,"Oct 6, 2023",,Comedy
+Il conformista,Il conformista,"Aug 29, 2014",Kino Lorber,Drama
+The Thing,The Thing,"Jun 25, 1982",Universal,Horror
+The Bad Guys,The Bad Guys,"Apr 22, 2022",Universal,Comedy
+Malum,Malum,"Mar 31, 2023",Welcome Villain F…,Horror
+All The Beauty And The Bloo…,All The Beauty And T,"Nov 23, 2022",Neon,Documentary
+One Fine Morning,One Fine Morning,"Jan 27, 2023",Sony Pictures Cla…,Drama
+Scrapper,Scrapper,"Aug 25, 2023",Kino Lorber,Drama
+Saint Omer,Saint Omer,"Dec 9, 2022",Super LTD,Drama
+The Wicker Man,The Wicker Man,"Aug 7, 1974",Rialto Pictures,Horror
+ET: The Extra-Terrestrial,ET: The Extra-Terres,"Jun 11, 1982",NCM Fathom,Adventure
+I Can,I Can,"Sep 22, 2023",Atlas Distribution,Drama
+Landscape with Invisible Hand,Landscape with Invis,"Aug 18, 2023",MGM,Drama
+Shrek 2,Shrek 2,"May 19, 2004",Dreamworks SKG,Adventure
+Born to be Wild 3D,Born to be Wild 3D,"Apr 8, 2011",Warner Bros.,Documentary
+Lourdes,Lourdes,"Jun 25, 2021",Fathom Events,Documentary
+When You Finish Saving the …,When You Finish Savi,"Jan 20, 2023",A24,Comedy
+The Canterville Ghost,The Canterville Ghos,"Oct 20, 2023",Blue Fox Entertai…,Adventure
+Enys Men,Enys Men,"Mar 31, 2023",Neon,Horror
+Shrek,Shrek,"May 18, 2001",Dreamworks SKG,Adventure
+"Lyle, Lyle, Crocodile","Lyle, Lyle, Crocodil","Oct 7, 2022",Sony Pictures,Musical
+Onyx the Fortuitous and the…,Onyx the Fortuitous ,"Oct 19, 2023",Fathom Events,Comedy
+Close to Vermeer,Close to Vermeer,"May 26, 2023",Kino Lorber,Documentary
+The Wrath of Becky,The Wrath of Becky,"May 26, 2023",Quiver,Horror
+The Other Zoey,The Other Zoey,"Oct 20, 2023",Brainstorm Media,Romantic Comedy
+Chile ‘76,Chile ‘76,"May 5, 2023",Kino Lorber,Thriller/Suspense
+Anselm,Anselm,"Dec 8, 2023",Janus Films,Documentary
+The Highest of Stakes,The Highest of Stake,"Aug 4, 2023",Indican Pictures,Documentary
+The Starling Girl,The Starling Girl,"May 12, 2023",Bleecker Street,Drama
+¡Que viva México!,¡Que viva México!,"Mar 24, 2023",Sony Pictures,Comedy
+Mamma Mia!,Mamma Mia!,"Jul 18, 2008",Universal,Musical
+La Usurpadora,La Usurpadora,"Apr 7, 2023",Pantelion Films,Musical
+Hubble 3D,Hubble 3D,"Mar 19, 2010",Warner Bros.,Documentary
+Monica,Monica,"May 12, 2023",IFC Films,Drama
+Dazed and Confused,Dazed and Confused,"Sep 24, 1993",Universal,Comedy
+I Like Movies,I Like Movies,"Mar 10, 2023",Mongrel Media,Comedy
+32 Sounds,32 Sounds,"Apr 28, 2023",,Documentary
+The Woman King,The Woman King,"Sep 16, 2022",Sony Pictures,Action
+Trolls,Trolls,"Nov 4, 2016",20th Century Fox,Adventure
+The Last Rider,The Last Rider,"Jun 23, 2023",Roadside Attractions,Documentary
+No Bears,No Bears,"Dec 23, 2022",Janus Films,Drama
+Ransomed,Ransomed,"Aug 4, 2023",Well Go USA,Action
+Path Of The Panther,Path Of The Panther,"Feb 24, 2023",,Documentary
+The Magic Flute,The Magic Flute,"Mar 10, 2023",Shout! Factory,Adventure
+iMordecai,iMordecai,"Feb 10, 2023",Greenwich,Drama
+The Kill Room,The Kill Room,"Sep 29, 2023",Shout! Factory,Thriller/Suspense
+Birth/Rebirth,Birth/Rebirth,"Aug 18, 2023",IFC Films,Horror
+Unit 262,Unit 262,"Dec 8, 2023",Indican Pictures,Action
+UFC 286,UFC 286,"Mar 18, 2023",Iconic Releasing,Concert/Perfor…
+Little Richard: I Am Everyt…,Little Richard: I Am,"Apr 11, 2023",Magnolia Pictures,Documentary
+Black Adam,Black Adam,"Oct 21, 2022",Warner Bros.,Action
+The Mummy,The Mummy,"May 7, 1999",Universal,Adventure
+Lonely Castle in the Mirror,Lonely Castle in the,"Jun 21, 2023",GKIDS,Drama
+Decision to Leave,Decision to Leave,"Oct 14, 2022",MUBI,Drama
+Despicable Me,Despicable Me,"Jul 9, 2010",Universal,Adventure
+"The Tunnel to Summer, the E…",The Tunnel to Summer,"Nov 3, 2023",Sentai Filmworks,Drama
+The Angry Black Girl and He…,The Angry Black Girl,"Jun 9, 2023",RLJ Entertainment,Horror
+Kaguya-sama: Love Is War — …,Kaguya-sama: Love Is,"Feb 14, 2023",Crunchyroll,Drama
+Dr. Seuss' The Lorax,Dr. Seuss' The Lorax,"Mar 2, 2012",Universal,Adventure
+The Pot au Feu,The Pot au Feu,"Nov 10, 2023",IFC Films,Drama
+Malibu Horror Story,Malibu Horror Story,"Sep 1, 2023",Iconic Releasing,Horror
+Origin,Origin,"Dec 8, 2023",Neon,Drama
+Peeping Tom,Peeping Tom,"Feb 5, 1999",Rialto Pictures,Thriller/Suspense
+Day By Day,Day By Day,"Aug 11, 2023",Utopia,Documentary
+Squaring the Circle,Squaring the Circle,"Jun 7, 2023",Utopia,Documentary
+Casper,Casper,"May 26, 1995",Universal,Comedy
+Blue Jean,Blue Jean,"Jun 9, 2023",Magnolia Pictures,Drama
+Scott Pilgrim vs. The World,Scott Pilgrim vs. Th,"Aug 13, 2010",Universal,Comedy
+Sick of Myself,Sick of Myself,"Apr 12, 2023",Utopia,Black Comedy
+The Secret Life of Pets 2,The Secret Life of P,"Jun 7, 2019",Universal,Adventure
+L'immensita,L'immensita,"May 12, 2023",Music Box Films,Drama
+Carmen,Carmen,"Apr 21, 2023",Sony Pictures Cla…,Drama
+Divinity,Divinity,"Oct 13, 2023",Utopia,Thriller/Suspense
+The Lost Weekend: A Love Story,The Lost Weekend: A ,"Apr 13, 2023",Iconic Releasing,Documentary
+The Childe,The Childe,"Jun 30, 2023",Well Go USA,Action
+The Wicker Man,The Wicker Man,"Sep 1, 2006",Warner Bros.,Horror
+Holy Spider (عنكبوت مقدس)…,Holy Spider (عنكبوت ,"Oct 28, 2022",Utopia,Drama
+The Moon,The Moon,"Aug 18, 2023",Well Go USA,Drama
+Invisible Beauty,Invisible Beauty,"Sep 15, 2023",Magnolia Pictures,Documentary
+The Sweet East,The Sweet East,"Dec 1, 2023",Utopia,Drama
+Lakota Nation vs. United St…,Lakota Nation vs. Un,"Jul 14, 2023",IFC Films,Documentary
+"My Sailor, My Love","My Sailor, My Love","Sep 22, 2023",Music Box Films,Drama
+Linoleum,Linoleum,"Feb 24, 2023",Shout! Factory,Comedy
+The Origin of Evil,The Origin of Evil,"Sep 22, 2023",IFC Films,Thriller/Suspense
+Dr. Cheon and the Lost Tali…,Dr. Cheon and the Lo,"Oct 6, 2023",Well Go USA,Drama
+Other People’s Children,Other People’s Child,"Apr 21, 2023",Music Box Films,Drama
+Menus-Plaisirs Les Troisgros,Menus-Plaisirs Les T,"Nov 22, 2023",Zipporah,Documentary
+Juniper,Juniper,"Feb 24, 2023",Greenwich,Drama
+Daliland,Daliland,"Jun 9, 2023",Magnolia Pictures,Drama
+Noryang: Deadly Sea,Noryang: Deadly Sea,"Dec 22, 2023",Well Go USA,Action
+I Heard the Bells,I Heard the Bells,"Dec 1, 2022",Fathom Events,Drama
+Scarlet,Scarlet,"Jun 9, 2023",Kino Lorber,Drama
+Memory,Memory,"Dec 22, 2023",Ketchup Entertain…,Drama
+Winter Kills,Winter Kills,"May 18, 1979",Rialto Pictures,Drama
+Kokomo City,Kokomo City,"Jul 28, 2023",Magnolia Pictures,Documentary
+Bunker,Bunker,"Feb 24, 2023",Blue Fox Entertai…,Horror
+Una vita difficile,Una vita difficile,"Feb 3, 2023",Rialto Pictures,Drama
+Ticket to Paradise,Ticket to Paradise,"Oct 21, 2022",Universal,Romantic Comedy
+The League,The League,"Jul 14, 2023",Magnolia Pictures,Documentary
+Cinema Sabaya,Cinema Sabaya,"Feb 10, 2023",Kino Lorber,Drama
+The Eternal Memory,The Eternal Memory,"Aug 11, 2023",MTV Documentary F…,Documentary
+The Unknown Country,The Unknown Country,"Jul 28, 2023",Music Box Films,Drama
+Freud’s Last Session,Freud’s Last Session,"Dec 22, 2023",Sony Pictures Cla…,Drama
+Ride On,Ride On,"Apr 7, 2023",Well Go USA,Action
+Smoking Causes Coughing,Smoking Causes Cough,"Mar 31, 2023",Magnet Releasing,Comedy
+Godland,Godland,"Feb 3, 2023",Janus Films,Drama
+The Forger,The Forger,"Mar 3, 2023",Kino Lorber,Drama
+The Trial,The Trial,"Feb 20, 1963",Rialto Pictures,Thriller/Suspense
+Lynch/Oz,Lynch/Oz,"Jun 2, 2023",Janus Films,Documentary
+Story Ave,Story Ave,"Sep 29, 2023",Kino Lorber,Drama
+Biosphere,Biosphere,"Jul 7, 2023",IFC Films,Thriller/Suspense
+My Happy Ending,My Happy Ending,"Feb 24, 2023",Roadside Attractions,Comedy
+Nam June Paik: Moon Is The …,Nam June Paik: Moon ,"Mar 24, 2023",Greenwich,Documentary
+The Mission,The Mission,"Oct 13, 2023",Picturehouse,Documentary
+Tori and Lokita,Tori and Lokita,"Mar 24, 2023",Janus Films,Thriller/Suspense
+The Stones and Brian Jones,The Stones and Brian,"Nov 17, 2023",Magnolia Pictures,Documentary
+Immediate Family,Immediate Family,"Dec 15, 2023",Magnolia Pictures,Documentary
+Fire of Love,Fire of Love,"Jul 6, 2022",Neon,Documentary
+Cat Person,Cat Person,"Oct 6, 2023",Rialto Pictures,Thriller/Suspense
+"Desperate Souls, Dark City …","Desperate Souls, Dar","Jun 23, 2023",Zeitgeist,Documentary
+The End of Sex,The End of Sex,"Apr 28, 2023",Blue Fox Entertai…,Romantic Comedy
+Moon Garden,Moon Garden,"May 19, 2023",Oscilloscope Pict…,Horror
+Simulant,Simulant,"Jun 2, 2023",Vertical Entertai…,Thriller/Suspense
+Deep Sea 3-D,Deep Sea 3-D,"Mar 3, 2006",Warner Bros.,Documentary
+All Dirt Roads Taste of Salt,All Dirt Roads Taste,"Nov 3, 2023",A24,Drama
+Revoir Paris,Revoir Paris,"Jun 23, 2023",Music Box Films,Drama
+"Blind Willow, Sleeping Woman","Blind Willow, Sleepi","Apr 14, 2023",Zeitgeist,Drama
+Once Within a Time,Once Within a Time,"Oct 13, 2023",Oscilloscope Pict…,Comedy
+Touch the Water,Touch the Water,"Nov 3, 2023",Holt Hamilton Dis…,Drama
+Cat Daddies,Cat Daddies,"Oct 14, 2022",Gray Hat Productions,Documentary
+Black Ice,Black Ice,"Jul 14, 2023",Roadside Attractions,Documentary
+The Five Devils,The Five Devils,"Mar 24, 2023",MUBI,Drama
+The Disappearance of Shere …,The Disappearance of,"Nov 17, 2023",IFC Films,Documentary
+R.M.N.,R.M.N.,"Apr 28, 2023",IFC Films,Drama
+The Beasts,The Beasts,"Jul 28, 2023",Greenwich,Thriller/Suspense
+Shiva Baby,Shiva Baby,"Apr 2, 2021",Utopia,Comedy
+Werckmeister Harmonies,Werckmeister Harmoni,"May 26, 2023",Janus Films,Drama
+Four Daughters,Four Daughters,"Oct 27, 2023",Kino Lorber,Documentary
+Full Time,Full Time,"Feb 3, 2023",Music Box Films,Drama
+The Delinquents,The Delinquents,"Oct 18, 2023",MUBI,Drama
+Alcarràs,Alcarràs,"Jan 6, 2023",MUBI,Drama
+La maman et la putain,La maman et la putai,"Jun 23, 2023",Janus Films,Drama
+Radical Wolfe,Radical Wolfe,"Sep 15, 2023",Kino Lorber,Documentary
+Teddy’s Christmas,Teddy’s Christmas,"Dec 1, 2023",Blue Fox Entertai…,Adventure
+Tokyo Pop,Tokyo Pop,"Apr 15, 1988",Kino Lorber,Comedy
+"Orlando, My Political Biogr…","Orlando, My Politica","Nov 10, 2023",Janus Films,Drama
+Make Me Famous,Make Me Famous,"Jun 22, 2023",Red Splat Product…,Documentary
+Mister Organ,Mister Organ,"Oct 6, 2023",Drafthouse Films,Documentary
+Canary,Canary,"Sep 15, 2023",Oscilloscope Pict…,Documentary
+The Innocent,The Innocent,"Mar 17, 2023",Janus Films,Comedy
+A Compassionate Spy,A Compassionate Spy,"Aug 4, 2023",Magnolia Pictures,Documentary
+Island of Lemurs: Madagascar,Island of Lemurs: Ma,"Apr 4, 2014",Warner Bros.,Documentary
+Pandas,Pandas,"Apr 6, 2018",IMAX Films,Documentary
+The Civil Dead,The Civil Dead,"Feb 10, 2023",Utopia,Comedy
+The Cow Who Sang a Song Int…,The Cow Who Sang a S,"May 19, 2023",Kino Lorber,Drama
+The Pod Generation,The Pod Generation,"Aug 11, 2023",Vertical Entertai…,Black Comedy
+The Teacher’s Lounge,The Teacher’s Lounge,"Dec 25, 2023",Sony Pictures Cla…,Drama
+The Headmistress,The Headmistress,"Apr 7, 2023",Indican Pictures,Horror
+Bobi Wine: The People's Pre…,Bobi Wine: The Peopl,"Jul 28, 2023",National Geograph…,Documentary
+The Innocent (1979) (Re-Rel…,The Innocent (1979) ,"Feb 14, 2020",Analysis,Drama
+The Melt Goes on Forever: T…,The Melt Goes on For,"May 5, 2023",Greenwich,Documentary
+Amanda,Amanda,"Jul 7, 2023",Oscilloscope Pict…,Comedy
+To the Arctic 3D,To the Arctic 3D,"Apr 20, 2012",Warner Bros.,Documentary
+The Sparring Partner,The Sparring Partner,"Dec 9, 2022",Well Go USA,Drama
+The Mean One,The Mean One,"Dec 8, 2022",Atlas Distribution,Horror
+La Syndicaliste,La Syndicaliste,"Dec 1, 2023",Kino Lorber,Thriller/Suspense
+The Night of the 12th,The Night of the 12t,"May 19, 2023",Film Movement,Thriller/Suspense
+Cadejo Blanco,Cadejo Blanco,"Apr 21, 2023",Film Movement,Drama
+Before the Sunset,Before the Sunset,"Sep 29, 2023",Freestyle Releasing,Drama
+In Viaggio,In Viaggio,"Mar 31, 2023",Magnolia Pictures,Documentary
+River,River,"Apr 21, 2023",Greenwich,Documentary
+The Road Dance,The Road Dance,"Oct 13, 2023",Music Box Films,Drama
+Piaffe,Piaffe,"Aug 25, 2023",Oscilloscope Pict…,Drama
+Aporia,Aporia,"Aug 11, 2023",Well Go USA,Drama
+Unwelcome,Unwelcome,"Mar 10, 2023",Well Go USA,Horror
+Trinket Box,Trinket Box,"Mar 31, 2023",Self Distributed,Horror
+La Civil,La Civil,"Mar 3, 2023",Zeitgeist,Thriller/Suspense
+The Worst Ones,The Worst Ones,"Mar 24, 2023",Kino Lorber,Drama
+Only in Theaters,Only in Theaters,"Nov 18, 2022",The Film Collabor…,Documentary
+The Crime is Mine,The Crime is Mine,"Dec 25, 2023",Music Box Films,Drama
+Filmmakers for the Prosecution,Filmmakers for the P,"Jan 24, 2023",Kino Lorber,Documentary
+Godard Cinema,Godard Cinema,"Dec 15, 2023",Kino Lorber,Documentary
+What the Hell Happened to B…,What the Hell Happen,"Mar 24, 2023",Abramorama Films,Documentary
+Two Tickets to Greece,Two Tickets to Greec,"Jul 14, 2023",Greenwich,Comedy
+Suitable Flesh,Suitable Flesh,"Oct 27, 2023",IFC Films,Horror
+Your Lucky Day,Your Lucky Day,"Nov 10, 2023",Well Go USA,Thriller/Suspense
+Rodeo,Rodeo,"Mar 17, 2023",Music Box Films,Drama
+What Doesn’t Float,What Doesn’t Float,"Sep 22, 2023",Circle Collective,Comedy
+Fast Dreams,Fast Dreams,"Nov 3, 2023",99 Ways Entertain…,Documentary
+Ernest & Celestine: A Trip …,Ernest & Celestine: ,"Sep 1, 2023",GKIDS,Comedy
+Baby Ruby,Baby Ruby,"Feb 3, 2023",Magnet Releasing,Thriller/Suspense
+Drylongso,Drylongso,"Mar 29, 1999",Janus Films,Drama
+Once Upon a Time in Uganda,Once Upon a Time in ,"Jul 7, 2023",Yellow Veil Pictures,Documentary
+You Can Live Forever,You Can Live Forever,"Mar 31, 2023",Good Deed Enterta…,Drama
+Final Cut,Final Cut,"Jul 14, 2023",Kino Lorber,Comedy
+Subject,Subject,"Nov 3, 2023",Greenwich,Documentary
+Smoke Sauna Sisterhood,Smoke Sauna Sisterho,"Nov 24, 2023",Greenwich,Documentary
+Another Body,Another Body,"Oct 20, 2023",Utopia,Documentary
+Dancing the Twist in Bamako,Dancing the Twist in,"Feb 24, 2023",ArtMattan Films,Drama
+Break the Mold: The Zach Ba…,Break the Mold: The ,"Jun 23, 2023",Holt Hamilton Dis…,Documentary
+The Elephant 6 Recording Co.,The Elephant 6 Recor,"Aug 25, 2023",Greenwich,Documentary
+TS Eliot’s Four Quartets,TS Eliot’s Four Quar,"Apr 28, 2023",Kino Lorber,Concert/Perfor…
+The Sorrow and the Pity,The Sorrow and the P,"Mar 25, 1972",Kino Lorber,Documentary
+Falcon Lake,Falcon Lake,"Jun 2, 2023",Yellow Veil Pictures,Drama
+Armageddon Time,Armageddon Time,"Oct 28, 2022",Focus Features,Drama
+Sympathy for the Devil,Sympathy for the Dev,"Jul 28, 2023",RLJ Entertainment,Thriller/Suspense
+Passion,Passion,"Apr 14, 2023",Film Movement,Drama
+Beyond Utopia,Beyond Utopia,"Oct 23, 2023",Fathom Events,Documentary
+The Runner,The Runner,"Dec 31, 1991",Rialto Pictures,Drama
+Loren and Rose,Loren and Rose,"Jun 23, 2023",,Drama
+Rebel,Rebel,"Sep 15, 2023",Yellow Veil Pictures,Thriller/Suspense
+Rare Objects,Rare Objects,"Apr 14, 2023",IFC Films,Drama
+God’s Time,God’s Time,"Feb 24, 2023",IFC Films,Thriller/Suspense
+The Super 8 Years,The Super 8 Years,"Dec 16, 2022",Kino Lorber,Documentary
+"Film, the Living Record of …","Film, the Living Rec","Feb 27, 2023",Kino Lorber,Documentary
+Framing Agnes,Framing Agnes,"Dec 2, 2022",Kino Lorber,Drama
+Give Me Pity!,Give Me Pity!,"Mar 3, 2023",Utopia,Comedy
+At the Gates,At the Gates,"Nov 3, 2023",Picturehouse,Drama
+The Kennedy Incident,The Kennedy Incident,"Dec 15, 2023",Indican Pictures,Thriller/Suspense
+Lucy and Whitney,Lucy and Whitney,"Nov 3, 2023",Indican Pictures,Comedy
+I Got a Monster,I Got a Monster,"Mar 10, 2023",Greenwich,Documentary
+Utama,Utama,"Nov 4, 2022",Kino Lorber,Drama
+CHAAW: Chapter 1,CHAAW: Chapter 1,"Aug 11, 2023",,Comedy
+"Black God, White Devil","Black God, White Dev","Sep 25, 1971",Janus Films,Adventure
+Muzzle,Muzzle,"Sep 29, 2023",RLJ Entertainment,Thriller/Suspense
+Coup de Torchon (Clean Slate),Coup de Torchon (Cle,"Dec 20, 1982",Rialto Pictures,Drama
+Gods of Mexico,Gods of Mexico,"Mar 3, 2023",Oscilloscope Pict…,Documentary
+So Much Tenderness,So Much Tenderness,"Jun 30, 2023",Mongrel Media,Drama
+Love Life,Love Life,"Aug 11, 2023",Oscilloscope Pict…,Drama
+Between Two Worlds,Between Two Worlds,"Aug 11, 2023",Cohen Media Group,Drama
+The Man in the Basement,The Man in the Basem,"Jan 27, 2023",Greenwich,Drama
+Have You Got It Yet? The St…,Have You Got It Yet?,"Jul 14, 2023",Abramorama Films,Documentary
+Let it be Morning,Let it be Morning,"Feb 3, 2023",Cohen Media Group,Drama
+What Comes Around,What Comes Around,"Aug 4, 2023",IFC Films,Thriller/Suspense
+The Dive,The Dive,"Aug 25, 2023",IFC Films,Thriller/Suspense
+The Crusades,The Crusades,"Jul 7, 2023",VMI Worldwide,Comedy
+Kings of L.A.,Kings of L.A.,"Jun 23, 2023",Indican Pictures,Action
+Leonor Will Never Die,Leonor Will Never Di,"Nov 25, 2022",Music Box Films,Comedy
+Hands That Bind,Hands That Bind,"Nov 3, 2023",Dark Sky Films,Drama
+The Monsters Without,The Monsters Without,"Apr 27, 2023",Indican Pictures,Horror
+Pianoforte,Pianoforte,"Dec 1, 2023",Greenwich,Documentary
+Senior Year: Love Never Fails,Senior Year: Love Ne,"Sep 29, 2023",Atlas Distribution,Drama
+Therapy Dogs,Therapy Dogs,"Mar 10, 2023",Utopia,Reality
+Rimini,Rimini,"Mar 17, 2023",Big World Pictures,Comedy
+How I Learned to Fly,How I Learned to Fly,"Dec 1, 2023",Film Movement,Drama
+Tommy Guns,Tommy Guns,"Apr 12, 2023",Kino Lorber,Horror
+Heretic,Heretic,"Mar 3, 2023",Indican Pictures,Horror
+Deliver Us,Deliver Us,"Sep 29, 2023",Magnet Releasing,Horror
+Life Upside Down,Life Upside Down,"Jan 27, 2023",IFC Films,Comedy
+Last Night of Amore,Last Night of Amore,"Jul 15, 2023",Focus World,Thriller/Suspense
+Eight Deadly Shots,Eight Deadly Shots,"Mar 31, 2023",Janus Films,Drama
+The Discreet Charm of the B…,The Discreet Charm o,"May 12, 2000",Rialto Pictures,Comedy
+Lord of Misrule,Lord of Misrule,"Dec 8, 2023",Magnet Releasing,Horror
+Jethica,Jethica,"Jan 13, 2023",Cinedigm,Comedy
+You’re All Gonna Die,You’re All Gonna Die,"Nov 17, 2023",Indican Pictures,Horror
+Bonded,Bonded,"Oct 27, 2023",Breaking Glass Pi…,Horror
+Please Baby Please,Please Baby Please,"Oct 28, 2022",Music Box Films,Musical
+Landfill,Landfill,"Nov 3, 2023",Indican Pictures,Adventure
+Hockeyland,Hockeyland,"Sep 9, 2022",Greenwich,Documentary
+Bones and All,Bones and All,"Nov 23, 2022",United Artists,Thriller/Suspense
+Bobby’s Intermission,Bobby’s Intermission,"Sep 12, 2023",,Comedy
+This Much We Know,This Much We Know,"Nov 10, 2023",Oscilloscope Pict…,Documentary
+Brainwashed: Sex-Camera-Power,Brainwashed: Sex-Cam,"Oct 21, 2022",Kino Lorber,Documentary
+Loudmouth,Loudmouth,"Dec 9, 2022",Greenwich,Documentary
+Operation Napoleon,Operation Napoleon,"Aug 11, 2023",Magnet Releasing,Thriller/Suspense
+Imagining the Indian: The F…,Imagining the Indian,"Mar 31, 2023",The Ciesla Founda…,Documentary
+Venus,Venus,"Mar 31, 2023",Sony Pictures,Horror
+Christmas Bloody Christmas,Christmas Bloody Chr,"Dec 9, 2022",RLJ Entertainment,Horror
+Asedio,Asedio,"Sep 29, 2023",Sony Pictures,Thriller/Suspense
+Carnal Knowledge,Carnal Knowledge,"Jan 1, 1971",Avco Embassy,Drama
+La marginale,La marginale,"Sep 22, 2023",Sony Pictures,Drama
+Lowndes County and the Road…,Lowndes County and t,"Dec 2, 2022",Greenwich,Documentary
+When Men Were Men,When Men Were Men,"Nov 4, 2022",Indican Pictures,Drama

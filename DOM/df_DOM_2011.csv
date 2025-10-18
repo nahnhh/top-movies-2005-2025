@@ -1,0 +1,737 @@
+Movie,trunc,Release Date,Distributor,Genre
+Harry Potter and the Deathl…,Harry Potter and the,"Jul 15, 2011",Warner Bros.,Adventure
+Transformers: Dark of the Moon,Transformers: Dark o,"Jun 29, 2011",Paramount Pictures,Action
+The Twilight Saga: Breaking…,The Twilight Saga: B,"Nov 18, 2011",Summit Entertainment,Drama
+The Hangover Part II,The Hangover Part II,"May 26, 2011",Warner Bros.,Comedy
+Pirates of the Caribbean: O…,Pirates of the Carib,"May 20, 2011",Walt Disney,Adventure
+Fast Five,Fast Five,"Apr 29, 2011",Universal,Action
+Cars 2,Cars 2,"Jun 24, 2011",Walt Disney,Adventure
+Thor,Thor,"May 6, 2011",Paramount Pictures,Action
+Rise of the Planet of the Apes,Rise of the Planet o,"Aug 5, 2011",20th Century Fox,Adventure
+Captain America: The First …,Captain America: The,"Jul 22, 2011",Paramount Pictures,Action
+The Help,The Help,"Aug 10, 2011",Walt Disney,Drama
+Bridesmaids,Bridesmaids,"May 13, 2011",Universal,Comedy
+Kung Fu Panda 2,Kung Fu Panda 2,"May 26, 2011",Paramount Pictures,Adventure
+X-Men: First Class,X-Men: First Class,"Jun 3, 2011",20th Century Fox,Action
+Puss in Boots,Puss in Boots,"Oct 28, 2011",Paramount Pictures,Adventure
+Rio,Rio,"Apr 15, 2011",20th Century Fox,Adventure
+The Smurfs,The Smurfs,"Jul 29, 2011",Sony Pictures,Adventure
+Mission: Impossible—Ghost P…,Mission: Impossible—,"Dec 21, 2011",Paramount Pictures,Action
+Sherlock Holmes: A Game of …,Sherlock Holmes: A G,"Dec 16, 2011",Warner Bros.,Action
+Super 8,Super 8,"Jun 10, 2011",Paramount Pictures,Thriller/Suspense
+Rango,Rango,"Mar 4, 2011",Paramount Pictures,Western
+Horrible Bosses,Horrible Bosses,"Jul 8, 2011",Warner Bros.,Comedy
+Green Lantern,Green Lantern,"Jun 17, 2011",Warner Bros.,Action
+The King’s Speech,The King’s Speech,"Nov 26, 2010",Weinstein Co.,Drama
+Hop,Hop,"Apr 1, 2011",Universal,Adventure
+Paranormal Activity 3,Paranormal Activity ,"Oct 21, 2011",Paramount Pictures,Horror
+Just Go With It,Just Go With It,"Feb 11, 2011",Sony Pictures,Romantic Comedy
+Cowboys and Aliens,Cowboys and Aliens,"Jul 29, 2011",Universal,Action
+Bad Teacher,Bad Teacher,"Jun 24, 2011",Sony Pictures,Comedy
+Gnomeo and Juliet,Gnomeo and Juliet,"Feb 11, 2011",Walt Disney,Romantic Comedy
+The Green Hornet,The Green Hornet,"Jan 14, 2011",Sony Pictures,Action
+Alvin and the Chipmunks: Ch…,Alvin and the Chipmu,"Dec 16, 2011",20th Century Fox,Adventure
+The Lion King,The Lion King,"Jun 15, 1994",Walt Disney,Adventure
+True Grit,True Grit,"Dec 22, 2010",Paramount Pictures,Western
+Real Steel,Real Steel,"Oct 7, 2011",Walt Disney,Action
+"Crazy, Stupid, Love","Crazy, Stupid, Love","Jul 29, 2011",Warner Bros.,Romantic Comedy
+Battle: Los Angeles,Battle: Los Angeles,"Mar 11, 2011",Sony Pictures,Action
+Immortals,Immortals,"Nov 11, 2011",Relativity,Action
+The Muppets,The Muppets,"Nov 23, 2011",Walt Disney,Adventure
+Zookeeper,Zookeeper,"Jul 8, 2011",Sony Pictures,Romantic Comedy
+Limitless,Limitless,"Mar 18, 2011",Relativity,Thriller/Suspense
+Tower Heist,Tower Heist,"Nov 4, 2011",Universal,Comedy
+Contagion,Contagion,"Sep 9, 2011",Warner Bros.,Thriller/Suspense
+Moneyball,Moneyball,"Sep 23, 2011",Sony Pictures,Drama
+Justin Bieber: Never Say N…,Justin Bieber: Never,"Feb 11, 2011",Paramount Pictures,Concert/Perfor…
+Dolphin Tale,Dolphin Tale,"Sep 23, 2011",Warner Bros.,Drama
+Jack and Jill,Jack and Jill,"Nov 11, 2011",Sony Pictures,Comedy
+No Strings Attached,No Strings Attached,"Jan 21, 2011",Paramount Pictures,Romantic Comedy
+Mr. Popper's Penguins,Mr. Popper's Penguin,"Jun 17, 2011",20th Century Fox,Comedy
+Unknown,Unknown,"Feb 18, 2011",Warner Bros.,Thriller/Suspense
+The Adjustment Bureau,The Adjustment Burea,"Mar 4, 2011",Universal,Thriller/Suspense
+Happy Feet Two,Happy Feet Two,"Nov 18, 2011",Warner Bros.,Musical
+Black Swan,Black Swan,"Dec 3, 2010",Fox Searchlight,Thriller/Suspense
+Water for Elephants,Water for Elephants,"Apr 22, 2011",20th Century Fox,Drama
+The Lincoln Lawyer,The Lincoln Lawyer,"Mar 18, 2011",Lionsgate,Thriller/Suspense
+Midnight in Paris,Midnight in Paris,"May 20, 2011",Sony Pictures Cla…,Romantic Comedy
+Friends with Benefits,Friends with Benefit,"Jul 22, 2011",Sony Pictures,Romantic Comedy
+The Girl with the Dragon Ta…,The Girl with the Dr,"Dec 20, 2011",Sony Pictures,Thriller/Suspense
+I am Number Four,I am Number Four,"Feb 18, 2011",Walt Disney,Adventure
+Source Code,Source Code,"Apr 1, 2011",Summit Entertainment,Thriller/Suspense
+Insidious,Insidious,"Apr 1, 2011",FilmDistrict,Horror
+Madea's Big Happy Family,Madea's Big Happy Fa,"Apr 22, 2011",Lionsgate,Comedy
+Diary of a Wimpy Kid: Rodri…,Diary of a Wimpy Kid,"Mar 25, 2011",20th Century Fox,Adventure
+Footloose,Footloose,"Oct 14, 2011",Paramount Pictures,Drama
+The Adventures of Tintin,The Adventures of Ti,"Dec 21, 2011",Paramount Pictures,Adventure
+Hugo,Hugo,"Nov 23, 2011",Paramount Pictures,Adventure
+The Dilemma,The Dilemma,"Jan 14, 2011",Universal,Comedy
+New Year’s Eve,New Year’s Eve,"Dec 9, 2011",Warner Bros.,Romantic Comedy
+The Fighter,The Fighter,"Dec 10, 2010",Paramount Pictures,Drama
+Little Fockers,Little Fockers,"Dec 22, 2010",Universal,Comedy
+Arthur Christmas,Arthur Christmas,"Nov 23, 2011",Sony Pictures,Adventure
+Hall Pass,Hall Pass,"Feb 25, 2011",Warner Bros.,Comedy
+We Bought a Zoo,We Bought a Zoo,"Dec 23, 2011",20th Century Fox,Drama
+Soul Surfer,Soul Surfer,"Apr 8, 2011",Sony Pictures,Drama
+Final Destination 5,Final Destination 5,"Aug 12, 2011",Warner Bros.,Horror
+The Ides of March,The Ides of March,"Oct 7, 2011",Sony Pictures,Drama
+Tron: Legacy,Tron: Legacy,"Dec 17, 2010",Walt Disney,Adventure
+War Horse,War Horse,"Dec 25, 2011",Walt Disney,Drama
+The Descendants,The Descendants,"Nov 16, 2011",Fox Searchlight,Drama
+Hanna,Hanna,"Apr 8, 2011",Focus Features,Thriller/Suspense
+Something Borrowed,Something Borrowed,"May 6, 2011",Warner Bros.,Romantic Comedy
+Spy Kids: All the Time in t…,Spy Kids: All the Ti,"Aug 19, 2011",Weinstein/Dimension,Adventure
+Scream 4,Scream 4,"Apr 15, 2011",Weinstein/Dimension,Horror
+"Big Mommas: Like Father, Li…",Big Mommas: Like Fat,"Feb 18, 2011",20th Century Fox,Comedy
+Red Riding Hood,Red Riding Hood,"Mar 11, 2011",Warner Bros.,Thriller/Suspense
+Paul,Paul,"Mar 18, 2011",Universal,Comedy
+The Roommate,The Roommate,"Feb 4, 2011",Sony Pictures,Thriller/Suspense
+Jumping the Broom,Jumping the Broom,"May 6, 2011",Sony Pictures,Romantic Comedy
+The Change-Up,The Change-Up,"Aug 5, 2011",Universal,Comedy
+In Time,In Time,"Oct 28, 2011",20th Century Fox,Thriller/Suspense
+30 Minutes or Less,30 Minutes or Less,"Aug 12, 2011",Sony Pictures,Black Comedy
+Colombiana,Colombiana,"Aug 26, 2011",Sony Pictures,Thriller/Suspense
+J. Edgar,J. Edgar,"Nov 9, 2011",Warner Bros.,Drama
+Sucker Punch,Sucker Punch,"Mar 25, 2011",Warner Bros.,Action
+Larry Crowne,Larry Crowne,"Jul 1, 2011",Universal,Romantic Comedy
+50/50,50/50,"Sep 30, 2011",Summit Entertainment,Black Comedy
+A Very Harold & Kumar 3D Ch…,A Very Harold & Kuma,"Nov 4, 2011",Warner Bros.,Comedy
+Drive,Drive,"Sep 16, 2011",FilmDistrict,Action
+Yogi Bear,Yogi Bear,"Dec 17, 2010",Warner Bros.,Adventure
+Courageous,Courageous,"Sep 30, 2011",Sony Pictures,Drama
+The Rite,The Rite,"Jan 28, 2011",Warner Bros.,Horror
+Arthur,Arthur,"Apr 8, 2011",Warner Bros.,Romantic Comedy
+Tangled,Tangled,"Nov 24, 2010",Walt Disney,Adventure
+The Debt,The Debt,"Aug 31, 2011",Focus Features,Thriller/Suspense
+Priest,Priest,"May 13, 2011",Sony Pictures,Horror
+The Mechanic,The Mechanic,"Jan 28, 2011",CBS Films,Action
+Abduction,Abduction,"Sep 23, 2011",Lionsgate,Thriller/Suspense
+Beastly,Beastly,"Mar 4, 2011",CBS Films,Drama
+The Sitter,The Sitter,"Dec 9, 2011",20th Century Fox,Black Comedy
+Winnie the Pooh,Winnie the Pooh,"Jul 15, 2011",Walt Disney,Adventure
+Killer Elite,Killer Elite,"Sep 23, 2011",Open Road,Action
+Season of the Witch,Season of the Witch,"Jan 7, 2011",Relativity,Action
+Our Idiot Brother,Our Idiot Brother,"Aug 26, 2011",Weinstein Co.,Comedy
+Don't Be Afraid of the Dark,Don't Be Afraid of t,"Aug 26, 2011",FilmDistrict,Horror
+Sanctum,Sanctum,"Feb 4, 2011",Universal,Action
+Monte Carlo,Monte Carlo,"Jul 1, 2011",20th Century Fox,Romantic Comedy
+Your Highness,Your Highness,"Apr 8, 2011",Universal,Comedy
+Mars Needs Moms,Mars Needs Moms,"Mar 11, 2011",Walt Disney,Adventure
+Dream House,Dream House,"Sep 30, 2011",Universal,Horror
+Conan the Barbarian,Conan the Barbarian,"Aug 19, 2011",Lionsgate,Action
+The Three Musketeers,The Three Musketeers,"Oct 21, 2011",Summit Entertainment,Adventure
+Country Strong,Country Strong,"Dec 22, 2010",Sony Pictures,Drama
+The Eagle,The Eagle,"Feb 11, 2011",Focus Features,Action
+Shark Night 3D,Shark Night 3D,"Sep 2, 2011",Relativity,Horror
+Fright Night,Fright Night,"Aug 19, 2011",Walt Disney,Horror
+Apollo 18,Apollo 18,"Sep 2, 2011",Weinstein Co.,Thriller/Suspense
+The Chronicles of Narnia: T…,The Chronicles of Na,"Dec 10, 2010",20th Century Fox,Adventure
+The Thing,The Thing,"Oct 14, 2011",Universal,Horror
+African Cats,African Cats,"Apr 22, 2011",Walt Disney,Documentary
+Gulliver’s Travels,Gulliver’s Travels,"Dec 25, 2010",20th Century Fox,Adventure
+Born to be Wild 3D,Born to be Wild 3D,"Apr 8, 2011",Warner Bros.,Documentary
+Judy Moody and the Not Bumm…,Judy Moody and the N,"Jun 10, 2011",Relativity,Adventure
+What's Your Number?,What's Your Number?,"Sep 30, 2011",20th Century Fox,Romantic Comedy
+One Day,One Day,"Aug 19, 2011",Focus Features,Drama
+Warrior,Warrior,"Sep 9, 2011",Lionsgate,Drama
+The Tree of Life,The Tree of Life,"May 27, 2011",Fox Searchlight,Drama
+The Darkest Hour,The Darkest Hour,"Dec 25, 2011",Summit Entertainment,Action
+The Rum Diary,The Rum Diary,"Oct 28, 2011",FilmDistrict,Drama
+The Tourist,The Tourist,"Dec 10, 2010",Sony Pictures,Thriller/Suspense
+Young Adult,Young Adult,"Dec 9, 2011",Paramount Pictures,Comedy
+Harry Potter and the Deathl…,Harry Potter and the,"Nov 19, 2010",Warner Bros.,Adventure
+Glee: The 3D Concert Movie,Glee: The 3D Concert,"Aug 10, 2011",20th Century Fox,Concert/Perfor…
+The Conspirator,The Conspirator,"Apr 15, 2011",Roadside Attractions,Drama
+Jane Eyre,Jane Eyre,"Mar 11, 2011",Focus Features,Drama
+Drive Angry,Drive Angry,"Feb 25, 2011",Summit Entertainment,Action
+Straw Dogs,Straw Dogs,"Sep 16, 2011",Sony Pictures,Thriller/Suspense
+Win Win,Win Win,"Mar 18, 2011",Fox Searchlight,Drama
+Hoodwinked Too: Hood vs. Evil,Hoodwinked Too: Hood,"Apr 29, 2011",Weinstein Co.,Adventure
+Prom,Prom,"Apr 29, 2011",Walt Disney,Comedy
+Hubble 3D,Hubble 3D,"Mar 19, 2010",Warner Bros.,Documentary
+I Don't Know How She Does It,I Don't Know How She,"Sep 16, 2011",Weinstein Co.,Comedy
+Blue Valentine,Blue Valentine,"Dec 29, 2010",Weinstein Co.,Drama
+My Week with Marilyn,My Week with Marilyn,"Nov 23, 2011",Weinstein Co.,Drama
+Johnny English Reborn,Johnny English Rebor,"Oct 21, 2011",Universal,Comedy
+127 Hours,127 Hours,"Nov 5, 2010",Fox Searchlight,Drama
+Kevin Hart: Laugh at My Pain,Kevin Hart: Laugh at,"Sep 9, 2011",Codeblack Enterta…,Concert/Perfor…
+Sarah's Key,Sarah's Key,"Jul 22, 2011",Weinstein Co.,Drama
+Barney's Version,Barney's Version,"Dec 17, 2010",Sony Pictures Cla…,Drama
+The Big Year,The Big Year,"Oct 14, 2011",20th Century Fox,Comedy
+Take Me Home Tonight,Take Me Home Tonight,"Mar 4, 2011",Relativity,Comedy
+Cedar Rapids,Cedar Rapids,"Feb 11, 2011",Fox Searchlight,Comedy
+Incendies,Incendies,"Sep 17, 2010",Sony Pictures Cla…,Drama
+Beginners,Beginners,"Jun 3, 2011",Focus Features,Drama
+The Guard,The Guard,"Jul 29, 2011",Sony Pictures Cla…,Comedy
+Cave of Forgotten Dreams,Cave of Forgotten Dr,"Apr 29, 2011",IFC Films,Documentary
+Margin Call,Margin Call,"Oct 21, 2011",Roadside Attractions,Drama
+How Do You Know?,How Do You Know?,"Dec 17, 2010",Sony Pictures,Romantic Comedy
+Biutiful,Biutiful,"Jan 28, 2011",Roadside Attractions,Drama
+The Artist,The Artist,"Nov 25, 2011",Weinstein Co.,Drama
+Under the Sea 3D,Under the Sea 3D,"Feb 13, 2009",Warner Bros.,Documentary
+Atlas Shrugged: Part 1,Atlas Shrugged: Part,"Apr 15, 2011",Rocky Mountain Pi…,Drama
+Sea Rex 3D,Sea Rex 3D,"May 28, 2010",3D Entertainment,Documentary
+Anonymous,Anonymous,"Oct 28, 2011",Sony Pictures,Drama
+The Company Men,The Company Men,"Jan 21, 2011",Weinstein Co.,Drama
+Seven Days in Utopia,Seven Days in Utopia,"Sep 2, 2011",Visio Entertainment,Drama
+MegaMind,MegaMind,"Nov 5, 2010",Paramount Pictures,Adventure
+The Way,The Way,"Oct 7, 2011",Producers Distrib…,Drama
+Buck,Buck,"Jun 17, 2011",IFC Films,Documentary
+Tinker Tailor Soldier Spy,Tinker Tailor Soldie,"Dec 9, 2011",Focus Features,Thriller/Suspense
+Of Gods and Men,Of Gods and Men,"Feb 25, 2011",Sony Pictures Cla…,Drama
+The Social Network,The Social Network,"Oct 1, 2010",Sony Pictures,Drama
+Starbuck,Starbuck,"Jul 29, 2011",,Comedy
+Like Crazy,Like Crazy,"Oct 28, 2011",Paramount Pictures,Drama
+Le sens de l’humour,Le sens de l’humour,"Jul 6, 2011",,Comedy
+Don 2,Don 2,"Dec 22, 2011",Reliance Big Pict…,Action
+Zindagi Na Milegi Dobara,Zindagi Na Milegi Do,"Jul 15, 2011",Eros Entertainment,Comedy
+The Skin I Live In,The Skin I Live In,"Oct 14, 2011",Sony Pictures Cla…,Thriller/Suspense
+Another Year,Another Year,"Dec 29, 2010",Sony Pictures Cla…,Drama
+From Prada to Nada,From Prada to Nada,"Jan 28, 2011",Lionsgate,Romantic Comedy
+Martha Marcy May Marlene,Martha Marcy May Mar,"Oct 21, 2011",Fox Searchlight,Thriller/Suspense
+The Way Back,The Way Back,"Dec 29, 2010",Newmarket Films,Adventure
+Everything Must Go,Everything Must Go,"May 13, 2011",Roadside Attractions,Drama
+Bucky Larson: Born to Be a …,Bucky Larson: Born t,"Sep 9, 2011",Sony Pictures,Comedy
+Melancholia,Melancholia,"Nov 11, 2011",Magnolia Pictures,Thriller/Suspense
+Ra. One,Ra. One,"Oct 26, 2011",Eros Entertainment,Action
+The Grace Card,The Grace Card,"Feb 25, 2011",Samuel Goldwyn Films,Drama
+Space Station,Space Station,"Apr 19, 2002",IMAX Films,Documentary
+George Balanchine's The Nut…,George Balanchine's ,"Dec 13, 2011",,Concert/Perfor…
+The Illusionist,The Illusionist,"Dec 25, 2010",Sony Pictures Cla…,Adventure
+Unstoppable,Unstoppable,"Nov 12, 2010",20th Century Fox,Action
+The Trip,The Trip,"Jun 10, 2011",IFC Films,Comedy
+Shame,Shame,"Dec 2, 2011",Fox Searchlight,Drama
+The Mighty Macs,The Mighty Macs,"Oct 21, 2011",Quaker Media,Drama
+Gerry,Gerry,"Jun 15, 2011",,Drama
+Bodyguard,Bodyguard,"Aug 31, 2011",Reliance Big Pict…,Action
+Rabbit Hole,Rabbit Hole,"Dec 17, 2010",Lionsgate,Drama
+A Better Life,A Better Life,"Jun 24, 2011",Summit Entertainment,Drama
+Burlesque,Burlesque,"Nov 24, 2010",Sony Pictures,Musical
+Take Shelter,Take Shelter,"Sep 30, 2011",Sony Pictures Cla…,Drama
+Potiche,Potiche,"Mar 25, 2011",Music Box Films,Comedy
+Senna,Senna,"Aug 12, 2011",Universal,Documentary
+I Am,I Am,"Feb 18, 2011",Paladin,Documentary
+A Dangerous Method,A Dangerous Method,"Nov 23, 2011",Sony Pictures Cla…,Drama
+Cafe de flore,Cafe de flore,"Sep 2, 2011",Alliance Atlantis,Drama
+Monsieur Lazhar,Monsieur Lazhar,"Oct 28, 2011",,Drama
+Delhi Belly,Delhi Belly,"Jul 1, 2011",UTV Communications,Comedy
+The Double Hour,The Double Hour,"Apr 15, 2011",Samuel Goldwyn Films,Thriller/Suspense
+Bill Cunningham New York,Bill Cunningham New ,"Mar 16, 2011",Zeitgeist,Documentary
+Breakaway,Breakaway,"Sep 30, 2011",Alliance Atlantis,Comedy
+The Art of Getting By,The Art of Getting B,"Jun 17, 2011",Fox Searchlight,Romantic Comedy
+Saving Private Perez,Saving Private Perez,"Sep 2, 2011",Lionsgate,Action
+Certified Copy,Certified Copy,"Mar 11, 2011",IFC Films,Drama
+The Devil's Double,The Devil's Double,"Jul 29, 2011",Lionsgate,Drama
+Somewhere,Somewhere,"Dec 22, 2010",Focus Features,Drama
+2011 Oscar Shorts,2011 Oscar Shorts,"Feb 11, 2011",Shorts International,Multiple Genres
+Snow Flower and the Secret Fan,Snow Flower and the ,"Jul 15, 2011",Fox Searchlight,Drama
+"No Eres Tu, Soy Yo","No Eres Tu, Soy Yo","Apr 8, 2011",Lionsgate,Romantic Comedy
+Another Earth,Another Earth,"Jul 22, 2011",Fox Searchlight,Drama
+Due Date,Due Date,"Nov 5, 2010",Warner Bros.,Comedy
+"Beats, Rhymes & Life: The T…","Beats, Rhymes & Life","Jul 8, 2011",Sony Pictures Cla…,Documentary
+Kill The Irishman,Kill The Irishman,"Mar 11, 2011",Anchor Bay Entert…,Drama
+Dylan Dog: Dead of Night,Dylan Dog: Dead of N,"Apr 29, 2011",Omin/Freestyle,Horror
+Sholem Aleichem: Laughing i…,Sholem Aleichem: Lau,"Jul 8, 2011",International Fil…,Documentary
+The Whistleblower,The Whistleblower,"Aug 5, 2011",Samuel Goldwyn Films,Drama
+The Heart Specialist,The Heart Specialist,"Jan 14, 2011",Freestyle Releasing,Romantic Comedy
+Love and Other Drugs,Love and Other Drugs,"Nov 24, 2010",20th Century Fox,Drama
+There Be Dragons,There Be Dragons,"May 6, 2011",Samuel Goldwyn Films,Drama
+Page One: Inside the New Yo…,Page One: Inside the,"Jun 17, 2011",Magnolia Pictures,Documentary
+Desi Boyz,Desi Boyz,"Nov 25, 2011",Eros Entertainment,Comedy
+Red State,Red State,"Sep 23, 2011",Smodshow Productions,Horror
+Attack the Block,Attack the Block,"Jul 29, 2011",Sony Pictures,Action
+In a Better World,In a Better World,"Apr 1, 2011",Sony Pictures Cla…,Drama
+Rockstar,Rockstar,"Nov 11, 2011",Eros Entertainment,Drama
+Meek's Cutoff,Meek's Cutoff,"Apr 8, 2011",Oscilloscope Pict…,Drama
+Yamla Pagla Deewana,Yamla Pagla Deewana,"Jan 14, 2011",Eros Entertainment,Comedy
+The Beaver,The Beaver,"May 6, 2011",Summit Entertainment,Comedy
+Ready,Ready,"Jun 3, 2011",Eros Entertainment,Comedy
+I Love You Phillip Morris,I Love You Phillip M,"Dec 3, 2010",Roadside Attractions,Comedy
+Red,Red,"Oct 15, 2010",Summit Entertainment,Action
+Inside Job,Inside Job,"Oct 8, 2010",Sony Pictures Cla…,Documentary
+Higher Ground,Higher Ground,"Aug 23, 2011",Sony Pictures Cla…,Drama
+Sur le rythme,Sur le rythme,"Aug 12, 2011",,
+The Lord of the Rings: The …,The Lord of the Ring,"Dec 17, 2003",Warner Bros.,Adventure
+Casino Jack,Casino Jack,"Dec 17, 2010",,Thriller/Suspense
+13 Assassins,13 Assassins,"Apr 29, 2011",Magnolia Pictures,Action
+The Lord of the Rings: The …,The Lord of the Ring,"Dec 5, 2003",Warner Bros.,Adventure
+The Lord of the Rings: The …,The Lord of the Ring,"Dec 12, 2003",New Line,Adventure
+Le hérisson,Le hérisson,"Mar 12, 2010",NeoClassics Films,Drama
+Service Entrance,Service Entrance,"Jun 3, 2011",Strand Releasing,Comedy
+Mausam,Mausam,"Sep 23, 2011",Eros Entertainment,Drama
+The Polar Express,The Polar Express,"Nov 10, 2004",Warner Bros.,Adventure
+Point Blank,Point Blank,"Jul 29, 2011",Magnolia Pictures,Thriller/Suspense
+Hobo with a Shotgun,Hobo with a Shotgun,"May 6, 2011",Magnolia Pictures,Action
+Tabloid!,Tabloid!,"Jul 15, 2011",IFC Films,Documentary
+Mozart’s Sister,Mozart’s Sister,"Aug 19, 2011",Music Box Films,Drama
+Terri,Terri,"Jul 1, 2011",ATO Pictures,Comedy
+Aarakshan,Aarakshan,"Aug 12, 2011",Reliance Big Pict…,Drama
+Secretariat,Secretariat,"Oct 8, 2010",Walt Disney,Drama
+Patiala House,Patiala House,"Feb 11, 2011",Tachyon,Drama
+POM Wonderful Presents: The…,POM Wonderful Presen,"Apr 22, 2011",Sony Pictures Cla…,Documentary
+The Last Lions,The Last Lions,"Feb 18, 2011",National Geograph…,Documentary
+U2 3D,U2 3D,"Feb 15, 2008",National Geograph…,Concert/Perfor…
+Made in Dagenham,Made in Dagenham,"Nov 19, 2010",Sony Pictures Cla…,Drama
+Mumbai Diaries,Mumbai Diaries,"Jan 21, 2011",UTV Communications,Drama
+The Future,The Future,"Jul 29, 2011",Roadside Attractions,Drama
+Dum Maaro Dum,Dum Maaro Dum,"Apr 22, 2011",Fox Searchlight,Drama
+Even the Rain,Even the Rain,"Feb 18, 2011",Vitagraph Films,Drama
+Metropolis,Metropolis,"Mar 13, 1927",Kino Classics,Action
+Double Dhamaal,Double Dhamaal,"Jun 24, 2011",Reliance Big Pict…,Comedy
+Winter in Wartime,Winter in Wartime,"Mar 18, 2011",Sony Pictures Cla…,Drama
+Love Crime,Love Crime,"Sep 2, 2011",IFC Films,Thriller/Suspense
+Machine Gun Preacher,Machine Gun Preacher,"Sep 23, 2011",Relativity,Drama
+Deep Sea 3-D,Deep Sea 3-D,"Mar 3, 2006",Warner Bros.,Documentary
+The Names of Love,The Names of Love,"Jun 24, 2011",Music Box Films,Comedy
+Creature,Creature,"Sep 9, 2011",The Bubble Factory,Horror
+Bride Flight,Bride Flight,"Jun 10, 2011",Music Box Films,Drama
+My Brother Ki Dulhan,My Brother Ki Dulhan,"Sep 9, 2011",Yash Raj Films,Romantic Comedy
+Life as We Know It,Life as We Know It,"Oct 8, 2010",Warner Bros.,Romantic Comedy
+Weekend,Weekend,"Sep 23, 2011",IFC Films,Drama
+Queen to Play,Queen to Play,"Apr 1, 2011",Zeitgeist,Romantic Comedy
+Detective Dee and The Myste…,Detective Dee and Th,"Sep 2, 2011",Indomina Releasing,Thriller/Suspense
+Pearl Jam Twenty,Pearl Jam Twenty,"Sep 20, 2011",Arts Alliance Ame…,Documentary
+Submarine,Submarine,"Jun 3, 2011",Weinstein Co.,Comedy
+Jihne Mera Dil Luteya,Jihne Mera Dil Lutey,"Jul 29, 2011",Viva Entertainment,Romantic Comedy
+Thank You,Thank You,"Apr 8, 2011",UTV Communications,Romantic Comedy
+Circumstance,Circumstance,"Aug 26, 2011",Roadside Attractions,Drama
+No One Killed Jessica,No One Killed Jessic,"Jan 7, 2011",UTV Communications,Drama
+Frisson des Collines,Frisson des Collines,"Apr 15, 2011",,Drama
+The Salvation Poem,The Salvation Poem,"Oct 15, 2010",CanZion Films,
+Fair*Game,Fair*Game,"Nov 5, 2010",Summit Entertainment,Drama
+Project Nim,Project Nim,"Jul 8, 2011",Roadside Attractions,Documentary
+The 5th Quarter,The 5th Quarter,"Mar 25, 2011",Rocky Mountain Pi…,Drama
+Turtle: The Incredible Journey,Turtle: The Incredib,"Jun 24, 2011",Hannover House,Documentary
+Faster,Faster,"Nov 24, 2010",CBS Films,Action
+Hesher,Hesher,"May 13, 2011",Wrekin Hill Enter…,Drama
+Miral,Miral,"Mar 25, 2011",Weinstein Co.,Drama
+MOOZ-lum,MOOZ-lum,"Feb 11, 2011",Peace Film LLC,Drama
+Le Havre,Le Havre,"Oct 21, 2011",Janus Films,Drama
+Poetry,Poetry,"Feb 11, 2011",Kino International,Drama
+The Princess of Montpensier,The Princess of Mont,"Apr 15, 2011",IFC Films,Drama
+Extremely Loud and Incredib…,Extremely Loud and I,"Dec 25, 2011",Warner Bros.,Drama
+Singham,Singham,"Jul 22, 2011",Reliance Big Pict…,Drama
+Carnage,Carnage,"Dec 16, 2011",Sony Pictures Cla…,Black Comedy
+Arthur et la vengeance de M…,Arthur et la vengean,"Feb 25, 2011",,Adventure
+The First Grader,The First Grader,"May 13, 2011",National Geograph…,Drama
+Super,Super,"Apr 1, 2011",IFC Films,Black Comedy
+Bbuddah: Hoga Tera Baap,Bbuddah: Hoga Tera B,"Jul 1, 2011",,Action
+Dharti,Dharti,"Apr 22, 2011",Viva Entertainment,Drama
+L'Amour Fou,L'Amour Fou,"May 13, 2011",IFC Films,Documentary
+Galapagos,Galapagos,"Oct 29, 1999",IMAX Films,Documentary
+Despicable Me,Despicable Me,"Jul 9, 2010",Universal,Adventure
+Winter's Bone,Winter's Bone,"Jun 11, 2010",Roadside Attractions,Drama
+Saat Khoon Maaf,Saat Khoon Maaf,"Feb 18, 2011",UTV Communications,Black Comedy
+The Black Power Mixtape: 19…,The Black Power Mixt,"Sep 9, 2011",IFC Films,Documentary
+The Concert,The Concert,"Jul 30, 2010",Weinstein Co.,Drama
+Conan O'Brien Can't Stop,Conan O'Brien Can't ,"Jun 24, 2011",Abramorama Films,Documentary
+Munger Road,Munger Road,"Sep 30, 2011",Freestyle Releasing,Thriller/Suspense
+The Mill and the Cross,The Mill and the Cro,"Sep 14, 2011",Kino Lorber,Drama
+Phil Ochs: There but for Fo…,Phil Ochs: There but,"Jan 5, 2011",First Run Features,Documentary
+Sea Monsters: A Prehistoric…,Sea Monsters: A Preh,"Oct 5, 2007",National Geograph…,Documentary
+Rascals,Rascals,"Oct 7, 2011",Eros Entertainment,Action
+The Music Never Stopped,The Music Never Stop,"Mar 18, 2011",Roadside Attractions,Drama
+All Good Things,All Good Things,"Dec 3, 2010",Magnolia Pictures,Drama
+PASSIONE: A Musical Adventure,PASSIONE: A Musical ,"Jun 22, 2011",Abramorama Films,Documentary
+Troll Hunter,Troll Hunter,"Jun 10, 2011",Magnet Pictures,Horror
+Life in a Day,Life in a Day,"Jul 24, 2011",National Geograph…,Documentary
+Morning Glory,Morning Glory,"Nov 10, 2010",Paramount Pictures,Comedy
+My Perestroika,My Perestroika,"Mar 23, 2011",International Fil…,Documentary
+Tanu Weds Manu,Tanu Weds Manu,"Feb 25, 2011",Viva Entertainment,Comedy
+The Interrrupers,The Interrrupers,"Jul 29, 2011",Cinema Guild,Documentary
+Being Elmo: A Puppeteer's J…,Being Elmo: A Puppet,"Oct 21, 2011",Submarine Deluxe,Documentary
+Gainsbourg: A Heroic Life,Gainsbourg: A Heroic,"Aug 31, 2011",Music Box Films,Drama
+Brighton Rock,Brighton Rock,"Aug 26, 2011",IFC Films,Drama
+Tucker & Dale vs. Evil,Tucker & Dale vs. Ev,"Sep 30, 2011",Magnet Pictures,Black Comedy
+Into the Abyss,Into the Abyss,"Nov 11, 2011",IFC Films,Documentary
+HappyThankYouMorePlease,HappyThankYouMorePle,"Mar 4, 2011",Anchor Bay Entert…,Romantic Comedy
+The Afflicted,The Afflicted,"Oct 28, 2011",Nocturnal Features,Horror
+Winston Churchill: Walking …,Winston Churchill: W,"Oct 29, 2010",Moriah Films,Documentary
+Ip Man 2: Legend of the Gra…,Ip Man 2: Legend of ,"Jan 28, 2011",Variance Films,Action
+The Wildest Dream,The Wildest Dream,"Apr 30, 2010",,Documentary
+Queen of the Sun,Queen of the Sun,"Sep 17, 2010",Collective Eye,Documentary
+"Filth to Ashes, Flesh to Dust","Filth to Ashes, Fles","Sep 30, 2011",Nocturnal Features,Horror
+El Bulli: Cooking in Progress,El Bulli: Cooking in,"Jul 27, 2011",Alive Mind,Documentary
+Blackthorn,Blackthorn,"Oct 7, 2011",Magnolia Pictures,Western
+Bol,Bol,"Aug 31, 2011",Eros Entertainment,Drama
+Uncle Boonmee,Uncle Boonmee,"Mar 2, 2011",Strand Releasing,Drama
+JIG,JIG,"Jun 17, 2011",Screen Media Films,Documentary
+Rien a declarer,Rien a declarer,"Aug 26, 2011",,Comedy
+Amigo,Amigo,"Aug 19, 2011",Variance Films,Drama
+Go For It!,Go For It!,"May 13, 2011",Lionsgate,Drama
+American: The Bill Hicks Story,American: The Bill H,"Apr 8, 2011",Variance Films,Documentary
+The Man Nobody Knew: In Sea…,The Man Nobody Knew:,"Sep 23, 2011",First Run Features,Documentary
+Bellflower,Bellflower,"Aug 5, 2011",Oscilloscope Pict…,Action
+The Greatest Miracle,The Greatest Miracle,"Oct 14, 2011",KKM Enterprises,Drama
+The Last Godfather,The Last Godfather,"Apr 1, 2011",Roadside Attractions,Comedy
+Restless,Restless,"Sep 16, 2011",Sony Pictures Cla…,Drama
+The Happiness of Others,The Happiness of Oth,"Oct 7, 2011",,Romantic Comedy
+Pastorela,Pastorela,"Dec 2, 2011",Lionsgate,Comedy
+The Housemaid,The Housemaid,"Jan 21, 2011",IFC Films,Thriller/Suspense
+A Good Old Fashioned Orgy,A Good Old Fashioned,"Sep 2, 2011",Samuel Goldwyn Films,Comedy
+Millénium 3 - La reine du p…,Millénium 3 - La rei,"Apr 30, 2010",Music Box Films,Thriller/Suspense
+Magic Trip,Magic Trip,"Aug 5, 2011",Magnolia Pictures,Documentary
+Decisions,Decisions,"May 13, 2011",Self Distributed,Drama
+The Four Times,The Four Times,"Mar 30, 2011",Lorber Films,Drama
+Sex and Zen: Extreme Ecstasy,Sex and Zen: Extreme,"Aug 12, 2011",China Lion Film D…,Comedy
+Beginning of the Great Revival,Beginning of the Gre,"Jun 24, 2011",China Lion Film D…,Drama
+Revenge of the Electric Car,Revenge of the Elect,"Oct 14, 2011",Area 23a,Documentary
+Gun Hill Road,Gun Hill Road,"Aug 5, 2011",Motion Film Group,Drama
+Thunder Soul,Thunder Soul,"Sep 23, 2011",Roadside Attractions,Documentary
+Nostalgia for the Light,Nostalgia for the Li,"Mar 18, 2011",Icarus Films,Documentary
+Human Centipede 2: The Full…,Human Centipede 2: T,"Oct 7, 2011",IFC Films,Horror
+Eames: The Architect and th…,Eames: The Architect,"Nov 18, 2011",First Run Features,Documentary
+Dil Toh Baccha Hai Ji,Dil Toh Baccha Hai J,"Jan 28, 2011",Viva Entertainment,Comedy
+Cold Weather,Cold Weather,"Feb 4, 2011",IFC Films,Thriller/Suspense
+Labios Rojos,Labios Rojos,"Oct 14, 2011",Lionsgate,Comedy
+1911,1911,"Oct 7, 2011",Variance Films,Drama
+"Life, Above All","Life, Above All","Jul 15, 2011",Sony Pictures Cla…,Drama
+Evangelion: 2.0 You Can (No…,Evangelion: 2.0 You ,"Jan 21, 2011",,Multiple Genres
+Game,Game,"Apr 1, 2011",Eros Entertainment,Action
+I Saw the Devil,I Saw the Devil,"Mar 4, 2011",Magnet Pictures,Thriller/Suspense
+Legend of the Guardians: Th…,Legend of the Guardi,"Sep 24, 2010",Paramount Pictures,Adventure
+The Bang Bang Club,The Bang Bang Club,"May 6, 2011",TriBeca Films,Drama
+What Women Want,What Women Want,"Feb 3, 2011",China Lion Film D…,Comedy
+Last Mountain The,Last Mountain The,"Jun 3, 2011",Dada Films,Documentary
+City of Life and Death,City of Life and Dea,"May 11, 2011",Kino International,Drama
+Jackass 3D,Jackass 3D,"Oct 15, 2010",Paramount Pictures,Comedy
+Trust,Trust,"Apr 1, 2011",Alchemy,Drama
+Kaboom,Kaboom,"Jan 28, 2011",IFC Films,Comedy
+Inni,Inni,"Sep 27, 2011",Cinema Purgatorio,Concert/Perfor…
+The Big Uneasy,The Big Uneasy,"Aug 30, 2010",Self Distributed,Documentary
+Blank City,Blank City,"Apr 6, 2011",Insurgent Media,Documentary
+Vision,Vision,"Oct 13, 2010",Zeitgeist,Drama
+35 and Ticking,35 and Ticking,"May 20, 2011",Image Entertainment,Romantic Comedy
+Last Night,Last Night,"May 6, 2011",TriBeca Films,Drama
+Mysteries of Lisbon,Mysteries of Lisbon,"Aug 5, 2011",Music Box Films,Thriller/Suspense
+Tiny Furniture,Tiny Furniture,"Nov 12, 2010",IFC Films,Comedy
+Henry's Crime,Henry's Crime,"Apr 8, 2011",Motion Pictures F…,Comedy
+Young Goethe in Love,Young Goethe in Love,"Nov 4, 2011",Music Box Films,Drama
+Rubber,Rubber,"Apr 1, 2011",Magnet Pictures,Black Comedy
+Rejoice and Shout,Rejoice and Shout,"Jun 3, 2011",Magnolia Pictures,Documentary
+The Undefeated,The Undefeated,"Jul 15, 2011",Cinedigm,Documentary
+The Double,The Double,"Oct 28, 2011",Image Entertainment,Thriller/Suspense
+The Warrior's Way,The Warrior's Way,"Dec 3, 2010",Relativity,Western
+A Little Help,A Little Help,"Jul 22, 2011",Freestyle Releasing,Comedy
+Tomboy,Tomboy,"Nov 16, 2011",Rocket Releasing,Drama
+My Dog Tulip,My Dog Tulip,"Sep 1, 2010",New Yorker,Drama
+Paranormal Activity 2,Paranormal Activity ,"Oct 22, 2010",Paramount Pictures,Horror
+Evil Bong 3,Evil Bong 3,"Apr 9, 2011",Full Moon Features,Comedy
+The Man Who Fell to Earth,The Man Who Fell to ,"Jun 24, 2011",Rialto Pictures,Drama
+Exporting Raymond,Exporting Raymond,"Apr 29, 2011",Samuel Goldwyn Films,Documentary
+Vidal Sassoon The Movie,Vidal Sassoon The Mo,"Feb 11, 2011",Phase 4 Films,Documentary
+Carancho,Carancho,"Feb 11, 2011",Strand Releasing,Drama
+Elite Squad: The Enemy Within,Elite Squad: The Ene,"Nov 11, 2011",Variance Films,Action
+Waste Land,Waste Land,"Oct 29, 2010",Arthouse Films,Documentary
+Pariah,Pariah,"Dec 28, 2011",Focus Features,Drama
+The Robber,The Robber,"Feb 3, 2011",Kino International,Drama
+Oy Vey! My Son is Gay!,Oy Vey! My Son is Ga,"Dec 24, 2010",,
+Inkubus,Inkubus,"Oct 28, 2011",Screen Media Films,Horror
+True Legend,True Legend,"May 13, 2011",Indomina Releasing,Action
+Circo,Circo,"Apr 1, 2011",First Run Features,Documentary
+Beautiful Boy,Beautiful Boy,"Jun 3, 2011",Anchor Bay Entert…,Drama
+Chalo Dilli,Chalo Dilli,"May 6, 2011",Eros Entertainment,
+Kings of Pastry,Kings of Pastry,"Sep 15, 2010",First Run Features,Documentary
+Evidence of a Haunting,Evidence of a Haunti,"Aug 26, 2011",Nocturnal Features,Horror
+The Tree,The Tree,"Jul 15, 2011",Zeitgeist,Drama
+Hausu,Hausu,"Jan 15, 2010",Janus Films,Horror
+The Warring States,The Warring States,"Apr 22, 2011",China Lion Film D…,Drama
+Heartbeats,Heartbeats,"Jun 11, 2010",IFC Films,Drama
+Four Lions,Four Lions,"Nov 5, 2010",Drafthouse Films,Black Comedy
+Puncture,Puncture,"Sep 23, 2011",Alchemy,Drama
+A Beautiful Life,A Beautiful Life,"May 20, 2011",China Lion Film D…,Drama
+Shaolin,Shaolin,"Sep 9, 2011",Variance Films,Action
+Snowmen,Snowmen,"Oct 21, 2011",ARC Entertainment,Drama
+Get Low,Get Low,"Jul 30, 2010",Sony Pictures Cla…,Drama
+Bhutto,Bhutto,"Dec 3, 2010",First Run Features,Documentary
+Battle of the Brides,Battle of the Brides,"May 6, 2011",Variance Films,Comedy
+The Human Resources Manager,The Human Resources ,"Mar 4, 2011",Film Movement,Drama
+Summer Wars,Summer Wars,"Dec 24, 2010",GKIDS,Adventure
+Trigun: Badlands Rumble,Trigun: Badlands Rum,"Jul 8, 2011",Eleven Arts,Action
+Queen of the Lot,Queen of the Lot,"Nov 19, 2010",Rainbow Releasing,Drama
+If A Tree Falls: The Story …,If A Tree Falls: The,"Jun 22, 2011",Oscilloscope Pict…,Drama
+Viva Riva,Viva Riva,"Jun 10, 2011",Music Box Films,Thriller/Suspense
+Une vie qui commence,Une vie qui commence,"Jan 21, 2011",,Drama
+The Whale,The Whale,"Sep 9, 2011",Paladin,Documentary
+How to Live Forever,How to Live Forever,"May 13, 2011",Variance Films,Documentary
+Limelight,Limelight,"Sep 23, 2011",Magnolia Pictures,Documentary
+Crime after Crime,Crime after Crime,"Jul 1, 2011",Life Sentence Fil…,Documentary
+3,3,"Sep 16, 2011",Strand Releasing,Drama
+A Separation,A Separation,"Dec 30, 2011",Sony Pictures Cla…,Drama
+White Material,White Material,"Nov 19, 2010",IFC Films,Drama
+Finding Joe,Finding Joe,"Sep 30, 2011",Balcony Releasing,Documentary
+Into Eternity,Into Eternity,"Feb 2, 2011",International Fil…,Documentary
+The Other F Word,The Other F Word,"Nov 2, 2011",Oscilloscope Pict…,Documentary
+Dirty Girl,Dirty Girl,"Oct 7, 2011",Weinstein Co.,Drama
+Farmageddon,Farmageddon,"Jun 17, 2011",Kristin Marie Pro…,Documentary
+For Colored Girls,For Colored Girls,"Nov 5, 2010",Lionsgate,Drama
+"!Women, Art, Revolution","!Women, Art, Revolut","Jun 1, 2011",Zeitgeist,Documentary
+My Reincarnation,My Reincarnation,"Oct 28, 2011",Long Shot Factory,Documentary
+Battleship Potemkin,Battleship Potemkin,"Jan 14, 2011",Kino International,Drama
+Legend of the Fist: The Ret…,Legend of the Fist: ,"Apr 22, 2011",Variance Films,Action
+In The Land of Blood and Honey,In The Land of Blood,"Dec 23, 2011",FilmDistrict,Drama
+Orgasm Inc,Orgasm Inc,"Feb 11, 2011",First Run Features,Documentary
+The Perfect Host,The Perfect Host,"Jul 1, 2011",Magnolia Pictures,Thriller/Suspense
+Marwencol,Marwencol,"Oct 8, 2010",,Documentary
+Putty Hill,Putty Hill,"Feb 18, 2011",Cinema Guild,Drama
+Lebanon Pa.,Lebanon Pa.,"Apr 29, 2011",Truly Indie,Drama
+"The Butcher, the Chef and t…","The Butcher, the Che","Mar 18, 2011",China Lion Film D…,Comedy
+What If...,What If...,"Aug 20, 2010",Five & Two Pictures,Drama
+Pianomania,Pianomania,"May 27, 2011",First Run Features,Documentary
+Alabama Moon,Alabama Moon,"Mar 18, 2011",Faulkner-McLean E…,Adventure
+Margaret,Margaret,"Sep 30, 2011",Fox Searchlight,Drama
+Journal d'un curé de campagne,Journal d'un curé de,"Feb 25, 2011",Rialto Pictures,Drama
+Connected: An Autobiography…,Connected: An Autobi,"Sep 16, 2011",Paladin,Documentary
+The Woodmans,The Woodmans,"Jan 19, 2011",Lorber Films,Documentary
+The Tempest,The Tempest,"Dec 10, 2010",Miramax,Drama
+Every Day,Every Day,"Jan 14, 2011",Image Entertainment,Drama
+Tees Maar Khan,Tees Maar Khan,"Dec 22, 2010",UTV Communications,Comedy
+Rapt,Rapt,"Jul 6, 2011",Lorber Films,Drama
+Texas Killing Fields,Texas Killing Fields,"Oct 14, 2011",Anchor Bay Entert…,Thriller/Suspense
+Happy Happy,Happy Happy,"Sep 16, 2011",Magnolia Pictures,Drama
+Magnificent Desolation,Magnificent Desolati,"Sep 23, 2005",IMAX Films,Documentary
+Undertow,Undertow,"Sep 17, 2010",The Film Collabor…,Drama
+Desert Flower,Desert Flower,"Mar 18, 2011",National Geograph…,Drama
+Crazy Wisdom,Crazy Wisdom,"Nov 25, 2011",Alive Mind,Documentary
+Love Etc.,Love Etc.,"Jul 1, 2011",,Documentary
+Over Your Cities Grass Will…,Over Your Cities Gra,"Aug 10, 2011",Alive Mind,Documentary
+Public Speaking,Public Speaking,"Feb 23, 2011",Rialto Pictures,Documentary
+People v. The State of Illu…,People v. The State ,"Sep 9, 2011",Self Distributed,Documentary
+Down for Life,Down for Life,"Jan 14, 2011",B.D. Fox Independent,Drama
+The Conquest,The Conquest,"Nov 11, 2011",Music Box Films,Drama
+Myth of the American Sleepover,Myth of the American,"Jul 22, 2011",IFC Films,Drama
+"Arrow, the Ultimate Weapon","Arrow, the Ultimate ","Oct 14, 2011",CJ Entertainment,Action
+The Last Circus,The Last Circus,"Aug 19, 2011",Magnolia Pictures,Black Comedy
+CornerStore,CornerStore,"Aug 12, 2011",Shotown Pictures,Comedy
+Louder Than A Bomb,Louder Than A Bomb,"May 18, 2011",Balcony Releasing,Documentary
+Road to Nowhere,Road to Nowhere,"Jun 10, 2011",Monterey Media,Thriller/Suspense
+Empire of Silver,Empire of Silver,"Jun 3, 2011",China Lion Film D…,Drama
+Went the Day Well,Went the Day Well,"May 20, 2011",Rialto Pictures,Thriller/Suspense
+3 Backyards,3 Backyards,"Mar 11, 2011",Screen Media Films,Drama
+The Strange Case of Angelica,The Strange Case of ,"Dec 31, 2010",Cinema Guild,Drama
+When Harry Tries to Marry,When Harry Tries to ,"Apr 22, 2011",108 Pics,Romantic Comedy
+The Snows of Kilimanjaro,The Snows of Kiliman,"Dec 9, 2011",Mongrel Media,Drama
+Where Soldiers Come From,Where Soldiers Come ,"Sep 9, 2011",International Fil…,Documentary
+11-11-11,11-11-11,"Nov 11, 2011",Rocket Releasing,Horror
+Summer,Summer,"Jun 9, 2011",The Film Desk,Drama
+A Somewhat Gentle Man,A Somewhat Gentle Ma,"Jan 14, 2011",Strand Releasing,Black Comedy
+Sleeping Beauty,Sleeping Beauty,"Dec 2, 2011",IFC Films,Drama
+Fireflies in the Garden,Fireflies in the Gar,"Oct 14, 2011",,Drama
+Granito: How to Nail a Dict…,Granito: How to Nail,"Sep 14, 2011",Skylight Pictures,Documentary
+Dogtooth,Dogtooth,"Jun 25, 2010",Kino International,Drama
+Da Wu Sheng (My Kingdom),Da Wu Sheng (My King,"Sep 9, 2011",China Lion Film D…,Drama
+Hell and Back Again,Hell and Back Again,"Oct 5, 2011",Docurama,Documentary
+Hereafter,Hereafter,"Oct 22, 2010",Warner Bros.,Drama
+Love in Space,Love in Space,"Sep 9, 2011",China Lion Film D…,Romantic Comedy
+Making the Boys,Making the Boys,"Mar 11, 2011",First Run Features,Documentary
+Tamara Drewe,Tamara Drewe,"Oct 8, 2010",Sony Pictures Cla…,Comedy
+Stake Land,Stake Land,"Apr 22, 2011",IFC Films,Horror
+American Teacher,American Teacher,"Sep 30, 2011",First Run Features,Documentary
+Meet Monica Velour,Meet Monica Velour,"Apr 8, 2011",Anchor Bay Entert…,Comedy
+Film Socialisme,Film Socialisme,"Jun 3, 2011",Lorber Films,Drama
+The Time That Remains,The Time That Remain,"Jan 7, 2011",IFC Films,Drama
+Octubre,Octubre,"May 6, 2011",New Yorker,Comedy
+"HEY BOO: Harper Lee and ""To…",HEY BOO: Harper Lee ,"May 13, 2011",First Run Features,Documentary
+Small Town Murder Songs,Small Town Murder So,"May 27, 2011",Monterey Media,Thriller/Suspense
+White Irish Drinkers,White Irish Drinkers,"Mar 25, 2011",IFC Films,Drama
+The Son of No One,The Son of No One,"Nov 4, 2011",Anchor Bay Entert…,Drama
+Outrage,Outrage,"Dec 2, 2011",Magnolia Pictures,Drama
+Muran,Muran,"Sep 30, 2011",UTV Communications,Action
+Cat Run,Cat Run,"Apr 1, 2011",Paladin,Comedy
+Cracks,Cracks,"Mar 18, 2011",IFC Films,Drama
+Redemption Road,Redemption Road,"Aug 26, 2011",Freestyle Releasing,Drama
+The Topp Twins: Untouchable…,The Topp Twins: Unto,"May 13, 2011",Argot Pictures,Documentary
+Cost of a Soul,Cost of a Soul,"May 20, 2011",Relativity,Drama
+Chasing Madoff,Chasing Madoff,"Aug 26, 2011",Cohen Media Group,Documentary
+The Sleeping Beauty,The Sleeping Beauty,"Jul 8, 2011",Strand Releasing,Drama
+Salvation Boulevard,Salvation Boulevard,"Jul 15, 2011",IFC Films,Comedy
+"Tuesday, After Christmas","Tuesday, After Chris","May 25, 2011",Lorber Films,Drama
+Khodorkovsky,Khodorkovsky,"Nov 30, 2011",Kino Lorber,Documentary
+Animal Kingdom,Animal Kingdom,"Aug 13, 2010",Sony Pictures Cla…,Drama
+The Autobiography of Nicola…,The Autobiography of,"Sep 9, 2011",The Film Desk,Documentary
+Clash,Clash,"Mar 11, 2011",Variance Films,Action
+Forks Over Knives,Forks Over Knives,"May 6, 2011",Monica Beach Media,Documentary
+Enemies of the People,Enemies of the Peopl,"Jul 30, 2010",International Fil…,Documentary
+Caesar and Otto's Summer Ca…,Caesar and Otto's Su,"Sep 16, 2011",Nocturnal Features,Comedy
+Howl,Howl,"Sep 24, 2010",Oscilloscope Pict…,Drama
+Waiting for Forever,Waiting for Forever,"Feb 4, 2011",Freestyle Releasing,Romantic Comedy
+The Other Woman,The Other Woman,"Feb 4, 2011",IFC Films,Comedy
+Bonnie & Clyde vs. Dracula,Bonnie & Clyde vs. D,"Mar 11, 2011",Indican Pictures,Action
+Paul Goodman Changed My Life,Paul Goodman Changed,"Oct 19, 2011",Zeitgeist,Documentary
+Harvest,Harvest,"May 6, 2011",Monterey Media,Drama
+Immigration Tango,Immigration Tango,"Feb 18, 2011",Roadside Attractions,Comedy
+Bereavement,Bereavement,"Mar 4, 2011",,Horror
+Vincent Wants to Sea,Vincent Wants to Sea,"Jun 24, 2011",Corinth Films,Drama
+Shut Up Little Man! An Audi…,Shut Up Little Man! ,"Aug 26, 2011",TriBeca Films,Documentary
+Jane's Journey,Jane's Journey,"Sep 16, 2011",First Run Features,Documentary
+Nine Nation Animation,Nine Nation Animatio,"Sep 29, 2010",The World Accordi…,Multiple Genres
+Vanishing on Seventh Street,Vanishing on Seventh,"Feb 18, 2011",Magnet Pictures,Thriller/Suspense
+Black Death,Black Death,"Mar 11, 2011",Magnet Pictures,Horror
+Ceremony,Ceremony,"Apr 8, 2011",Magnolia Pictures,Romantic Comedy
+Bheja Fry 2,Bheja Fry 2,"Jun 17, 2011",,Comedy
+Garbo: The Spy,Garbo: The Spy,"Nov 18, 2011",First Run Features,Documentary
+All’s Faire in Love,All’s Faire in Love,"Oct 28, 2011",Hannover House,Romantic Comedy
+Answers to Nothing,Answers to Nothing,"Dec 2, 2011",Roadside Attractions,Drama
+Incendiary: The Willingham …,Incendiary: The Will,"Sep 23, 2011",Truly Indie,Documentary
+The Arbor,The Arbor,"Apr 27, 2011",Strand Releasing,Documentary
+Monogamy,Monogamy,"Mar 11, 2011",Oscilloscope Pict…,Drama
+Night Catches Us,Night Catches Us,"Dec 3, 2010",Magnolia Pictures,Drama
+Rare Exports: A Christmas Tale,Rare Exports: A Chri,"Dec 3, 2010",Oscilloscope Pict…,Comedy
+Cameraman: The Life and Wor…,Cameraman: The Life ,"May 13, 2011",Strand Releasing,Documentary
+Griff the Invisible,Griff the Invisible,"Aug 19, 2011",Indomina Releasing,Romantic Comedy
+Resurrect Dead: The Mystery…,Resurrect Dead: The ,"Sep 2, 2011",Argot Pictures,Documentary
+The Bride Wore Black,The Bride Wore Black,"Nov 4, 2011",Film Forum,Drama
+The Genesis Code,The Genesis Code,"Aug 25, 2010",America Saga Rele…,Drama
+Brotherhood,Brotherhood,"Feb 18, 2011",Phase 4 Films,Thriller/Suspense
+When We Leave,When We Leave,"Jan 28, 2011",Olive Films,Drama
+Skateland,Skateland,"May 13, 2011",Freestyle Releasing,Drama
+House of Pleasures,House of Pleasures,"Nov 25, 2011",IFC Films,Drama
+The Next Three Days,The Next Three Days,"Nov 19, 2010",Lionsgate,Thriller/Suspense
+Four Adventures of Reinette…,Four Adventures of R,"Jul 20, 2011",The Film Desk,Comedy
+Client 9: The Rise and Fall…,Client 9: The Rise a,"Nov 5, 2010",Magnolia Pictures,Documentary
+You Will Meet a Tall Dark S…,You Will Meet a Tall,"Sep 22, 2010",Sony Pictures Cla…,Drama
+Mesrine: Killer Instinct,Mesrine: Killer Inst,"Aug 27, 2010",Music Box Films,Drama
+Battle for Brooklyn,Battle for Brooklyn,"Jun 9, 2011",Rooftop Films,Documentary
+5 Days of War,5 Days of War,"Aug 19, 2011",Anchor Bay Entert…,Drama
+Littlerock,Littlerock,"Aug 12, 2011",Variance Films,Drama
+InSight,InSight,"Sep 2, 2011",Check Entertainme…,Thriller/Suspense
+Feed the Fish,Feed the Fish,"Apr 23, 2010",Strand Releasing,Romantic Comedy
+Mia and the Magoo,Mia and the Magoo,"Mar 25, 2011",GKIDS,Adventure
+Trespass,Trespass,"Oct 14, 2011",Alchemy,Thriller/Suspense
+The Little Traitor,The Little Traitor,"Oct 16, 2009",Westchester Films,Drama
+The Last Ride,The Last Ride,"Oct 21, 2011",,Drama
+London Boulevard,London Boulevard,"Nov 11, 2011",IFC Films,Drama
+Tyrannosaur,Tyrannosaur,"Nov 18, 2011",Strand Releasing,Drama
+Dumbstruck,Dumbstruck,"Apr 15, 2011",Truly Indie,Documentary
+The Tenant,The Tenant,"Apr 15, 2011",Indican Pictures,Thriller/Suspense
+Ong Bak 3,Ong Bak 3,"Jan 14, 2011",Magnet Pictures,Action
+Strange Powers: Stephin Mer…,Strange Powers: Step,"Oct 27, 2010",Variance Films,Documentary
+Armadillo,Armadillo,"Apr 15, 2011",Lorber Films,Documentary
+The Chaperone,The Chaperone,"Feb 18, 2011",Samuel Goldwyn Films,Comedy
+Peep World,Peep World,"Mar 25, 2011",IFC Films,Comedy
+Guy and Madeline on a Park …,Guy and Madeline on ,"Nov 5, 2010",Variance Films,Musical
+Saheb Biwi Aur Gangster,Saheb Biwi Aur Gangs,"Sep 30, 2011",UTV Communications,Action
+OKA!,OKA!,"Oct 14, 2011",Dada Films,Adventure
+Sympathy for Delicious,Sympathy for Delicio,"Apr 29, 2011",Maya Releasing,Comedy
+Every Man for Himself,Every Man for Himsel,"Nov 12, 2010",The Film Desk,Drama
+William S. Burroughs: A Man…,William S. Burroughs,"Nov 17, 2010",Oscilloscope Pict…,Documentary
+Benda Bilili!,Benda Bilili!,"Sep 30, 2011",National Geograph…,Documentary
+Beautiful Darling,Beautiful Darling,"Apr 22, 2011",Corinth Films,Documentary
+Charlotte Rampling: The Look,Charlotte Rampling: ,"Nov 4, 2011",Kino Lorber,Documentary
+Mesrine: Public Enemy No. 1,Mesrine: Public Enem,"Sep 3, 2010",Music Box Films,Comedy
+Under the Boardwalk: The MO…,Under the Boardwalk:,"Mar 4, 2011",Self Distributed,Documentary
+The Town,The Town,"Sep 17, 2010",Warner Bros.,Thriller/Suspense
+Bloodworth,Bloodworth,"May 20, 2011",Samuel Goldwyn Films,Drama
+I'm Not Jesus Mommy,I'm Not Jesus Mommy,"May 6, 2011",FilmDemic,Thriller/Suspense
+Leap Year,Leap Year,"Jun 24, 2011",Strand Releasing,Drama
+Nenette,Nenette,"Dec 22, 2010",Kino International,Documentary
+America the Beautiful II: T…,America the Beautifu,"Oct 12, 2011",,Documentary
+Rebrith,Rebrith,"Aug 31, 2011",Oscilloscope Pict…,Documentary
+Back Door Channels,Back Door Channels,"Sep 16, 2011",Fisher-Klingenste…,Documentary
+"If I Want to Whistle, I Whi…",If I Want to Whistle,"Jan 5, 2011",Film Movement,Drama
+Elektra Luxx,Elektra Luxx,"Mar 11, 2011",Samuel Goldwyn Films,Comedy
+Leaving,Leaving,"Oct 1, 2010",IFC Films,Drama
+Sarah Palin: You Betcha!,Sarah Palin: You Bet,"Sep 30, 2011",Freestyle Releasing,Documentary
+"Marriage, Italian Style (19…","Marriage, Italian St","Sep 23, 2011",Kino Classics,Comedy
+The Cremaster Cycle,The Cremaster Cycle,"Apr 9, 2010",International Fil…,Drama
+Zero Bridge,Zero Bridge,"Feb 16, 2011",The Film Desk,Drama
+A Bird of the Air,A Bird of the Air,"Sep 23, 2011",Paladin,Romantic Comedy
+Carlos,Carlos,"Oct 15, 2010",IFC Films,Drama
+A Screaming Man,A Screaming Man,"Apr 13, 2011",Film Movement,Drama
+Cook County,Cook County,"Dec 16, 2011",Hannover House,Drama
+Woman With the Five Elephants,Woman With the Five ,"Jul 20, 2011",Cinema Guild,Documentary
+Vito Bonacacci,Vito Bonacacci,"May 6, 2011",CAVU Releasing,Drama
+The Ledge,The Ledge,"Jul 8, 2011",IFC Films,Drama
+Another Happy Day,Another Happy Day,"Nov 18, 2011",Phase 4 Films,Drama
+Shanghai Red,Shanghai Red,"Jan 1, 2010",Indican Pictures,Thriller/Suspense
+Special Treatment,Special Treatment,"Aug 26, 2011",First Run Features,Drama
+How I Ended This Summer,How I Ended This Sum,"Feb 4, 2011",Film Movement,Drama
+I'm Glad My Mother is Alive,I'm Glad My Mother i,"Sep 2, 2011",Strand Releasing,Drama
+Korkoro,Korkoro,"Mar 25, 2011",Lorber Films,Drama
+Wrecked,Wrecked,"Apr 1, 2011",IFC Films,Thriller/Suspense
+The Heir Apparent: Largo Winch,The Heir Apparent: L,"Nov 18, 2011",Music Box Films,Action
+Rid of Me,Rid of Me,"Nov 18, 2011",Phase 4 Films,Black Comedy
+Certifiably Jonathan,Certifiably Jonathan,"Feb 11, 2011",,Comedy
+John Carpenter's The Ward,John Carpenter's The,"Jul 8, 2011",Cinedigm,Horror
+Inception,Inception,"Jul 16, 2010",Warner Bros.,Thriller/Suspense
+Good Neighbors,Good Neighbors,"Jul 29, 2011",Magnolia Pictures,Thriller/Suspense
+Boxing Gym,Boxing Gym,"Oct 22, 2010",Zipporah,Documentary
+My Piece of the Pie,My Piece of the Pie,"Dec 9, 2011",IFC Films,Drama
+Janie Jones,Janie Jones,"Oct 28, 2011",TriBeca Films,Comedy
+"Scheherazade, Tell Me a Story","Scheherazade, Tell M","Feb 25, 2011",ArtMattan Films,Drama
+The Terkel in Trouble,The Terkel in Troubl,"Mar 26, 2010",,Adventure
+Monsieur Verdoux,Monsieur Verdoux,"Apr 11, 1947",The Film Desk,Black Comedy
+Addiction Incorporated,Addiction Incorporat,"Dec 14, 2011",Variance Films,Documentary
+That's What I Am,That's What I Am,"Apr 29, 2011",Samuel Goldwyn Films,Drama
+I Melt with You,I Melt with You,"Dec 9, 2011",Magnolia Pictures,Drama
+Chillar Party,Chillar Party,"Jul 8, 2011",UTV Communications,Comedy
+Florent: Queen of the Meat …,Florent: Queen of th,"May 20, 2011",Self Distributed,Documentary
+The Girlfriends,The Girlfriends,"Jun 18, 2010",The Film Desk,Drama
+The Family Tree,The Family Tree,"Aug 26, 2011",Entertainment One,Black Comedy
+Saint Misbehavin': The Wavy…,Saint Misbehavin': T,"Dec 3, 2010",Argot Pictures,Documentary
+Miss Minoes,Miss Minoes,"Dec 23, 2011",Music Box Films,Adventure
+To the Sea,To the Sea,"Jul 14, 2010",Film Movement,Drama
+The Imperialists Are Still …,The Imperialists Are,"Apr 15, 2011",IFC Films,Drama
+Rage,Rage,"Jan 28, 2011",Strand Releasing,Thriller/Suspense
+Elevate,Elevate,"Oct 21, 2011",Variance Films,Documentary
+Aurora,Aurora,"Jun 29, 2011",Cinema Guild,Drama
+My Joy,My Joy,"Sep 30, 2011",Kino Lorber,Drama
+Sons of Perdition,Sons of Perdition,"Feb 18, 2011",,Documentary
+Genius Within: The Inner Li…,Genius Within: The I,"Sep 10, 2010",Lorber Films,Documentary
+The Worst Movie EVER!,The Worst Movie EVER,"Aug 19, 2011",Hiltz Squared,Comedy
+Tanner Hall,Tanner Hall,"Sep 9, 2011",Anchor Bay Entert…,Drama
+Flypaper,Flypaper,"Aug 19, 2011",IFC Films,Comedy
+Come Undone,Come Undone,"Dec 3, 2010",Film Movement,Drama
+Burke & Hare,Burke & Hare,"Sep 9, 2011",IFC Films,Black Comedy
+The Catechism Cataclysm,The Catechism Catacl,"Oct 19, 2011",IFC Midnight,Comedy
+Fancypants,Fancypants,"Sep 30, 2011",Humble Pie Films,Comedy
+Daylight,Daylight,"Jul 15, 2011",Cinema Purgatorio,Thriller/Suspense
+Caterpillar,Caterpillar,"May 6, 2011",Lorber Films,Drama
+To Die Like A Man,To Die Like A Man,"Apr 8, 2011",Strand Releasing,Musical
+Building Hope,Building Hope,"Jun 3, 2011",The Nobility Project,Documentary
+Ranchero,Ranchero,"Jul 15, 2011",Indican Pictures,Drama
+Zenith,Zenith,"Oct 1, 2010",Cinema Purgatorio,Thriller/Suspense
+The Harvest/La Cosecha,The Harvest/La Cosec,"Jul 29, 2011",Cinema Libre,Documentary
+Passion Play,Passion Play,"May 6, 2011",Image Entertainment,Drama
+Raymond Did It,Raymond Did It,"Feb 11, 2011",Plastic Age Produ…,Horror
+Mississippi Mermaid,Mississippi Mermaid,"Jan 15, 1999",MGM,Drama
+The Sons of Tenessee Williams,The Sons of Tenessee,"Oct 7, 2011",First Run Features,Documentary
+Plastic Planet,Plastic Planet,"Jan 14, 2011",First Run Features,Documentary
+Balls to the Wall,Balls to the Wall,"Oct 21, 2011",Midwest Movies,Comedy
+The Weird World of Blowfly,The Weird World of B,"Sep 16, 2011",Variance Films,Documentary
+Corman's World: Exploits of…,Corman's World: Expl,"Dec 16, 2011",Anchor Bay Entert…,Documentary
+Protektor,Protektor,"Aug 5, 2011",Film Movement,Documentary
+Prince of the Himalayas,Prince of the Himala,"Dec 23, 2011",Kino Lorber,Drama
+Red Hill,Red Hill,"Nov 5, 2010",Sony Pictures,Thriller/Suspense
+Zokkomon,Zokkomon,"Apr 22, 2011",Walt Disney,Adventure
+Blood Ties,Blood Ties,"Feb 11, 2011",Afterlight Pictures,Action
+Raw Faith,Raw Faith,"May 28, 2010",Alive Mind,Documentary
+Restitution,Restitution,"Oct 28, 2011",Monterey Media,Thriller/Suspense
+United Red Army,United Red Army,"May 27, 2011",Lorber Films,Drama
+The Red Chapel,The Red Chapel,"Dec 29, 2010",Lorber Films,Documentary
+Knuckle,Knuckle,"Dec 9, 2011",ARC Entertainment,Documentary
+Brutal Beauty: Tales of the…,Brutal Beauty: Tales,"Jan 8, 2010",Cinema Purgatorio,Documentary
+Main Street,Main Street,"Sep 9, 2011",Magnolia Pictures,Drama
+Flickan som lekte med elden,Flickan som lekte me,"Dec 25, 2009",Music Box Films,Thriller/Suspense
+About Fifty,About Fifty,"Nov 11, 2011",Screen Media Films,Comedy
+Sidewalls,Sidewalls,"Oct 26, 2011",IFC Films,Drama
+Fading of the Cries,Fading of the Cries,"Jul 8, 2011",Eammon Films,Multiple Genres
+The Taqwacores,The Taqwacores,"Oct 22, 2010",Strand Releasing,Drama
+Millénium - Le Film,Millénium - Le Film,"May 29, 2009",Music Box Films,Thriller/Suspense
+To Die is Hard,To Die is Hard,"Dec 17, 2010",Driving With Our …,Comedy
+American Grindhouse,American Grindhouse,"Jun 18, 2010",Lorber Films,Documentary
+"Love, Wedding, Marriage","Love, Wedding, Marri","Jun 3, 2011",IFC Films,Comedy
+Around a Small Mountain,Around a Small Mount,"Jul 9, 2010",Cinema Guild,Comedy
+Now & Later,Now & Later,"Feb 18, 2011",Cinema Libre,Drama
+Chalet Girl,Chalet Girl,"Oct 14, 2011",IFC Films,Romantic Comedy
+They’re Out of Business,They’re Out of Busin,"Apr 11, 2011",,Comedy
+Small Change,Small Change,"Nov 24, 2009",New World,Comedy
+Violet Tendencies,Violet Tendencies,"Nov 5, 2010",Embrem Entertainment,Comedy
+Little Girl,Little Girl,"Sep 1, 2011",First Run Features,Drama
+The Tunnel,The Tunnel,"Aug 5, 2011",House Lights Media,Horror
+An Invisible Sign,An Invisible Sign,"May 6, 2011",,Drama
+Henri-Georges Clouzot's Inf…,Henri-Georges Clouzo,"Jul 16, 2010",,Documentary
+Angels Crest,Angels Crest,"Dec 30, 2011",Magnolia Pictures,Drama
+Illegal,Illegal,"Mar 25, 2011",Film Movement,Drama
+Rosencrantz and Guildenstei…,Rosencrantz and Guil,"Jun 4, 2010",Indican Pictures,Comedy
+Promised Lands,Promised Lands,"Dec 31, 1974",The Film Desk,

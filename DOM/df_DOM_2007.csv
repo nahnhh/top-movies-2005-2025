@@ -1,0 +1,765 @@
+Movie,trunc,Release Date,Distributor,Genre
+Spider-Man 3,Spider-Man 3,"May 4, 2007",Sony Pictures,Adventure
+Shrek the Third,Shrek the Third,"May 17, 2007",Paramount Pictures,Adventure
+Transformers,Transformers,"Jul 2, 2007",Paramount Pictures,Action
+Pirates of the Caribbean: A…,Pirates of the Carib,"May 24, 2007",Walt Disney,Adventure
+Harry Potter and the Order …,Harry Potter and the,"Jul 11, 2007",Warner Bros.,Adventure
+The Bourne Ultimatum,The Bourne Ultimatum,"Aug 3, 2007",Universal,Thriller/Suspense
+300,300,"Mar 9, 2007",Warner Bros.,Action
+Ratatouille,Ratatouille,"Jun 29, 2007",Walt Disney,Adventure
+I am Legend,I am Legend,"Dec 14, 2007",Warner Bros.,Thriller/Suspense
+The Simpsons Movie,The Simpsons Movie,"Jul 27, 2007",20th Century Fox,Comedy
+National Treasure: Book of …,National Treasure: B,"Dec 21, 2007",Walt Disney,Adventure
+Wild Hogs,Wild Hogs,"Mar 2, 2007",Walt Disney,Comedy
+Alvin and the Chipmunks,Alvin and the Chipmu,"Dec 14, 2007",20th Century Fox,Adventure
+Knocked Up,Knocked Up,"Jun 1, 2007",Universal,Romantic Comedy
+Rush Hour 3,Rush Hour 3,"Aug 10, 2007",New Line,Action
+Night at the Museum,Night at the Museum,"Dec 22, 2006",20th Century Fox,Adventure
+Live Free or Die Hard,Live Free or Die Har,"Jun 27, 2007",20th Century Fox,Action
+Fantastic Four: Rise of the…,Fantastic Four: Rise,"Jun 15, 2007",20th Century Fox,Action
+American Gangster,American Gangster,"Nov 2, 2007",Universal,Drama
+Bee Movie,Bee Movie,"Nov 2, 2007",Paramount Pictures,Adventure
+Superbad,Superbad,"Aug 17, 2007",Sony Pictures,Comedy
+Enchanted,Enchanted,"Nov 21, 2007",Walt Disney,Adventure
+I Now Pronounce You Chuck a…,I Now Pronounce You ,"Jul 20, 2007",Universal,Comedy
+Hairspray,Hairspray,"Jul 20, 2007",New Line,Musical
+Blades of Glory,Blades of Glory,"Mar 30, 2007",Paramount Pictures,Comedy
+Ocean's Thirteen,Ocean's Thirteen,"Jun 8, 2007",Warner Bros.,Adventure
+Ghost Rider,Ghost Rider,"Feb 16, 2007",Sony Pictures,Action
+Evan Almighty,Evan Almighty,"Jun 22, 2007",Universal,Comedy
+Meet the Robinsons,Meet the Robinsons,"Mar 30, 2007",Walt Disney,Adventure
+Norbit,Norbit,"Feb 9, 2007",Paramount Pictures,Comedy
+The Game Plan,The Game Plan,"Sep 28, 2007",Walt Disney,Comedy
+Bridge to Terabithia,Bridge to Terabithia,"Feb 16, 2007",Walt Disney,Drama
+Beowulf,Beowulf,"Nov 16, 2007",Paramount Pictures,Adventure
+Disturbia,Disturbia,"Apr 13, 2007",Paramount Pictures,Thriller/Suspense
+1408,1408,"Jun 22, 2007",MGM,Horror
+Fred Claus,Fred Claus,"Nov 9, 2007",Warner Bros.,Comedy
+Dreamgirls,Dreamgirls,"Dec 25, 2006",Paramount Pictures,Musical
+His Dark Materials: The Gol…,His Dark Materials: ,"Dec 7, 2007",New Line,Adventure
+The Pursuit of Happyness,The Pursuit of Happy,"Dec 15, 2006",Sony Pictures,Drama
+Saw IV,Saw IV,"Oct 26, 2007",Lionsgate,Horror
+Stomp the Yard,Stomp the Yard,"Jan 12, 2007",Sony Pictures,Drama
+Surf’s Up,Surf’s Up,"Jun 8, 2007",Sony Pictures,Adventure
+Halloween,Halloween,"Aug 31, 2007",MGM,Horror
+Why Did I Get Married?,Why Did I Get Marrie,"Oct 12, 2007",Lionsgate,Comedy
+TMNT,TMNT,"Mar 23, 2007",Warner Bros.,Action
+3:10 to Yuma,3:10 to Yuma,"Sep 7, 2007",Lionsgate,Western
+Resident Evil: Extinction,Resident Evil: Extin,"Sep 21, 2007",Sony Pictures,Horror
+Music and Lyrics,Music and Lyrics,"Feb 14, 2007",Warner Bros.,Romantic Comedy
+Are We Done Yet?,Are We Done Yet?,"Apr 4, 2007",Sony Pictures,Comedy
+This Christmas,This Christmas,"Nov 21, 2007",Sony Pictures,Drama
+Premonition,Premonition,"Mar 16, 2007",Sony Pictures,Thriller/Suspense
+The Kingdom,The Kingdom,"Sep 28, 2007",Universal,Action
+Dan in Real Life,Dan in Real Life,"Oct 26, 2007",Walt Disney,Romantic Comedy
+Shooter,Shooter,"Mar 23, 2007",Paramount Pictures,Thriller/Suspense
+No Country for Old Men,No Country for Old M,"Nov 21, 2007",Miramax,Western
+License to Wed,License to Wed,"Jul 3, 2007",Warner Bros.,Romantic Comedy
+Underdog,Underdog,"Aug 3, 2007",Walt Disney,Adventure
+No Reservations,No Reservations,"Jul 27, 2007",Warner Bros.,Romantic Comedy
+Because I Said So,Because I Said So,"Feb 2, 2007",Universal,Romantic Comedy
+Charlie Wilson's War,Charlie Wilson's War,"Dec 21, 2007",Universal,Comedy
+Epic Movie,Epic Movie,"Jan 26, 2007",20th Century Fox,Comedy
+30 Days of Night,30 Days of Night,"Oct 19, 2007",Sony Pictures,Horror
+Hitman,Hitman,"Nov 21, 2007",20th Century Fox,Action
+Michael Clayton,Michael Clayton,"Oct 12, 2007",Warner Bros.,Drama
+Fracture,Fracture,"Apr 20, 2007",New Line,Thriller/Suspense
+Stardust,Stardust,"Aug 10, 2007",Paramount Pictures,Adventure
+Pan's Labyrinth,Pan's Labyrinth,"Dec 29, 2006",Picturehouse,Horror
+The Brave One,The Brave One,"Sep 14, 2007",Warner Bros.,Thriller/Suspense
+The Heartbreak Kid,The Heartbreak Kid,"Oct 5, 2007",Paramount Pictures,Romantic Comedy
+Freedom Writers,Freedom Writers,"Jan 5, 2007",Paramount Pictures,Drama
+Smokin' Aces,Smokin' Aces,"Jan 26, 2007",Universal,Comedy
+The Messengers,The Messengers,"Feb 2, 2007",Sony Pictures,Horror
+The Number 23,The Number 23,"Feb 23, 2007",New Line,Thriller/Suspense
+Good Luck Chuck,Good Luck Chuck,"Sep 21, 2007",Lionsgate,Romantic Comedy
+Children of Men,Children of Men,"Dec 25, 2006",Universal,Thriller/Suspense
+Mr. Bean’s Holiday,Mr. Bean’s Holiday,"Aug 24, 2007",Universal,Adventure
+Zodiac,Zodiac,"Mar 2, 2007",Paramount Pictures,Drama
+Breach,Breach,"Feb 16, 2007",Universal,Thriller/Suspense
+Balls of Fury,Balls of Fury,"Aug 29, 2007",Focus Features,Comedy
+Juno,Juno,"Dec 5, 2007",Fox Searchlight,Comedy
+Daddy's Little Girls,Daddy's Little Girls,"Feb 14, 2007",Lionsgate,Drama
+Mr. Magorium's Wonder Emporium,Mr. Magorium's Wonde,"Nov 16, 2007",20th Century Fox,Comedy
+The Water Horse: Legend of …,The Water Horse: Leg,"Dec 25, 2007",Sony Pictures,Adventure
+Sweeney Todd: The Demon Bar…,Sweeney Todd: The De,"Dec 21, 2007",Paramount Pictures,Musical
+Aliens vs. Predator - Requiem,Aliens vs. Predator ,"Dec 25, 2007",20th Century Fox,Action
+August Rush,August Rush,"Nov 21, 2007",Warner Bros.,Drama
+Charlotte's Web,Charlotte's Web,"Dec 15, 2006",Paramount Pictures,Drama
+28 Weeks Later,28 Weeks Later,"May 11, 2007",20th Century Fox,Horror
+We Own the Night,We Own the Night,"Oct 12, 2007",Sony Pictures,Action
+Mr. Brooks,Mr. Brooks,"Jun 1, 2007",MGM,Thriller/Suspense
+The Queen,The Queen,"Sep 30, 2006",Miramax,Drama
+"P.S., I Love You","P.S., I Love You","Dec 21, 2007",Warner Bros.,Romantic Comedy
+Hannibal Rising,Hannibal Rising,"Feb 9, 2007",Weinstein Co.,Thriller/Suspense
+The Nanny Diaries,The Nanny Diaries,"Aug 24, 2007",MGM,Comedy
+Mr. Woodcock,Mr. Woodcock,"Sep 14, 2007",New Line,Comedy
+Nancy Drew,Nancy Drew,"Jun 15, 2007",Warner Bros.,Adventure
+The Mist,The Mist,"Nov 21, 2007",MGM,Horror
+The Reaping,The Reaping,"Apr 5, 2007",Warner Bros.,Horror
+Grindhouse,Grindhouse,"Apr 6, 2007",Weinstein/Dimension,Multiple Genres
+The Good Shepherd,The Good Shepherd,"Dec 22, 2006",Universal,Drama
+Sicko,Sicko,"Jun 29, 2007",Lionsgate,Documentary
+Across the Universe,Across the Universe,"Sep 14, 2007",Sony Pictures,Musical
+Perfect Stranger,Perfect Stranger,"Apr 13, 2007",Sony Pictures,Thriller/Suspense
+Hot Fuzz,Hot Fuzz,"Apr 20, 2007",Focus Features,Comedy
+War,War,"Aug 24, 2007",Lionsgate,Action
+Rocky Balboa,Rocky Balboa,"Dec 20, 2006",MGM,Drama
+Happy Feet,Happy Feet,"Nov 17, 2006",Warner Bros.,Musical
+The Great Debaters,The Great Debaters,"Dec 25, 2007",Weinstein Co.,Drama
+Blood Diamond,Blood Diamond,"Dec 8, 2006",Warner Bros.,Action
+The Last Mimzy,The Last Mimzy,"Mar 23, 2007",New Line,Adventure
+Amazing Grace,Amazing Grace,"Feb 23, 2007",Samuel Goldwyn Films,Drama
+The Hills Have Eyes II,The Hills Have Eyes ,"Mar 23, 2007",20th Century Fox,Horror
+The Invisible,The Invisible,"Apr 27, 2007",Walt Disney,Thriller/Suspense
+Reno 911!: Miami,Reno 911!: Miami,"Feb 23, 2007",20th Century Fox,Comedy
+Gone Baby Gone,Gone Baby Gone,"Oct 19, 2007",Miramax,Drama
+Reign Over Me,Reign Over Me,"Mar 23, 2007",Sony Pictures,Drama
+Atonement,Atonement,"Dec 7, 2007",Focus Features,Drama
+Waitress,Waitress,"May 2, 2007",Fox Searchlight,Romantic Comedy
+Vacancy,Vacancy,"Apr 20, 2007",Sony Pictures,Thriller/Suspense
+Georgia Rule,Georgia Rule,"May 11, 2007",Universal,Drama
+Becoming Jane,Becoming Jane,"Aug 3, 2007",Miramax,Drama
+Eragon,Eragon,"Dec 15, 2006",20th Century Fox,Adventure
+We Are Marshall,We Are Marshall,"Dec 22, 2006",Warner Bros.,Drama
+Next,Next,"Apr 27, 2007",Paramount Pictures,Action
+Hostel: Part II,Hostel: Part II,"Jun 8, 2007",Lionsgate,Horror
+Walk Hard: The Dewey Cox Story,Walk Hard: The Dewey,"Dec 21, 2007",Sony Pictures,Comedy
+Eastern Promises,Eastern Promises,"Sep 14, 2007",Focus Features,Thriller/Suspense
+Into the Wild,Into the Wild,"Sep 21, 2007",Paramount Vantage,Drama
+Notes on a Scandal,Notes on a Scandal,"Dec 25, 2006",Fox Searchlight,Drama
+Dead Silence,Dead Silence,"Mar 16, 2007",Universal,Horror
+The Hitcher,The Hitcher,"Jan 19, 2007",Focus Features,Thriller/Suspense
+Elizabeth: The Golden Age,Elizabeth: The Golde,"Oct 12, 2007",Universal,Drama
+Happily N'Ever After,Happily N'Ever After,"Jan 5, 2007",Lionsgate,Adventure
+Catch and Release,Catch and Release,"Jan 26, 2007",Sony Pictures,Romantic Comedy
+Alpha Dog,Alpha Dog,"Jan 12, 2007",Universal,Drama
+Arthur and the Invisibles,Arthur and the Invis,"Dec 15, 2006",Weinstein Co.,Adventure
+The Invasion,The Invasion,"Aug 17, 2007",Warner Bros.,Thriller/Suspense
+Lions for Lambs,Lions for Lambs,"Nov 9, 2007",United Artists,Drama
+The Nightmare Before Christmas,The Nightmare Before,"Oct 13, 1993",Walt Disney,Musical
+Babel,Babel,"Oct 27, 2006",Paramount Vantage,Drama
+Awake,Awake,"Nov 30, 2007",Weinstein Co.,Thriller/Suspense
+The Last King of Scotland,The Last King of Sco,"Sep 27, 2006",Fox Searchlight,Drama
+Hot Rod,Hot Rod,"Aug 3, 2007",Paramount Pictures,Comedy
+Firehouse Dog,Firehouse Dog,"Apr 4, 2007",20th Century Fox,Comedy
+Casino Royale,Casino Royale,"Nov 17, 2006",Sony Pictures,Action
+The Namesake,The Namesake,"Mar 9, 2007",Fox Searchlight,Drama
+Letters from Iwo Jima,Letters from Iwo Jim,"Dec 20, 2006",Warner Bros.,Drama
+The Comebacks,The Comebacks,"Oct 19, 2007",20th Century Fox,Comedy
+Daddy Day Camp,Daddy Day Camp,"Aug 8, 2007",Sony Pictures,Comedy
+The Holiday,The Holiday,"Dec 8, 2006",Sony Pictures,Romantic Comedy
+Shoot 'Em Up,Shoot 'Em Up,"Sep 7, 2007",New Line,Action
+I Think I Love My Wife,I Think I Love My Wi,"Mar 16, 2007",Fox Searchlight,Romantic Comedy
+Evening,Evening,"Jun 29, 2007",Focus Features,Drama
+The Departed,The Departed,"Oct 6, 2006",Warner Bros.,Drama
+Sydney White,Sydney White,"Sep 21, 2007",Universal,Romantic Comedy
+Deep Sea 3-D,Deep Sea 3-D,"Mar 3, 2006",Warner Bros.,Documentary
+The Darjeeling Limited,The Darjeeling Limit,"Sep 29, 2007",Fox Searchlight,Comedy
+The Lives of Others,The Lives of Others,"Feb 9, 2007",Sony Pictures Cla…,Drama
+In the Land of Women,In the Land of Women,"Apr 20, 2007",Warner Bros.,Comedy
+The Astronaut Farmer,The Astronaut Farmer,"Feb 23, 2007",Warner Bros.,Drama
+Dragon Wars,Dragon Wars,"Sep 14, 2007",Freestyle Releasing,Action
+Primeval,Primeval,"Jan 12, 2007",Walt Disney,Horror
+Pathfinder,Pathfinder,"Apr 13, 2007",20th Century Fox,Action
+La Vie en Rose,La Vie en Rose,"Jun 8, 2007",Picturehouse,Drama
+Bratz,Bratz,"Aug 3, 2007",Lionsgate,Comedy
+Rendition,Rendition,"Oct 19, 2007",New Line,Thriller/Suspense
+Death Sentence,Death Sentence,"Aug 31, 2007",20th Century Fox,Action
+Once,Once,"May 16, 2007",Fox Searchlight,Drama
+Black Snake Moan,Black Snake Moan,"Mar 2, 2007",Paramount Vantage,Drama
+A Mighty Heart,A Mighty Heart,"Jun 22, 2007",Paramount Vantage,Drama
+The Seeker: The Dark is Rising,The Seeker: The Dark,"Oct 5, 2007",20th Century Fox,Adventure
+Death at a Funeral,Death at a Funeral,"Aug 17, 2007",MGM,Black Comedy
+Apocalypto,Apocalypto,"Dec 8, 2006",Walt Disney,Action
+Volver,Volver,"Nov 3, 2006",Sony Pictures Cla…,Comedy
+Code Name: The Cleaner,Code Name: The Clean,"Jan 5, 2007",New Line,Comedy
+Delta Farce,Delta Farce,"May 11, 2007",Lionsgate,Comedy
+Bella,Bella,"Oct 26, 2007",Roadside Attractions,Drama
+The Painted Veil,The Painted Veil,"Dec 20, 2006",Warner Independent,Drama
+El Cantante,El Cantante,"Aug 1, 2007",Picturehouse,Drama
+The Martian Child,The Martian Child,"Nov 2, 2007",New Line,Drama
+The Condemned,The Condemned,"Apr 27, 2007",Lionsgate,Action
+I Know Who Killed Me,I Know Who Killed Me,"Jul 27, 2007",Sony Pictures,Thriller/Suspense
+The Hoax,The Hoax,"Apr 6, 2007",Walt Disney,Comedy
+Pride,Pride,"Mar 23, 2007",Lionsgate,Drama
+Bug,Bug,"May 25, 2007",Lionsgate,Horror
+Redline,Redline,"Apr 13, 2007",Chicago Releasing,Action
+In the Valley of Elah,In the Valley of Ela,"Sep 14, 2007",Warner Bros.,Drama
+Before the Devil Knows You'…,Before the Devil Kno,"Oct 26, 2007",ThinkFilm,Drama
+The Kite Runner,The Kite Runner,"Dec 14, 2007",Paramount Vantage,Drama
+P2,P2,"Nov 9, 2007",Summit Entertainment,Horror
+Sea Monsters: A Prehistoric…,Sea Monsters: A Preh,"Oct 5, 2007",National Geograph…,Documentary
+The Last Legion,The Last Legion,"Aug 17, 2007",Weinstein/Dimension,Action
+Feel the Noise,Feel the Noise,"Oct 5, 2007",Sony Pictures,Drama
+Lars and the Real Girl,Lars and the Real Gi,"Oct 12, 2007",MGM,Comedy
+Lucky You,Lucky You,"May 4, 2007",Warner Bros.,Drama
+The Perfect Holiday,The Perfect Holiday,"Dec 12, 2007",Yari Film Group R…,Romantic Comedy
+Who's Your Caddy?,Who's Your Caddy?,"Jul 27, 2007",MGM,Comedy
+Aqua Teen Hunger Force Colo…,Aqua Teen Hunger For,"Apr 13, 2007",First Look,Black Comedy
+Rescue Dawn,Rescue Dawn,"Jul 4, 2007",MGM,Action
+Magnificent Desolation,Magnificent Desolati,"Sep 23, 2005",IMAX Films,Documentary
+Black Christmas,Black Christmas,"Dec 25, 2006",MGM,Horror
+Curse of the Golden Flower,Curse of the Golden ,"Dec 21, 2006",Sony Pictures Cla…,Action
+"Paris, je t'aime","Paris, je t'aime","May 4, 2007",First Look,Drama
+Love in the Time of Cholera,Love in the Time of ,"Nov 16, 2007",New Line,Drama
+The Lookout,The Lookout,"Mar 30, 2007",Walt Disney,Drama
+"Lust, Caution","Lust, Caution","Sep 28, 2007",Focus Features,Drama
+Away From Her,Away From Her,"May 11, 2007",Lionsgate,Drama
+Talk to Me,Talk to Me,"Aug 3, 2007",Focus Features,Drama
+Kickin It Old Skool,Kickin It Old Skool,"Apr 27, 2007",Yari Film Group R…,Comedy
+2 Days in Paris,2 Days in Paris,"Aug 10, 2007",Samuel Goldwyn Films,Comedy
+Black Book,Black Book,"Apr 6, 2007",Sony Pictures Cla…,Thriller/Suspense
+Wild Safari 3D,Wild Safari 3D,"Apr 8, 2005",nWave Pictures,Documentary
+Ladron que roba a ladron,Ladron que roba a la,"Aug 31, 2007",Lionsgate,Action
+The Assassination of Jesse …,The Assassination of,"Sep 21, 2007",Warner Bros.,Western
+Nitro,Nitro,"Jun 30, 2007",Alliance Atlantis,Action
+Sunshine,Sunshine,"Jul 27, 2007",Fox Searchlight,Thriller/Suspense
+Om Shanti Om,Om Shanti Om,"Nov 9, 2007",Eros Entertainment,Drama
+The Jane Austen Book Club,The Jane Austen Book,"Sep 21, 2007",Sony Pictures Cla…,Drama
+Blood and Chocolate,Blood and Chocolate,"Jan 26, 2007",MGM,Horror
+The Feast of Love,The Feast of Love,"Sep 28, 2007",MGM,Drama
+The Ultimate Gift,The Ultimate Gift,"Mar 9, 2007",Film Foundry,Drama
+I’m Not There,I’m Not There,"Nov 21, 2007",Weinstein Co.,Drama
+Things We Lost in the Fire,Things We Lost in th,"Oct 19, 2007",Paramount Pictures,Drama
+Venus,Venus,"Dec 21, 2006",Miramax,Drama
+Resurrecting the Champ,Resurrecting the Cha,"Aug 24, 2007",Yari Film Group R…,Drama
+The Ex,The Ex,"May 11, 2007",MGM,Romantic Comedy
+Illegal Tender,Illegal Tender,"Aug 24, 2007",Universal,Thriller/Suspense
+Little Children,Little Children,"Oct 6, 2006",New Line,Drama
+Miss Potter,Miss Potter,"Dec 29, 2006",MGM,Drama
+Gracie,Gracie,"Jun 1, 2007",Picturehouse,Drama
+Flushed Away,Flushed Away,"Nov 3, 2006",Paramount Pictures,Adventure
+Borat,Borat,"Nov 3, 2006",20th Century Fox,Comedy
+"Ma Fille, Mon Ange","Ma Fille, Mon Ange","Feb 13, 2007",Alliance Atlantis,Thriller/Suspense
+Captivity,Captivity,"Jul 13, 2007",Lionsgate,Horror
+Roving Mars,Roving Mars,"Jan 27, 2006",Walt Disney,Documentary
+The Polar Express,The Polar Express,"Nov 10, 2004",Warner Bros.,Adventure
+Déjà Vu,Déjà Vu,"Nov 22, 2006",Walt Disney,Thriller/Suspense
+You Kill Me,You Kill Me,"Jun 22, 2007",IFC Films,Black Comedy
+The Valet,The Valet,"Apr 20, 2007",Sony Pictures Cla…,Comedy
+The Host,The Host,"Mar 9, 2007",Magnolia Pictures,Action
+Perfume: The Story of a Mur…,Perfume: The Story o,"Dec 27, 2006",Paramount Pictures,Drama
+Guru,Guru,"Jan 12, 2007",AdLab Films,Drama
+Santa vs. The Snowman,Santa vs. The Snowma,"Nov 6, 2002",IMAX Films,Adventure
+Avenue Montaigne,Avenue Montaigne,"Feb 16, 2007",ThinkFilm,Comedy
+The Savages,The Savages,"Nov 28, 2007",Fox Searchlight,Drama
+Salaam-e-Ishq (A Tribute to…,Salaam-e-Ishq (A Tri,"Jan 25, 2007",Eros Entertainment,Romantic Comedy
+The Wind That Shakes the Ba…,The Wind That Shakes,"Mar 16, 2007",IFC First Take,Drama
+Peaceful Warrior,Peaceful Warrior,"Mar 30, 2007",Universal,Drama
+Margot at the Wedding,Margot at the Weddin,"Nov 16, 2007",Paramount Vantage,Drama
+Unaccompanied Minors,Unaccompanied Minors,"Dec 8, 2006",Warner Bros.,Comedy
+Factory Girl,Factory Girl,"Dec 29, 2006",MGM,Drama
+Year of the Dog,Year of the Dog,"Apr 13, 2007",Paramount Vantage,Drama
+After the Wedding,After the Wedding,"Mar 30, 2007",IFC Films,Drama
+Space Station,Space Station,"Apr 19, 2002",IMAX Films,Documentary
+The Diving Bell and the But…,The Diving Bell and ,"Nov 30, 2007",Miramax,Drama
+No End In Sight,No End In Sight,"Jul 27, 2007",Magnolia Pictures,Documentary
+My Best Friend,My Best Friend,"Jul 13, 2007",IFC Films,Comedy
+Hey Baby,Hey Baby,"Aug 24, 2007",Eros Entertainment,Comedy
+Romeo et Juliette,Romeo et Juliette,"Dec 15, 2006",Alliance Atlantis,Drama
+The Nativity Story,The Nativity Story,"Dec 1, 2006",New Line,Drama
+Eklavya - The Royal Guard,Eklavya - The Royal ,"Feb 16, 2007",Eros Entertainment,Action
+The Abandoned,The Abandoned,"Feb 23, 2007",Lionsgate/After Dark,Horror
+Slow Burn,Slow Burn,"Apr 13, 2007",Lionsgate,Thriller/Suspense
+Namastey London,Namastey London,"Mar 23, 2007",Eros Entertainment,Romantic Comedy
+L'âge des ténèbres,L'âge des ténèbres,"Dec 7, 2007",,Comedy
+Blade Runner,Blade Runner,"Jun 25, 1982",Warner Bros.,Thriller/Suspense
+The Final Season,The Final Season,"Oct 12, 2007",Yari Film Group R…,Drama
+In the Shadow of the Moon,In the Shadow of the,"Sep 7, 2007",ThinkFilm,Documentary
+Chak De India,Chak De India,"Aug 10, 2007",Yash Raj Films,Drama
+Taare Zameen Par,Taare Zameen Par,"Dec 21, 2007",UTV Communications,Drama
+Silk,Silk,"Sep 14, 2007",Picturehouse,Drama
+Bhool Bhulaiyaa,Bhool Bhulaiyaa,"Oct 12, 2007",Eros Entertainment,Comedy
+September Dawn,September Dawn,"Aug 24, 2007",Black Diamond Pic…,Drama
+The Golden Door,The Golden Door,"May 25, 2007",Miramax,Drama
+Partner,Partner,"Jul 20, 2007",Eros Entertainment,Romantic Comedy
+Ma Tante Aline,Ma Tante Aline,"Jul 20, 2007",Alliance Atlantis,Comedy
+Skinwalkers,Skinwalkers,"Aug 10, 2007",Lionsgate/After Dark,Horror
+Thr3e,Thr3e,"Jan 5, 2007",The Bigger Picture,Thriller/Suspense
+Goya's Ghosts,Goya's Ghosts,"Jul 20, 2007",Samuel Goldwyn Films,Drama
+Broken English,Broken English,"Jun 22, 2007",Magnolia Pictures,Romantic Comedy
+The Ten Commandments,The Ten Commandments,"Oct 19, 2007",Rocky Mountain Pi…,Adventure
+The Santa Clause 3: The Esc…,The Santa Clause 3: ,"Nov 3, 2006",Walt Disney,Adventure
+Breaking and Entering,Breaking and Enterin,"Dec 15, 2006",Weinstein Co.,Drama
+Provoked: A True Story,Provoked: A True Sto,"May 11, 2007",Eros Entertainment,Drama
+The Orphanage,The Orphanage,"Dec 28, 2007",Picturehouse,Horror
+The Brothers Solomon,The Brothers Solomon,"Sep 7, 2007",Sony Pictures,Comedy
+Saawariya,Saawariya,"Nov 9, 2007",Sony Pictures,Drama
+Paprika,Paprika,"May 25, 2007",Sony Pictures Cla…,Thriller/Suspense
+The Bucket List,The Bucket List,"Dec 25, 2007",Warner Bros.,Comedy
+The Hunting Party,The Hunting Party,"Sep 7, 2007",Weinstein Co.,Action
+After Dark's Horrorfest 2007,After Dark's Horrorf,"Nov 9, 2007",Freestyle Releasing,Horror
+Ta Ra Rum Pum,Ta Ra Rum Pum,"Apr 27, 2007",Yash Raj Films,Comedy
+T-Rex: Back to the Cretaceous,T-Rex: Back to the C,"Oct 23, 1998",IMAX Films,Adventure
+Inland Empire,Inland Empire,"Dec 6, 2006",518 Media,Drama
+Sharkwater,Sharkwater,"Sep 28, 2007",Alliance Atlantis,Documentary
+The Good German,The Good German,"Dec 22, 2006",Warner Bros.,Drama
+Control,Control,"Oct 10, 2007",Weinstein Co.,Drama
+Arctic Tale,Arctic Tale,"Jul 25, 2007",Paramount Vantage,Documentary
+How to Cook Your Life,How to Cook Your Lif,"Oct 26, 2007",Roadside Attractions,Documentary
+Sarah Landon and the Parano…,Sarah Landon and the,"Oct 19, 2007",Freestyle Releasing,Thriller/Suspense
+Bugs!,Bugs!,"Mar 14, 2003",SK Films,Documentary
+Into Great Silence,Into Great Silence,"Feb 28, 2007",Zeitgeist,Documentary
+Sweet Land,Sweet Land,"Oct 13, 2006","Libero, LLC",Drama
+The History Boys,The History Boys,"Nov 21, 2006",Fox Searchlight,Comedy
+The Ten,The Ten,"Aug 3, 2007",ThinkFilm,Comedy
+Rocket Science,Rocket Science,"Aug 10, 2007",Picturehouse,Comedy
+11th Hour,11th Hour,"Aug 17, 2007",Warner Independent,Documentary
+Jhoom Barabar Jhoom,Jhoom Barabar Jhoom,"Jun 15, 2007",Yash Raj Films,Comedy
+Lady Chatterley,Lady Chatterley,"Jun 22, 2007",Kino International,Drama
+Less Sugar,Less Sugar,"May 25, 2007",Eros Entertainment,Romantic Comedy
+Journey of a Woman,Journey of a Woman,"Oct 12, 2007",Yash Raj Films,Drama
+The King of Kong,The King of Kong,"Aug 17, 2007",Picturehouse,Documentary
+The Work and the Glory III:…,The Work and the Glo,"Nov 22, 2006",Excel Entertainment,Drama
+Molière,Molière,"Jul 27, 2007",Sony Pictures Cla…,Comedy
+Journey from the Fall,Journey from the Fal,"Mar 23, 2007",Imaginasian,Drama
+Haunted Castle,Haunted Castle,"Mar 2, 2001",nWave Pictures,Horror
+The Prestige,The Prestige,"Oct 20, 2006",Walt Disney,Thriller/Suspense
+The Italian,The Italian,"Jan 19, 2007",Sony Pictures Cla…,Drama
+Starting Out in the Evening,Starting Out in the ,"Nov 23, 2007",Roadside Attractions,Drama
+Romance and Cigarettes,Romance and Cigarett,"Sep 7, 2007",Borotoro,Comedy
+U-Carmen e-Khayelitsha,U-Carmen e-Khayelits,"Mar 28, 2007",Koch Lorber Films,Musical
+Aaja Nachle,Aaja Nachle,"Nov 30, 2007",Yash Raj Films,Musical
+Joshua,Joshua,"Jul 6, 2007",Fox Searchlight,Thriller/Suspense
+DOA: Dead or Alive,DOA: Dead or Alive,"Jun 15, 2007",Weinstein/Dimension,Action
+Day Watch,Day Watch,"Jun 1, 2007",Fox Searchlight,Action
+Brooklyn Rules,Brooklyn Rules,"May 11, 2007",Lionsgate,Drama
+Wristcutters: A Love Story,Wristcutters: A Love,"Oct 19, 2007",Autonomous Films,Comedy
+When the Road Bends: Tales …,When the Road Bends:,"Jun 15, 2007",Shadow,Documentary
+There Will Be Blood,There Will Be Blood,"Dec 26, 2007",Paramount Vantage,Drama
+Seraphim Falls,Seraphim Falls,"Jan 26, 2007",Samuel Goldwyn Films,Western
+Interview,Interview,"Jul 13, 2007",Sony Pictures Cla…,Drama
+Killer of Sheep,Killer of Sheep,"Mar 30, 2007",Milestone,Drama
+Little Miss Sunshine,Little Miss Sunshine,"Jul 26, 2006",Fox Searchlight,Comedy
+Jindabyne,Jindabyne,"Apr 27, 2007",Sony Pictures Cla…,Drama
+Mafioso,Mafioso,"Jan 19, 2007",Rialto Pictures,Comedy
+Manufactured Landscapes,Manufactured Landsca,"Jun 20, 2007",Zeitgeist,Documentary
+The Last Sin Eater,The Last Sin Eater,"Feb 9, 2007",20th Century Fox,Drama
+Introducing the Dwights,Introducing the Dwig,"Aug 3, 2007",Warner Independent,Drama
+Deck the Halls,Deck the Halls,"Nov 22, 2006",20th Century Fox,Comedy
+Sleuth,Sleuth,"Oct 12, 2007",Sony Pictures Cla…,Thriller/Suspense
+2006 Academy Award Nominate…,2006 Academy Award N,"Feb 16, 2007",Magnolia Pictures,Multiple Genres
+This is England,This is England,"Jul 25, 2007",IFC Films,Drama
+Galapagos,Galapagos,"Oct 29, 1999",IMAX Films,Documentary
+Days of Glory,Days of Glory,"Feb 16, 2007",Weinstein Co.,Drama
+Persepolis,Persepolis,"Dec 25, 2007",Sony Pictures Cla…,Drama
+Constellation,Constellation,"Feb 2, 2007",The Bigger Picture,Drama
+Chalk,Chalk,"May 11, 2007",Arts Alliance Ame…,
+God Grew Tired of Us: The S…,God Grew Tired of Us,"Jan 12, 2007",Newmarket Films,Documentary
+Crazy Love,Crazy Love,"Jun 1, 2007",Magnolia Pictures,Documentary
+Fido,Fido,"Jun 15, 2007",Lionsgate,Horror
+Nos Voisins Dhantsu,Nos Voisins Dhantsu,"Feb 23, 2007",,
+Shootout at Lokhandwala,Shootout at Lokhandw,"May 25, 2007",Rainbow Releasing,Drama
+Romeo & Juliet: Sealed with…,Romeo & Juliet: Seal,"Oct 27, 2006",Indican Pictures,Adventure
+Ten Canoes,Ten Canoes,"May 25, 2007",Palm Pictures,Comedy
+Southland Tales,Southland Tales,"Nov 14, 2007",Samuel Goldwyn Films,Musical
+Bhagam Bhag,Bhagam Bhag,"Dec 22, 2006",Rainbow Releasing,Comedy
+The Rules of the Game,The Rules of the Gam,"Oct 27, 2006",Janus Films,Comedy
+For the Bible Tells Me So,For the Bible Tells ,"Aug 5, 2007",First Run Features,Documentary
+Deep Water,Deep Water,"Aug 24, 2007",IFC Films,Documentary
+The King of California,The King of Californ,"Sep 14, 2007",First Look,Drama
+The TV Set,The TV Set,"Apr 6, 2007",ThinkFilm,Comedy
+Noëlle,Noëlle,"Dec 7, 2007",Gener8xion Entert…,Drama
+Passage to Zarahemla,Passage to Zarahemla,"Oct 12, 2007",Somerset Films,Adventure
+Joe Strummer: The Future is…,Joe Strummer: The Fu,"Nov 2, 2007",Sony Pictures,Documentary
+"Gandhi, My Father","Gandhi, My Father","Aug 3, 2007",Eros Entertainment,Drama
+O Jerusalem,O Jerusalem,"Oct 17, 2007",Samuel Goldwyn Films,Drama
+Brand Upon the Brain!,Brand Upon the Brain,"May 9, 2007",Vitagraph Films,Drama
+In Search of Mozart,In Search of Mozart,"Jul 20, 2007",Direct Cinema Ltd,Documentary
+10 Questions for the Dalai …,10 Questions for the,"Aug 24, 2007",Monterey Media,Documentary
+Aliens of the Deep,Aliens of the Deep,"Jan 28, 2005",Walt Disney,Documentary
+Surviving My Mother,Surviving My Mother,"Nov 2, 2007",,Drama
+Eagle vs Shark,Eagle vs Shark,"Jun 15, 2007",Miramax,Comedy
+Ira and Abby,Ira and Abby,"Sep 14, 2007",Magnolia Pictures,Comedy
+Boy Culture,Boy Culture,"Mar 23, 2007",TLA Releasing,Drama
+Dus Kahaniyaan,Dus Kahaniyaan,"Dec 7, 2007",Eros Entertainment,Adventure
+Starter for Ten,Starter for Ten,"Feb 23, 2007",Picturehouse,Drama
+My Kid Could Paint That,My Kid Could Paint T,"Oct 5, 2007",Sony Pictures Cla…,Documentary
+First Snow,First Snow,"Mar 23, 2007",Yari Film Group R…,Drama
+Trade,Trade,"Sep 28, 2007",Roadside Attractions,Drama
+The Fountain,The Fountain,"Nov 22, 2006",Warner Bros.,Drama
+Believe in Me,Believe in Me,"Mar 9, 2007",IFC Films,Drama
+The Page Turner,The Page Turner,"Mar 23, 2007",Tartan Films,Drama
+"Milarepa: Magician, Murdere…","Milarepa: Magician, ","Sep 7, 2007",Walking Shadows,Drama
+Angel-A,Angel-A,"May 25, 2007",Sony Pictures Cla…,Romantic Comedy
+Live-In Maid,Live-In Maid,"Jul 18, 2007",Film Sales Company,Drama
+What Would Jesus Buy?,What Would Jesus Buy,"Nov 16, 2007",Warrior Poets,Documentary
+I Want Someone To Eat Chees…,I Want Someone To Ea,"Sep 5, 2007",IFC Films,Comedy
+Lonely Hearts,Lonely Hearts,"Apr 13, 2007",Alchemy,Drama
+Vitus,Vitus,"Jun 29, 2007",Sony Pictures Cla…,Drama
+Offside,Offside,"Mar 23, 2007",Sony Pictures Cla…,Comedy
+Pete Seeger: The Power of Song,Pete Seeger: The Pow,"Sep 14, 2007",Weinstein Co.,Documentary
+An Unreasonable Man,An Unreasonable Man,"Jan 31, 2007",IFC First Take,Documentary
+Hatchet,Hatchet,"Sep 7, 2007",Anchor Bay Entert…,Horror
+The Flying Scotsman,The Flying Scotsman,"May 4, 2007",MGM,Drama
+Hollywood Dreams,Hollywood Dreams,"May 18, 2007",Rainbow Releasing,Comedy
+Bobby,Bobby,"Nov 17, 2006",MGM,Drama
+Blame It On Fidel,Blame It On Fidel,"Aug 3, 2007",Koch Lorber Films,Drama
+Youth Without Youth,Youth Without Youth,"Dec 14, 2007",Sony Pictures Cla…,Thriller/Suspense
+Dhamaal,Dhamaal,"Sep 7, 2007",Shemaroo Entertai…,Comedy
+Vanaja,Vanaja,"Aug 31, 2007",Emerging Pictures,Drama
+Outsourced,Outsourced,"Sep 28, 2007",Lantern Lane Ente…,Comedy
+The Bubble,The Bubble,"Sep 7, 2007",Strand Releasing,Drama
+Red Road,Red Road,"Apr 13, 2007",Tartan Films,Drama
+Music Within,Music Within,"Oct 26, 2007",MGM,Drama
+ShowBusiness: The Road to B…,ShowBusiness: The Ro,"May 11, 2007",Regent Releasing,Documentary
+Life in a... Metro,Life in a... Metro,"May 11, 2007",UTV Communications,Drama
+Becket,Becket,"Mar 11, 1964",,Drama
+Memories of Tomorrow,Memories of Tomorrow,"May 18, 2007",Eleven Arts,Drama
+The Salon,The Salon,"May 11, 2007",Freestyle Releasing,Comedy
+The Earrings of Madame De...,The Earrings of Mada,"Mar 16, 2007",Janus Films,Drama
+Severance,Severance,"May 18, 2007",Magnolia Pictures,Comedy
+Iraq in Fragments,Iraq in Fragments,"Nov 8, 2006",Typecast Releasing,Documentary
+For Your Consideration,For Your Considerati,"Nov 22, 2006",Warner Independent,Comedy
+Private Fears in Public Places,Private Fears in Pub,"Apr 13, 2007",IFC First Take,Drama
+The Devil Came on Horseback,The Devil Came on Ho,"Jul 25, 2007",IFC Films,Documentary
+Americanizing Shelley,Americanizing Shelle,"Apr 26, 2007",Rocky Mountain Pi…,Romantic Comedy
+The Wendell Baker Story,The Wendell Baker St,"May 18, 2007",ThinkFilm,Comedy
+Fay Grim,Fay Grim,"May 18, 2007",Magnolia Pictures,Thriller/Suspense
+Dhan Dhana Dhan Goal,Dhan Dhana Dhan Goal,"Nov 21, 2007",UTV Communications,
+Send a Bullet,Send a Bullet,"Aug 17, 2007",City Lights Pictures,Documentary
+Aida at La Scala,Aida at La Scala,"Dec 7, 2007",Emerging Pictures,Concert/Perfor…
+Rise: Blood Hunter,Rise: Blood Hunter,"Jun 1, 2007",Samuel Goldwyn Films,Horror
+Bamako,Bamako,"Feb 14, 2007",New Yorker,Drama
+Flicka,Flicka,"Oct 20, 2006",20th Century Fox,Drama
+Darfur Now,Darfur Now,"Nov 2, 2007",Warner Independent,Documentary
+Holly,Holly,"Nov 9, 2007",Priority Films,Drama
+I Have Never Forgotten You:…,I Have Never Forgott,"May 23, 2007",Walking Shadows,Documentary
+Facing the Giants,Facing the Giants,"Sep 29, 2006",IDP/Goldwyn/Roadside,Drama
+Tortilla Heaven,Tortilla Heaven,"Mar 16, 2007",Wildcat Releasing,Comedy
+David & Layla,David & Layla,"Jul 20, 2007",Newroz Films,Romantic Comedy
+Mr. Untouchable,Mr. Untouchable,"Oct 26, 2007",Magnolia Pictures,Documentary
+Return with Honor: A Missio…,Return with Honor: A,"Sep 14, 2007",Excel Entertainment,Comedy
+Reservation Road,Reservation Road,"Oct 19, 2007",Focus Features,Drama
+Self Medicated,Self Medicated,"Aug 31, 2007",ThinkFilm,Drama
+The List,The List,"Aug 10, 2007",,
+The Illusionist,The Illusionist,"Aug 18, 2006",Yari Film Group R…,Drama
+Civic Duty,Civic Duty,"May 4, 2007",Freestyle Releasing,Thriller/Suspense
+King Corn,King Corn,"Oct 12, 2007",Balcony Releasing,Documentary
+Shut Up and Sing,Shut Up and Sing,"Oct 27, 2006",Weinstein Co.,Documentary
+Conversations with My Gardener,Conversations with M,"Nov 16, 2007",,Comedy
+Dedication,Dedication,"Aug 24, 2007",Weinstein/Dimension,Romantic Comedy
+12:08 East of Bucharest,12:08 East of Buchar,"Jun 6, 2007",Tartan Films,Comedy
+Puccini for Beginners,Puccini for Beginner,"Feb 2, 2007",Strand Releasing,Romantic Comedy
+Le petit lieutenant,Le petit lieutenant,"Sep 8, 2006",Cinema Libre,Drama
+Blind Dating,Blind Dating,"May 11, 2007",Samuel Goldwyn Films,Romantic Comedy
+Army of Shadows,Army of Shadows,"Apr 28, 2006",Rialto Pictures,Drama
+Delirious,Delirious,"Aug 15, 2007",Peace Arch Releasing,Comedy
+Klimt,Klimt,"Jun 22, 2007",Outsider,Drama
+Fierce People,Fierce People,"Sep 7, 2007",Lionsgate,Drama
+Old Joy,Old Joy,"Aug 25, 2006",Kino International,Drama
+Revolver,Revolver,"Dec 7, 2007",Samuel Goldwyn Films,Thriller/Suspense
+Black Sheep,Black Sheep,"Jun 22, 2007",IFC Films,Horror
+Le Doulos,Le Doulos,"Jun 29, 2007",Rialto Pictures,Thriller/Suspense
+The Treatment,The Treatment,"May 4, 2007",New Yorker,Romantic Comedy
+Jimmy Carter: Man From Plains,Jimmy Carter: Man Fr,"Oct 26, 2007",Sony Pictures Cla…,Documentary
+Comedy of Power,Comedy of Power,"Jan 5, 2007",Koch Lorber Films,
+Turistas,Turistas,"Dec 1, 2006",20th Century Fox,Horror
+Nomad: The Warrior,Nomad: The Warrior,"Mar 16, 2007",Weinstein Co.,Drama
+Radiant City,Radiant City,"Mar 30, 2007",Alliance Atlantis,
+Steep,Steep,"Dec 21, 2007",Sony Pictures Cla…,Documentary
+Kurt Cobain: About a Son,Kurt Cobain: About a,"Oct 3, 2007",Balcony Releasing,Documentary
+Tears of the Black Tiger,Tears of the Black T,"Jan 12, 2007",Magnolia Pictures,Action
+Nishabd,Nishabd,"Mar 2, 2007",Eros Entertainment,Drama
+Eye of the Dolphin,Eye of the Dolphin,"Aug 24, 2007",Monterey Media,Drama
+Gray Matters,Gray Matters,"Feb 23, 2007",Yari Film Group R…,Romantic Comedy
+Air Guitar Nation,Air Guitar Nation,"Mar 23, 2007",Shadow,Documentary
+Colour Me Kubrick: A True..…,Colour Me Kubrick: A,"Mar 23, 2007",Magnolia Pictures,Comedy
+Pierrot le fou,Pierrot le fou,"Jun 15, 2007",Janus Films,Drama
+Climates,Climates,"Oct 27, 2006",Zeitgeist,Drama
+Zoo,Zoo,"Apr 25, 2007",ThinkFilm,Documentary
+Red Balloon,Red Balloon,"Mar 11, 1957",Janus Films,Drama
+Behind the Mask: The Rise o…,Behind the Mask: The,"Mar 16, 2007",Anchor Bay Entert…,Horror
+Unconscious,Unconscious,"Dec 29, 2006",Regent Releasing,Comedy
+Diggers,Diggers,"Apr 27, 2007",Magnolia Pictures,Comedy
+Redacted,Redacted,"Nov 16, 2007",Magnolia Pictures,Drama
+Right at Your Door,Right at Your Door,"Aug 24, 2007",Lionsgate,Thriller/Suspense
+Even Money,Even Money,"May 18, 2007",,Drama
+Lagerfeld Confidential,Lagerfeld Confidenti,"Oct 24, 2007",Koch Lorber Films,Documentary
+The Nines,The Nines,"Aug 31, 2007",,Drama
+Dans Paris,Dans Paris,"Aug 8, 2007",IFC First Take,Drama
+Private Property,Private Property,"May 18, 2007",New Yorker,Drama
+My Brother,My Brother,"Mar 16, 2007",Codeblack Enterta…,Drama
+Cave of the Yellow Dog,Cave of the Yellow D,"Nov 10, 2006",Tartan Films,
+Flannel Pajamas,Flannel Pajamas,"Nov 15, 2006",Gigantic Pictures,Drama
+The Marine,The Marine,"Oct 13, 2006",20th Century Fox,Action
+El Topo,El Topo,"Dec 13, 2006",Abkco Films,Western
+Islander,Islander,"Mar 9, 2007",Slowhand Cinema,
+Quebec sur Ordonnace,Quebec sur Ordonnace,"Oct 5, 2007",Alliance Atlantis,
+"Maxed Out: Hard Times, Easy…",Maxed Out: Hard Time,"Mar 9, 2007",Magnolia Pictures,Documentary
+Diva,Diva,"Mar 26, 1982",MGM,Thriller/Suspense
+War Dance,War Dance,"Nov 9, 2007",ThinkFilm,Documentary
+The Holy Mountain,The Holy Mountain,"Jan 21, 2007",Abkco Films,Adventure
+Triad Election,Triad Election,"Apr 25, 2007",Tartan Films,Thriller/Suspense
+The Walker,The Walker,"Dec 7, 2007",ThinkFilm,Drama
+Shortbus,Shortbus,"Oct 4, 2006",ThinkFilm,Comedy
+Plagues and Pleasures on th…,Plagues and Pleasure,"Feb 24, 2006",Tilapia Film,Documentary
+Finishing the Game,Finishing the Game,"Oct 5, 2007",IFC First Take,Comedy
+Exiled,Exiled,"Aug 31, 2007",Magnolia Pictures,Action
+Strength and Honour,Strength and Honour,"Dec 7, 2007",Slowhand Cinema,Drama
+The Boss of It All,The Boss of It All,"May 23, 2007",IFC Films,Comedy
+Transformation: The Life & …,Transformation: The ,"Jul 27, 2007",Reel Diva Consult…,Documentary
+Fakers,Fakers,"Apr 27, 2007",Indican Pictures,Comedy
+Alice Neel,Alice Neel,"Apr 20, 2007",SeeThink,
+The Situation,The Situation,"Feb 2, 2007",Shadow,Thriller/Suspense
+Ghosts of Cité Soleil,Ghosts of Cité Solei,"Jun 27, 2007",ThinkFilm,Documentary
+Terror's Advocate,Terror's Advocate,"Oct 12, 2007",Magnolia Pictures,Documentary
+Two Weeks,Two Weeks,"Mar 2, 2007",MGM,Comedy
+December Boys,December Boys,"Sep 14, 2007",Aura Entertainment,Drama
+The Hip Hop Project,The Hip Hop Project,"May 11, 2007",ThinkFilm,Documentary
+A Man Named Pearl,A Man Named Pearl,"Aug 31, 2007",Railroad Square,Documentary
+Randy and the Mob,Randy and the Mob,"Sep 21, 2007",IFC Films,Comedy
+Queens,Queens,"Aug 25, 2006",Regent Releasing,Comedy
+Home of the Brave,Home of the Brave,"May 11, 2007",MGM,Drama
+Grbavica: The Land of My Dr…,Grbavica: The Land o,"Feb 16, 2007",Strand Releasing,Drama
+Moving McAllister,Moving McAllister,"Sep 14, 2007",First Independent…,Comedy
+Colma: The Musical,Colma: The Musical,"Jun 22, 2007",IDP/Goldwyn/Roadside,Musical
+Beyond the Gates,Beyond the Gates,"Mar 16, 2007",IFC Films,Drama
+Controlled Chaos,Controlled Chaos,"Oct 19, 2007",Reliance/LoveStreaks,
+Le Secret de ma Mere,Le Secret de ma Mere,"Jul 7, 2006",Alliance Atlantis,Comedy
+The Life of Reilly,The Life of Reilly,"Nov 9, 2007",Reel Diva Consult…,Concert/Perfor…
+"Cats of Mirikitan, The","Cats of Mirikitan, T","Mar 2, 2007",,
+Moondance Alexander,Moondance Alexander,"Oct 19, 2007",The Bigger Picture,Drama
+Monkey Warfare,Monkey Warfare,"Dec 8, 2006",Odeon Films,Comedy
+Grace Is Gone,Grace Is Gone,"Dec 7, 2007",Weinstein Co.,Drama
+Fighting Words,Fighting Words,"Apr 6, 2007",Indican Pictures,Drama
+Canvas,Canvas,"Oct 12, 2007",Screen Media Films,Drama
+Dhoom 2,Dhoom 2,"Nov 23, 2006",Yash Raj Films,Action
+Black Friday,Black Friday,"Feb 9, 2007",AdLab Films,Drama
+Bon Jovi: The Lost Highway,Bon Jovi: The Lost H,"Nov 6, 2007",The Bigger Picture,Concert/Perfor…
+The Last Winter,The Last Winter,"Sep 19, 2007",IFC Films,Horror
+Local Color,Local Color,"Oct 19, 2007",Monterey Media,Drama
+Jonestown: The Life and Dea…,Jonestown: The Life ,"Oct 20, 2006",Seventh Art Relea…,
+Sacco and Vanzetti,Sacco and Vanzetti,"Jan 21, 2007",First Run Features,Documentary
+Day Night Day Night,Day Night Day Night,"May 9, 2007",IFC Films,Drama
+Wind Chill,Wind Chill,"Apr 27, 2007",Sony Pictures,Horror
+The Hottest State,The Hottest State,"Aug 24, 2007",IFC Films,Drama
+Jesus Camp,Jesus Camp,"Sep 15, 2006",Magnolia Pictures,Documentary
+Falling for Grace,Falling for Grace,"Jul 20, 2007",Slowhand Cinema,Romantic Comedy
+Two Or Three Things I Know …,Two Or Three Things ,"Nov 17, 2006",Rialto Pictures,Drama
+A Good Year,A Good Year,"Nov 10, 2006",20th Century Fox,Drama
+The Bridge,The Bridge,"Oct 27, 2006",,Documentary
+Kabul Express,Kabul Express,"Dec 15, 2006",Yash Raj Films,Comedy
+Billy the Kid,Billy the Kid,"Dec 5, 2007",Elephant Eye Films,Documentary
+Gringo Wedding,Gringo Wedding,"May 4, 2007",Self Distributed,Romantic Comedy
+La Chinoise,La Chinoise,"Oct 12, 2007",Koch Lorber Films,Black Comedy
+Snow Cake,Snow Cake,"Apr 27, 2007",Weinstein Co.,Drama
+Nanking,Nanking,"Dec 12, 2007",ThinkFilm,Documentary
+Ils,Ils,"Aug 3, 2007",Slowhand Cinema,Thriller/Suspense
+Hood of Horror,Hood of Horror,"Nov 17, 2006",,Comedy
+Stephanie Daley,Stephanie Daley,"Apr 20, 2007",Regent Releasing,Drama
+Naked Boys Singing,Naked Boys Singing,"Oct 12, 2007",TLA Releasing,Musical
+Cashback,Cashback,"Jul 20, 2007",Magnolia Pictures,Comedy
+Lake of Fire,Lake of Fire,"Oct 3, 2007",ThinkFilm,Documentary
+Hattrick,Hattrick,"Mar 16, 2007",UTV Communications,Drama
+Arnolds Park,Arnolds Park,"Oct 19, 2007",The Movie Partners,Thriller/Suspense
+In Between Days,In Between Days,"Jun 27, 2007",Kino International,Drama
+Il Ne Faut Jurer de Rien,Il Ne Faut Jurer de ,"Jan 26, 2007",Alliance Atlantis,
+Exterminating Angels,Exterminating Angels,"Mar 7, 2007",IFC First Take,Drama
+Sunflower,Sunflower,"Aug 17, 2007",New Yorker,Drama
+The Tripper,The Tripper,"Apr 20, 2007",Freestyle Releasing,Horror
+Honeydripper,Honeydripper,"Dec 28, 2007",Emerging Pictures,Drama
+Hannah Takes the Stairs,Hannah Takes the Sta,"Aug 22, 2007",IFC First Take,Drama
+The Good Night,The Good Night,"Oct 5, 2007",Sony Pictures,Romantic Comedy
+Rails & Ties,Rails & Ties,"Oct 26, 2007",Warner Bros.,Drama
+Amu,Amu,"May 25, 2007",Emerging Pictures,Drama
+Primo Levi's Journey,Primo Levi's Journey,"Aug 17, 2007",Cinema Guild,Documentary
+Great World of Sound,Great World of Sound,"Sep 14, 2007",Magnolia Pictures,Comedy
+Sing Now or Forever Hold Yo…,Sing Now or Forever ,"Apr 27, 2007",Strand Releasing,Comedy
+The Last Hangman,The Last Hangman,"Jun 1, 2007",IFC Films,Drama
+Dr. Bronner's Magic Soapbox,Dr. Bronner's Magic ,"Jun 29, 2007",Balcony Releasing,Documentary
+Dreaming Lhasa,Dreaming Lhasa,"Apr 13, 2007",First Run Features,
+Fast Food Nation,Fast Food Nation,"Nov 17, 2006",Fox Searchlight,Drama
+The Willow Tree,The Willow Tree,"Aug 3, 2007",New Yorker,Drama
+Flanders,Flanders,"May 18, 2007",International Fil…,Drama
+Close to Home,Close to Home,"Feb 16, 2007",IFC First Take,Drama
+The Tracey Fragments,The Tracey Fragments,"Nov 2, 2007",,Drama
+Summer '04,Summer '04,"Aug 1, 2007",Cinema Guild,Drama
+Meeting Resistance,Meeting Resistance,"Oct 19, 2007",International Fil…,Documentary
+Arranged,Arranged,"Dec 14, 2007",Film Movement,Drama
+Dirty Laundry,Dirty Laundry,"Dec 7, 2007",The Bigger Picture,Comedy
+Romántico,Romántico,"Nov 1, 2006",Kino International,Documentary
+L'Iceberg,L'Iceberg,"May 4, 2007",First Run Features,Comedy
+Czech Dream,Czech Dream,"Jun 15, 2007",Schwarzsmith & Ta…,
+Driving Lessons,Driving Lessons,"Oct 13, 2006",Sony Pictures Cla…,
+Everything's Gone Green,Everything's Gone Gr,"Apr 13, 2007",First Independent…,Comedy
+I Don't Want to Sleep Alone,I Don't Want to Slee,"May 9, 2007",Strand Releasing,Drama
+Steal a Pencil for Me,Steal a Pencil for M,"Nov 9, 2007",Seventh Art Relea…,Documentary
+Yiddish Theater: A Love Story,Yiddish Theater: A L,"Nov 21, 2007",New Love Films,Documentary
+What Love Is,What Love Is,"Mar 23, 2007",,
+The Singing Revolution,The Singing Revoluti,"Dec 7, 2007",Abramorama Films,Documentary
+Black Gold,Black Gold,"Oct 6, 2006",California Newsreel,
+Itty Bitty Titty Committee,Itty Bitty Titty Com,"Sep 28, 2007",Pocket Releasing,Comedy
+One to Another,One to Another,"Jun 29, 2007",Strand Releasing,Thriller/Suspense
+Hei Wong Ji Wong,Hei Wong Ji Wong,,,Comedy
+City Lights,City Lights,"Jul 6, 2007",United Artists,Comedy
+The Dead Girl,The Dead Girl,"Dec 29, 2006",First Look,Thriller/Suspense
+Undoing,Undoing,,,Drama
+The Aura,The Aura,"Nov 17, 2006",IFC Films,Thriller/Suspense
+Family Law,Family Law,"Dec 6, 2006",IFC First Take,
+The Sensation of Sight,The Sensation of Sig,"Nov 9, 2007",Monterey Media,Drama
+Flying: Confessions of a Fr…,Flying: Confessions ,"Jul 4, 2007",Artistic License,Documentary
+7 Days,7 Days,"Aug 17, 2007",Xenon Pictures,Comedy
+The Violin,The Violin,"Dec 5, 2007",Film Movement,Drama
+American Cannibal,American Cannibal,"Mar 16, 2007",Lifesize Entertai…,Documentary
+Syndromes and a Century,Syndromes and a Cent,"Apr 18, 2007",Strand Releasing,Drama
+The Amateurs,The Amateurs,"Dec 7, 2007",Bauer Martinez,Comedy
+Look,Look,"Dec 14, 2007",Captured Films,Drama
+American Fusion,American Fusion,"Aug 17, 2007",Wildcat Releasing,Romantic Comedy
+Keeping Mum,Keeping Mum,"Sep 15, 2006",ThinkFilm,Comedy
+Quiet City,Quiet City,"Aug 29, 2007",600 West,Drama
+Descent,Descent,"Aug 10, 2007",City Lights Pictures,Thriller/Suspense
+Abduction: The Megumi Yokot…,Abduction: The Megum,"Nov 24, 2006","Safari Media, LLC",Documentary
+Time,Time,"Jul 13, 2007",Lifesize Entertai…,Drama
+Full of It,Full of It,"Mar 2, 2007",New Line,Comedy
+Lights in the Dusk,Lights in the Dusk,"Jun 13, 2007",Strand Releasing,Drama
+Cut Sleeve Boys,Cut Sleeve Boys,"Aug 10, 2007",Regent Releasing,Comedy
+Buddha Mar Gaya,Buddha Mar Gaya,"Aug 17, 2007",Eros Entertainment,Comedy
+Protagonist,Protagonist,"Nov 30, 2007",IFC Films,Documentary
+Live Free or Die,Live Free or Die,"Mar 30, 2007",ThinkFilm,Comedy
+American Hardcore,American Hardcore,"Sep 22, 2006",Sony Pictures Cla…,Documentary
+Poison Friends,Poison Friends,"Apr 27, 2007",Strand Releasing,Drama
+Mutual Appreciation,Mutual Appreciation,"Sep 1, 2006",Goodbye Cruel Rel…,Comedy
+Vengeance is Mine,Vengeance is Mine,"Mar 2, 2007",,
+The Piano Tuner of Earthquakes,The Piano Tuner of E,"Nov 17, 2006",Zeitgeist,Drama
+Rock Bottom,Rock Bottom,"Mar 2, 2007",,
+Eating Out 2: Sloppy Seconds,Eating Out 2: Sloppy,"Nov 22, 2006",Artiztical Entert…,Comedy
+China Blue,China Blue,"Jan 19, 2007",Argot Pictures,Documentary
+Absolute Wilson,Absolute Wilson,"Oct 27, 2006",New Yorker,Documentary
+I'll Believe You,I'll Believe You,"Nov 9, 2007",Stand Up Films,Comedy
+Love for Sale: Suely in the…,Love for Sale: Suely,"Aug 15, 2007",Strand Releasing,Drama
+Blockade,Blockade,"Mar 14, 2007",First Run/Icarus,Documentary
+Angels in the Dust,Angels in the Dust,"Sep 14, 2007",Cinema Libre,Documentary
+East of Havana,East of Havana,"Feb 2, 2007",Sony/BMG,Documentary
+Whole New Thing,Whole New Thing,"Apr 6, 2007",Picture This Ente…,Comedy
+Verdict on Auschwitz: The F…,Verdict on Auschwitz,"Jan 12, 2007",First Run Features,Documentary
+Mala Noche,Mala Noche,"May 4, 1988",Janus Films,Drama
+Samoan Wedding,Samoan Wedding,"Nov 10, 2006",Magnolia Pictures,
+Matthew Barney: No Restraint,Matthew Barney: No R,"Dec 20, 2006",IFC First Take,Documentary
+Alone with Her,Alone with Her,"Jan 17, 2007",IFC Films,Thriller/Suspense
+Freshman Orientation,Freshman Orientation,"Aug 31, 2007",Regent Releasing,Comedy
+Belle Toujours,Belle Toujours,"Jun 8, 2007",New Yorker,Drama
+Splinter,Splinter,"Aug 17, 2007",Magic Lamp,Thriller/Suspense
+In the Pit,In the Pit,"Feb 2, 2007",Kino International,Documentary
+El Inmigrante,El Inmigrante,"Jul 13, 2007",Indican Pictures,Documentary
+Steel City,Steel City,"May 25, 2007",Truly Indie,
+Wild Tigers I Have Known,Wild Tigers I Have K,"Feb 28, 2007",IFC First Take,Drama
+Something to Cheer About,Something to Cheer A,"Apr 27, 2007",Truly Indie,Documentary
+Shotgun Stories,Shotgun Stories,"Dec 14, 2007",International Fil…,Drama
+Van Wilder Deux: The Rise o…,Van Wilder Deux: The,"Dec 1, 2006",MGM,Comedy
+Macbeth,Macbeth,"Jun 15, 2007",Truly Indie,Drama
+The Unknown Soldier,The Unknown Soldier,"Sep 7, 2007",First Run Features,Documentary
+The Sasquatch Gang,The Sasquatch Gang,"Nov 30, 2007",Screen Media Films,Comedy
+Smiley Face,Smiley Face,"Nov 16, 2007",First Look,Comedy
+Fat Girls,Fat Girls,"Nov 2, 2007",Regent Releasing,Comedy
+Crossing the Line,Crossing the Line,"Aug 10, 2007",Kino International,Documentary
+Black White + Gray...,Black White + Gray..,"Oct 19, 2007",Arthouse Films,
+Strike,Strike,"Jun 15, 2007",Laemmle/Zeller Film,Drama
+Closing Escrow,Closing Escrow,"Aug 24, 2007",Magnolia Pictures,Comedy
+G.I. Jesus,G.I. Jesus,"Jan 26, 2007",Wildcat Releasing,
+If I Didn't Care,If I Didn't Care,"Aug 3, 2007",Artistic License,Thriller/Suspense
+Goodbye Momo,Goodbye Momo,"Apr 20, 2007",ArtMattan Films,Drama
+Glastonbury,Glastonbury,"Feb 23, 2007",ThinkFilm,Documentary
+Summer in Berlin,Summer in Berlin,"Mar 30, 2007",D Street Releasing,Drama
+Nina's Heavenly Delights,Nina's Heavenly Deli,"Nov 21, 2007",Regent Releasing,Comedy
+Weirdsville,Weirdsville,"Oct 5, 2007",Magnolia Pictures,Comedy
+And Then Came Love,And Then Came Love,"Jun 1, 2007",Fox Meadow,Comedy
+The Iron Man,The Iron Man,"Jul 20, 2007",Iron Man Distr,Comedy
+The Piccadilly Cowboy,The Piccadilly Cowbo,"Mar 23, 2007",Ford Films,
+The Man of My Life,The Man of My Life,"Sep 21, 2007",Strand Releasing,Drama
+Drama/Mex,Drama/Mex,"Jul 11, 2007",IFC First Take,Drama
+Words of My Perfect Teacher,Words of My Perfect ,"Dec 22, 2006",IFC Films,Documentary
+Disappearances,Disappearances,"May 4, 2007",Truly Indie,
+Allegro,Allegro,"May 9, 2007",IFC Films,Drama
+Cobra Verde,Cobra Verde,"Mar 23, 2007",518 Media,
+Midnight Eagle,Midnight Eagle,"Nov 23, 2007",Strand Releasing,Action
+Quantum Hoops,Quantum Hoops,"Nov 2, 2007",,Documentary
+Skid Row,Skid Row,"Aug 24, 2007",Screen Media Films,Documentary
+The Method,The Method,"Jul 6, 2007",Palm Pictures,Drama
+The Hawk is Dying,The Hawk is Dying,"Mar 30, 2007",Strand Releasing,Drama
+Jack Smith and the Destruct…,Jack Smith and the D,"Apr 11, 2007",Film Forum,Documentary
+The Camden 28,The Camden 28,"Jul 27, 2007",First Run Features,Documentary
+Desert Bayou,Desert Bayou,"Oct 5, 2007",Cinema Libre,Documentary
+Casting About,Casting About,"May 11, 2007",Kino International,Documentary
+Black Irish,Black Irish,"Oct 26, 2007",Anywhere Road Ent…,Drama
+Operation Homecoming,Operation Homecoming,"Feb 9, 2007",The Documentary G…,Documentary
+DarkBlueAlmostBlack,DarkBlueAlmostBlack,"Oct 19, 2007",Strand Releasing,Drama
+Blonde Ambition,Blonde Ambition,"Dec 21, 2007",First Look,Comedy
+Ten 'Til Noon,Ten 'Til Noon,"Mar 30, 2007",Radio London Films,Thriller/Suspense
+Slipstream,Slipstream,"Oct 26, 2007",Strand Releasing,Comedy
+The Tiger and the Snow,The Tiger and the Sn,"Dec 29, 2006",,
+Imprint,Imprint,"Sep 21, 2007",Linn Productions,Thriller/Suspense
+Tekkon Kinkreet,Tekkon Kinkreet,"Jul 13, 2007",,Action
+Backstage,Backstage,"Nov 22, 2006",Strand Releasing,Drama
+Opal Dream,Opal Dream,"Nov 22, 2006",Strand Releasing,Drama
+White Rainbow,White Rainbow,"Apr 7, 2006",Rocky Mountain Pi…,Drama
+Candy,Candy,"Nov 17, 2006",ThinkFilm,Drama
+Masai: The Rain Warriors,Masai: The Rain Warr,"Oct 20, 2006",ArtMattan Films,Drama
+Mr. Blue Sky,Mr. Blue Sky,"Nov 9, 2007",Rocky Mountain Pi…,
+Fired!,Fired!,"Feb 2, 2007",International Fil…,Documentary
+Choking Man,Choking Man,"Nov 9, 2007",International Fil…,Drama
+Race You to the Bottom,Race You to the Bott,"Mar 30, 2007",Regent Releasing,Drama
+The Glamorous Life of Sachi…,The Glamorous Life o,"Apr 13, 2007",Palm Pictures,Comedy
+Dynamite Warrior,Dynamite Warrior,"Jul 6, 2007",Magnolia Pictures,Action
+Imaginary Witness: Hollywoo…,Imaginary Witness: H,"Dec 25, 2007",Shadow,Documentary
+The Inner Life of Martin Frost,The Inner Life of Ma,"Sep 7, 2007",New Yorker,Comedy
+Riding Alone for Thousands …,Riding Alone for Tho,"Sep 1, 2006",Sony Pictures Cla…,Drama
+The Price of Sugar,The Price of Sugar,"Sep 28, 2007",Mitropoulos Films,Documentary
+Everything's Cool: A Toxic …,Everything's Cool: A,"Nov 23, 2007",City Lights Pictures,Documentary
+Blood and Tears,Blood and Tears,"Jun 15, 2007",ThinkFilm,Documentary
+The Killing of John Lennon,The Killing of John ,,,Drama
+My Brother's Wedding,My Brother's Wedding,"Sep 14, 2007",Milestone,Drama
+What the Snow Brings,What the Snow Brings,"Jun 1, 2007",Eleven Arts,Drama
+The Bridesmaid,The Bridesmaid,"Aug 4, 2006",First Run Features,Thriller/Suspense
+Raising Flagg,Raising Flagg,"Feb 2, 2007",Cinema Libre,Comedy
+"Cop, the Criminal and the C…","Cop, the Criminal an","Apr 6, 2007",Lonely Seal Relea…,Comedy
+I'm Reed Fish,I'm Reed Fish,"Jun 1, 2007",Screen Media Films,Comedy
+Antonia,Antonia,"Sep 21, 2007",Anywhere Road Ent…,Musical
+Daratt,Daratt,"Apr 6, 2007",ArtMattan Films,Drama
+Los Muertos,Los Muertos,"Apr 6, 2007",Facets,
+9 Star Hotel,9 Star Hotel,"May 23, 2007",Koch Lorber Films,Documentary
+Funny Money,Funny Money,"Jan 26, 2007",ThinkFilm,Comedy
+Summercamp!,Summercamp!,"Jul 18, 2007",Argot Pictures,Documentary
+Half Moon,Half Moon,"Dec 14, 2007",Strand Releasing,Comedy
+Lunacy,Lunacy,"Aug 9, 2006",Zeitgeist,Horror
+The Prisoner or: How I Plan…,The Prisoner or: How,"Mar 23, 2007",,Documentary
+Believe,Believe,"Apr 20, 2007",Kaleidoscope Pict…,Comedy
+He Was a Quiet Man,He Was a Quiet Man,"Nov 30, 2007",Mitropoulos Films,Black Comedy
+Looking for an Icon,Looking for an Icon,"May 9, 2007",First Run/Icarus,Documentary
+Chronicle of an Escape,Chronicle of an Esca,"Nov 30, 2007",IFC Films,Thriller/Suspense
+You're Gonna Miss Me,You're Gonna Miss Me,"Jun 8, 2007",Palm Pictures,Documentary
+Laura Smiles,Laura Smiles,"Jul 27, 2007",Emerging Pictures,Drama
+The Secret Life of Words,The Secret Life of W,"Dec 15, 2006",Strand Releasing,Drama
+Rock the Bells,Rock the Bells,"Apr 11, 2007",Seventh Art Relea…,
+Badland,Badland,"Nov 30, 2007",Arcangelo Enterta…,Drama
+Greg et Gentillon,Greg et Gentillon,"Apr 6, 2007",Alliance Atlantis,
+Oswald's Ghost,Oswald's Ghost,"Nov 30, 2007",Seventh Art Relea…,Documentary
+49 Up,49 Up,"Oct 6, 2006",First Run Features,Documentary
+Mem-o-re,Mem-o-re,"Mar 23, 2007",Aloha Releasing,Thriller/Suspense
+Divine Intervention (2007),Divine Intervention ,"Nov 30, 2007",Bullz Eye,Drama
+Broken Sky,Broken Sky,"Sep 29, 2006",Strand Releasing,
+Unborn in the USA: Inside t…,Unborn in the USA: I,"Jun 15, 2007",First Run Features,Documentary
+'Tis Autumn: The Search for…,'Tis Autumn: The Sea,"Dec 7, 2007",Outsider,Documentary
+Four Lane Highway,Four Lane Highway,"Jun 1, 2007",Sky Island,
+Moonlight,Moonlight,"May 19, 2006",Indican Pictures,Thriller/Suspense
+The Dog Problem,The Dog Problem,"Apr 27, 2007",ThinkFilm,
+Adam's Apples,Adam's Apples,"Mar 16, 2007",Outsider,Comedy
+Eleven Men Out,Eleven Men Out,"Nov 16, 2007",Regent Releasing,Comedy
+The Trials of Darryl Hunt,The Trials of Darryl,"Jun 15, 2007",ThinkFilm,Documentary
+Beyond Hatred,Beyond Hatred,"Jun 15, 2007",First Run Features,Documentary
+The Sugar Curtain,The Sugar Curtain,"Jul 25, 2007",First Run/Icarus,Documentary
+It's a Boy-Girl Thing,It's a Boy-Girl Thin,"Dec 7, 2007",Icon Film Distrib…,
+The World According to Shorts,The World According ,"Jul 21, 2006",New Yorker,Multiple Genres
+Flakes,Flakes,"Dec 19, 2007",IFC Films,Comedy
+Out of the Blue,Out of the Blue,"Oct 19, 2007",IFC Films,Drama
+Notes on Marie Menken,Notes on Marie Menke,"Feb 9, 2007",First Run/Icarus,
+Falling,Falling,"Jun 29, 2007",Kino International,Drama
+The Last Door,The Last Door,"Nov 30, 2007",Alliance Atlantis,
+Summer Storm,Summer Storm,"Mar 17, 2006",Regent Releasing,Drama
+The Marsh,The Marsh,"Mar 23, 2007",Alliance Atlantis,
+Mongolian Ping Pong,Mongolian Ping Pong,"Apr 21, 2006",First Run Features,Comedy
+Intervention,Intervention,"Nov 30, 2007",Alliance Atlantis,Drama
+Soap,Soap,"Oct 27, 2006",Strand Releasing,
+Looking for Cheyenne,Looking for Cheyenne,"Dec 7, 2007",Regent Releasing,Drama
+Guta-yubalja-deul,Guta-yubalja-deul,,,Drama

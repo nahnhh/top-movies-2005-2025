@@ -1,0 +1,685 @@
+Movie,trunc,Release Date,Distributor,Genre
+Avengers: Endgame,Avengers: Endgame,"Apr 26, 2019",Walt Disney,Action
+The Lion King,The Lion King,"Jul 19, 2019",Walt Disney,Adventure
+Frozen II,Frozen II,"Nov 22, 2019",Walt Disney,Musical
+Toy Story 4,Toy Story 4,"Jun 21, 2019",Walt Disney,Adventure
+Captain Marvel,Captain Marvel,"Mar 8, 2019",Walt Disney,Action
+Star Wars: The Rise of Skyw…,Star Wars: The Rise ,"Dec 20, 2019",Walt Disney,Adventure
+Spider-Man: Far From Home,Spider-Man: Far From,"Jul 2, 2019",Sony Pictures,Action
+Aladdin,Aladdin,"May 24, 2019",Walt Disney,Adventure
+Joker,Joker,"Oct 4, 2019",Warner Bros.,Thriller/Suspense
+It: Chapter Two,It: Chapter Two,"Sep 6, 2019",Warner Bros.,Horror
+Jumanji: The Next Level,Jumanji: The Next Le,"Dec 13, 2019",Sony Pictures,Adventure
+Us,Us,"Mar 22, 2019",Universal,Horror
+Fast & Furious Presents: Ho…,Fast & Furious Prese,"Aug 2, 2019",Universal,Action
+John Wick: Chapter 3 — Para…,John Wick: Chapter 3,"May 17, 2019",Lionsgate,Action
+How to Train Your Dragon: T…,How to Train Your Dr,"Feb 22, 2019",Universal,Adventure
+The Secret Life of Pets 2,The Secret Life of P,"Jun 7, 2019",Universal,Adventure
+Pokémon: Detective Pikachu,Pokémon: Detective P,"May 10, 2019",Warner Bros.,Comedy
+Once Upon a Time…in Hollywo…,Once Upon a Time…in ,"Jul 26, 2019",Sony Pictures,Thriller/Suspense
+Shazam!,Shazam!,"Apr 5, 2019",Warner Bros.,Action
+Aquaman,Aquaman,"Dec 21, 2018",Warner Bros.,Action
+Knives Out,Knives Out,"Nov 27, 2019",Lionsgate,Drama
+Dumbo,Dumbo,"Mar 29, 2019",Walt Disney,Adventure
+Maleficent: Mistress of Evil,Maleficent: Mistress,"Oct 18, 2019",Walt Disney,Adventure
+Glass,Glass,"Jan 18, 2019",Universal,Thriller/Suspense
+Godzilla: King of the Monsters,Godzilla: King of th,"May 31, 2019",Warner Bros.,Action
+Ford v. Ferrari,Ford v. Ferrari,"Nov 15, 2019",20th Century Fox,Drama
+The Upside,The Upside,"Jan 11, 2019",STX Entertainment,Comedy
+The LEGO Movie 2: The Secon…,The LEGO Movie 2: Th,"Feb 8, 2019",Warner Bros.,Adventure
+Hustlers,Hustlers,"Sep 13, 2019",STX Entertainment,Drama
+The Addams Family,The Addams Family,"Oct 11, 2019",United Artists,Adventure
+Downton Abbey,Downton Abbey,"Sep 20, 2019",Focus Features,Drama
+Rocketman,Rocketman,"May 31, 2019",Paramount Pictures,Drama
+Alita: Battle Angel,Alita: Battle Angel,"Feb 14, 2019",20th Century Fox,Action
+Good Boys,Good Boys,"Aug 16, 2019",Universal,Comedy
+Men in Black: International,Men in Black: Intern,"Jun 14, 2019",Sony Pictures,Adventure
+Annabelle Comes Home,Annabelle Comes Home,"Jun 26, 2019",Warner Bros.,Horror
+Yesterday,Yesterday,"Jun 28, 2019",Universal,Romantic Comedy
+Tyler Perry’s A Madea Famil…,Tyler Perry’s A Made,"Mar 1, 2019",Lionsgate,Comedy
+Zombieland: Double Tap,Zombieland: Double T,"Oct 18, 2019",Sony Pictures,Comedy
+Angel Has Fallen,Angel Has Fallen,"Aug 23, 2019",Lionsgate,Thriller/Suspense
+Scary Stories to Tell in th…,Scary Stories to Tel,"Aug 9, 2019",Lionsgate,Horror
+Dark Phoenix,Dark Phoenix,"Jun 7, 2019",20th Century Fox,Action
+Terminator: Dark Fate,Terminator: Dark Fat,"Nov 1, 2019",Paramount Pictures,Action
+Abominable,Abominable,"Sep 27, 2019",Universal,Adventure
+Dora and the Lost City of Gold,Dora and the Lost Ci,"Aug 9, 2019",Paramount Pictures,Adventure
+A Beautiful Day in the Neig…,A Beautiful Day in t,"Nov 22, 2019",Sony Pictures,Drama
+Midway,Midway,"Nov 8, 2019",Lionsgate,Action
+Spider-Man: Into The Spider…,Spider-Man: Into The,"Dec 14, 2018",Sony Pictures,Adventure
+Bumblebee,Bumblebee,"Dec 21, 2018",Paramount Pictures,Adventure
+The Curse of La Llorona,The Curse of La Llor,"Apr 19, 2019",Warner Bros.,Horror
+Pet Sematary,Pet Sematary,"Apr 5, 2019",Paramount Pictures,Horror
+What Men Want,What Men Want,"Feb 8, 2019",Paramount Pictures,Romantic Comedy
+Green Book,Green Book,"Nov 21, 2018",Universal,Comedy
+Ad Astra,Ad Astra,"Sep 20, 2019",20th Century Fox,Thriller/Suspense
+Isn’t it Romantic,Isn’t it Romantic,"Feb 13, 2019",Warner Bros.,Romantic Comedy
+Gemini Man,Gemini Man,"Oct 11, 2019",Paramount Pictures,Action
+Spies in Disguise,Spies in Disguise,"Dec 25, 2019",20th Century Fox,Adventure
+MA,MA,"May 31, 2019",Universal,Horror
+Five Feet Apart,Five Feet Apart,"Mar 15, 2019",Lionsgate,Drama
+Wonder Park,Wonder Park,"Mar 15, 2019",Paramount Pictures,Adventure
+Rambo: Last Blood,Rambo: Last Blood,"Sep 20, 2019",Lionsgate,Action
+Playing with Fire,Playing with Fire,"Nov 8, 2019",Paramount Pictures,Comedy
+Harriet,Harriet,"Nov 1, 2019",Focus Features,Drama
+A Dog’s Way Home,A Dog’s Way Home,"Jan 11, 2019",Sony Pictures,Drama
+The Angry Birds Movie 2,The Angry Birds Movi,"Aug 13, 2019",Sony Pictures,Adventure
+Little,Little,"Apr 12, 2019",Universal,Comedy
+Queen & Slim,Queen & Slim,"Nov 27, 2019",Universal,Drama
+Breakthrough,Breakthrough,"Apr 17, 2019",20th Century Fox,Drama
+The Mule,The Mule,"Dec 14, 2018",Warner Bros.,Drama
+Crawl,Crawl,"Jul 12, 2019",Paramount Pictures,Horror
+Escape Room,Escape Room,"Jan 4, 2019",Sony Pictures,Horror
+Little Women,Little Women,"Dec 25, 2019",Sony Pictures,Drama
+Uncut Gems,Uncut Gems,"Dec 25, 2019",A24,Thriller/Suspense
+The Hustle,The Hustle,"May 10, 2019",United Artists,Comedy
+The Intruder,The Intruder,"May 3, 2019",Sony Pictures,Thriller/Suspense
+Last Christmas,Last Christmas,"Nov 8, 2019",Universal,Romantic Comedy
+Overcomer,Overcomer,"Aug 23, 2019",Sony Pictures,Drama
+Mary Poppins Returns,Mary Poppins Returns,"Dec 19, 2018",Walt Disney,Musical
+Cold Pursuit,Cold Pursuit,"Feb 8, 2019",Lionsgate,Thriller/Suspense
+Doctor Sleep,Doctor Sleep,"Nov 8, 2019",Warner Bros.,Horror
+Dragon Ball Super: Broly,Dragon Ball Super: B,"Jan 16, 2019",FUNimation,Action
+Long Shot,Long Shot,"May 3, 2019",Lionsgate,Romantic Comedy
+Child’s Play,Child’s Play,"Jun 21, 2019",United Artists,Horror
+Ready or Not,Ready or Not,"Aug 21, 2019",Fox Searchlight,Black Comedy
+21 Bridges,21 Bridges,"Nov 22, 2019",STX Entertainment,Thriller/Suspense
+Happy Death Day 2U,Happy Death Day 2U,"Feb 13, 2019",Universal,Thriller/Suspense
+Midsommar,Midsommar,"Jul 3, 2019",A24,Horror
+Bohemian Rhapsody,Bohemian Rhapsody,"Nov 2, 2018",20th Century Fox,Drama
+The Art of Racing in the Rain,The Art of Racing in,"Aug 9, 2019",20th Century Fox,Drama
+Countdown,Countdown,"Oct 25, 2019",STX Entertainment,Horror
+Bombshell,Bombshell,"Dec 13, 2019",Lionsgate,Drama
+Judy,Judy,"Sep 27, 2019",Roadside Attractions,Drama
+Parasite,Parasite,"Oct 11, 2019",Neon,Black Comedy
+Fighting With My Family,Fighting With My Fam,"Feb 14, 2019",,Comedy
+On the Basis of Sex,On the Basis of Sex,"Dec 25, 2018",Focus Features,Drama
+A Dog’s Journey,A Dog’s Journey,"May 17, 2019",Universal,Drama
+Booksmart,Booksmart,"May 24, 2019",United Artists,Comedy
+Stuber,Stuber,"Jul 12, 2019",20th Century Fox,Comedy
+47 Meters Down: Uncaged,47 Meters Down: Unca,"Aug 16, 2019",Entertainment Stu…,Thriller/Suspense
+Black and Blue,Black and Blue,"Oct 25, 2019",Sony Pictures,Action
+Hellboy,Hellboy,"Apr 12, 2019",Lionsgate,Horror
+Jojo Rabbit,Jojo Rabbit,"Oct 18, 2019",Fox Searchlight,Black Comedy
+Shaft,Shaft,"Jun 14, 2019",Warner Bros.,Comedy
+The Peanut Butter Falcon,The Peanut Butter Fa,"Aug 9, 2019",Roadside Attractions,Comedy
+UglyDolls,UglyDolls,"May 3, 2019",STX Entertainment,Adventure
+Cats,Cats,"Dec 20, 2019",Universal,Musical
+Unplanned,Unplanned,"Mar 29, 2019",SDG Releasing,Drama
+The Favourite,The Favourite,"Nov 23, 2018",Fox Searchlight,Black Comedy
+Vice,Vice,"Dec 25, 2018",Annapurna Pictures,Black Comedy
+Richard Jewell,Richard Jewell,"Dec 13, 2019",Warner Bros.,Drama
+Charlie’s Angels,Charlie’s Angels,"Nov 15, 2019",Sony Pictures,Action
+The Farewell,The Farewell,"Jul 12, 2019",A24,Drama
+BrightBurn,BrightBurn,"May 24, 2019",Sony Pictures,Horror
+The Good Liar,The Good Liar,"Nov 15, 2019",Warner Bros.,Thriller/Suspense
+The Kid Who Would Be King,The Kid Who Would Be,"Jan 25, 2019",20th Century Fox,Adventure
+Missing Link,Missing Link,"Apr 12, 2019",United Artists,Adventure
+Late Night,Late Night,"Jun 7, 2019",Amazon Studios,Comedy
+Miss Bala,Miss Bala,"Feb 1, 2019",Sony Pictures,Action
+The Prodigy,The Prodigy,"Feb 8, 2019",Orion Pictures,Horror
+A Star is Born,A Star is Born,"Oct 5, 2018",Warner Bros.,Drama
+Ralph Breaks The Internet,Ralph Breaks The Int,"Nov 21, 2018",Walt Disney,Adventure
+Poms,Poms,"May 10, 2019",STX Entertainment,Comedy
+They Shall Not Grow Old,They Shall Not Grow ,"Dec 17, 2018",Warner Bros.,Documentary
+The Kitchen,The Kitchen,"Aug 9, 2019",Warner Bros.,Drama
+After,After,"Apr 12, 2019",Aviron Pictures,Drama
+Blinded by the Light,Blinded by the Light,"Aug 16, 2019",Warner Bros.,Drama
+The Grudge,The Grudge,,,Horror
+The Lighthouse,The Lighthouse,"Oct 18, 2019",A24,Horror
+Dark Waters,Dark Waters,"Nov 22, 2019",Focus Features,Drama
+Greta,Greta,"Mar 1, 2019",Focus Features,Thriller/Suspense
+If Beale Street Could Talk,If Beale Street Coul,"Dec 14, 2018",Annapurna Pictures,Drama
+The Best of Enemies,The Best of Enemies,"Apr 5, 2019",STX Entertainment,Drama
+Black Christmas,Black Christmas,"Dec 13, 2019",Universal,Horror
+Hotel Mumbai,Hotel Mumbai,"Mar 22, 2019",Bleecker Street,Thriller/Suspense
+Motherless Brooklyn,Motherless Brooklyn,"Nov 1, 2019",Warner Bros.,Drama
+No Manches Frida 2,No Manches Frida 2,"Mar 15, 2019",Lionsgate,Comedy
+Where’d You Go Bernadette,Where’d You Go Berna,"Aug 16, 2019",United Artists,Comedy
+Apollo 11,Apollo 11,"Mar 8, 2019",Neon,Documentary
+Serenity,Serenity,"Jan 25, 2019",Aviron Pictures,Thriller/Suspense
+Anna,Anna,"Jun 21, 2019",Lionsgate,Action
+Penguins,Penguins,"Apr 17, 2019",Walt Disney,Documentary
+Brittany Runs a Marathon,Brittany Runs a Mara,"Aug 23, 2019",Amazon Studios,Drama
+The Dead Don’t Die,The Dead Don’t Die,"Jun 14, 2019",Focus Features,Horror
+Mary Queen of Scots,Mary Queen of Scots,"Dec 7, 2018",Focus Features,Drama
+Jexi,Jexi,"Oct 11, 2019",Lionsgate,Romantic Comedy
+Second Act,Second Act,"Dec 21, 2018",STX Entertainment,Comedy
+Run the Race,Run the Race,"Feb 22, 2019",Roadside Attractions,Drama
+Free Solo,Free Solo,"Sep 28, 2018",Greenwich,Documentary
+The Current War: Director’s…,The Current War: Dir,"Oct 25, 2019",101 Studios,Drama
+Captive State,Captive State,"Mar 15, 2019",Focus Features,Thriller/Suspense
+The Wandering Earth,The Wandering Earth,"Feb 5, 2019",CMC Pictures,Action
+Arctic Dogs,Arctic Dogs,"Nov 1, 2019",Entertainment Stu…,Adventure
+Gloria Bell,Gloria Bell,"Mar 8, 2019",A24,Drama
+The Mustang,The Mustang,"Mar 15, 2019",Focus Features,Drama
+The Goldfinch,The Goldfinch,"Sep 13, 2019",Warner Bros.,Drama
+Stan & Ollie,Stan & Ollie,"Dec 28, 2018",Sony Pictures Cla…,Drama
+Don’t Let Go,Don’t Let Go,"Aug 30, 2019",OTL Releasing,Thriller/Suspense
+The Sun is Also a Star,The Sun is Also a St,"May 17, 2019",Warner Bros.,Drama
+Bring the Soul: The Movie,Bring the Soul: The ,"Aug 7, 2019",Trafalgar Releasing,Documentary
+Pavarotti,Pavarotti,"Jun 7, 2019",CBS Films,Documentary
+Tolkien,Tolkien,"May 10, 2019",Fox Searchlight,Drama
+The Last Black Man in San F…,The Last Black Man i,"Jun 7, 2019",A24,Drama
+Amazing Grace,Amazing Grace,"Apr 5, 2019",Neon,Documentary
+Brian Banks,Brian Banks,"Aug 9, 2019",Bleecker Street,Drama
+The Biggest Little Farm,The Biggest Little F,"May 10, 2019",Neon,Documentary
+Dr. Seuss’ The Grinch,Dr. Seuss’ The Grinc,"Nov 9, 2018",Universal,Adventure
+Cold War,Cold War,"Dec 21, 2018",Amazon Studios,Drama
+Linda Ronstadt: The Sound o…,Linda Ronstadt: The ,"Sep 6, 2019",Greenwich,Documentary
+Gully Boy,Gully Boy,"Feb 14, 2019",Viva Entertainment,Drama
+Uri: The Surgical Strike,Uri: The Surgical St,"Jan 11, 2019",PackYourBag Films,Action
+Replicas,Replicas,"Jan 11, 2019",Entertainment Stu…,Thriller/Suspense
+Pain & Glory,Pain & Glory,"Oct 4, 2019",Sony Pictures Cla…,Drama
+Ne Zha,Ne Zha,"Aug 29, 2019",Well Go USA,Adventure
+Mission Mangal,Mission Mangal,"Aug 15, 2019",FIP,Drama
+War,War,"Oct 2, 2019",Yash Raj Films,Action
+2019 Oscar Shorts,2019 Oscar Shorts,"Feb 8, 2019",ShortsHD,Multiple Genres
+The Beach Bum,The Beach Bum,"Mar 29, 2019",Neon,Comedy
+Echo in the Canyon,Echo in the Canyon,"May 24, 2019",Greenwich,Documentary
+Creed II,Creed II,"Nov 21, 2018",MGM,Drama
+Jay and Silent Bob Reboot,Jay and Silent Bob R,"Oct 15, 2019",,Comedy
+Maiden,Maiden,"Jun 28, 2019",Sony Pictures Cla…,Documentary
+Honey Boy,Honey Boy,"Nov 8, 2019",Amazon Studios,Drama
+Friends 25th: The One With …,Friends 25th: The On,"Sep 23, 2019",Fathom Events,Comedy
+IP Man: The Finale,IP Man: The Finale,"Dec 25, 2019",Well Go USA,Action
+Fantastic Beasts: The Crime…,Fantastic Beasts: Th,"Nov 16, 2018",Warner Bros.,Adventure
+Kalank,Kalank,"Apr 17, 2019",FIP,Drama
+Bharat,Bharat,"Jun 5, 2019",Viva Entertainment,Action
+Everybody Knows,Everybody Knows,"Feb 8, 2019",Focus Features,Drama
+Tod@s Caen,Tod@s Caen,"Aug 30, 2019",Lionsgate,Romantic Comedy
+Saaho,Saaho,"Aug 29, 2019",Yash Raj Films,Action
+Instant Family,Instant Family,"Nov 16, 2018",Paramount Pictures,Comedy
+The Art of Self-Defense,The Art of Self-Defe,"Jul 12, 2019",Bleecker Street,Comedy
+Arctic,Arctic,"Feb 1, 2019",Bleecker Street,Drama
+Welcome to Marwen,Welcome to Marwen,"Dec 21, 2018",Universal,Drama
+"My People, My Country","My People, My Countr","Oct 1, 2019",CMC Pictures,Drama
+Promare,Promare,"Sep 17, 2019",GKIDS,Adventure
+Super 30,Super 30,"Jul 12, 2019",Reliance Entertai…,Drama
+Holmes & Watson,Holmes & Watson,"Dec 25, 2018",Sony Pictures,Comedy
+The Fall of the American Em…,The Fall of the Amer,"May 31, 2019",Entertainment One,Comedy
+Total Dhamaal,Total Dhamaal,"Feb 22, 2019",FIP,Comedy
+Housefull 4,Housefull 4,"Oct 25, 2019",FIP,Romantic Comedy
+The Matrix,The Matrix,"Mar 31, 1999",,Action
+Luce,Luce,"Aug 2, 2019",Neon,Thriller/Suspense
+Chhichhore,Chhichhore,"Sep 6, 2019",FIP,Comedy
+Official Secrets,Official Secrets,"Aug 30, 2019",IFC Films,Thriller/Suspense
+Better Days,Better Days,"Nov 8, 2019",Well Go USA,Drama
+Badla,Badla,"Mar 8, 2019",Zee Studios,Thriller/Suspense
+The White Crow,The White Crow,"Apr 26, 2019",Sony Pictures Cla…,Drama
+Pandas,Pandas,"Apr 6, 2018",,Documentary
+The Other Side of Heaven 2:…,The Other Side of He,"Jun 28, 2019",ArtAffects,Drama
+Shoplifters,Shoplifters,"Nov 23, 2018",Magnolia Pictures,Drama
+Wild Rose,Wild Rose,"Jun 21, 2019",Neon,Drama
+Waves,Waves,"Nov 15, 2019",A24,Drama
+The Aftermath,The Aftermath,"Mar 15, 2019",Fox Searchlight,Drama
+Western Stars,Western Stars,"Oct 25, 2019",Warner Bros.,Documentary
+Red Joan,Red Joan,"Apr 12, 2019",IFC Films,Drama
+After the Wedding,After the Wedding,"Aug 9, 2019",Sony Pictures Cla…,Drama
+Extreme Job,Extreme Job,"Jan 25, 2019",CJ Entertainment,Action
+The Kid,The Kid,"Mar 8, 2019",Lionsgate,Western
+Capernaum,Capernaum,"Dec 14, 2018",Sony Pictures Cla…,Drama
+Fantastic Fungi,Fantastic Fungi,"Sep 20, 2019",Area 23a,Documentary
+El Chicano,El Chicano,"May 3, 2019",Briarcliff Entert…,Drama
+The Wife,The Wife,"Aug 17, 2018",Sony Pictures Cla…,Drama
+National Lampoon’s Christma…,National Lampoon’s C,"Dec 1, 1989",,Comedy
+It,It,"Sep 8, 2017",,Horror
+1917,1917,"Dec 25, 2019",Universal,Thriller/Suspense
+Never Look Away,Never Look Away,"Jan 25, 2019",Sony Pictures Cla…,Thriller/Suspense
+Destroyer,Destroyer,"Dec 25, 2018",Annapurna Pictures,Thriller/Suspense
+A Hidden Life,A Hidden Life,"Dec 13, 2019",Fox Searchlight,Drama
+Can You Ever Forgive Me?,Can You Ever Forgive,"Oct 19, 2018",Fox Searchlight,Drama
+No Safe Spaces,No Safe Spaces,"Dec 6, 2019",Atlas Distribution,Documentary
+High Life,High Life,"Apr 5, 2019",A24,Horror
+All is True,All is True,"Dec 21, 2018",Sony Pictures Cla…,Drama
+Ben is Back,Ben is Back,"Dec 7, 2018",Roadside Attractions,Drama
+Ek Ladki Ko Dekah Toh Aisa …,Ek Ladki Ko Dekah To,"Feb 1, 2019",FIP,Romantic Comedy
+PLAYMOBIL,PLAYMOBIL,"Dec 6, 2019",STX Entertainment,Adventure
+Mortal Engines,Mortal Engines,"Dec 14, 2018",Universal,Action
+The Souvenir,The Souvenir,"May 17, 2019",A24,Drama
+Perfect Strangers,Perfect Strangers,"Jan 11, 2019",Lionsgate,Comedy
+Marianne & Leonard: Words o…,Marianne & Leonard: ,"Jul 5, 2019",Roadside Attractions,Documentary
+Princess Mononoke,Princess Mononoke,"Oct 29, 1999",,Action
+Simmba,Simmba,"Dec 28, 2018",Reliance Entertai…,Action
+RUSH: Cinema Strangiato 2019,RUSH: Cinema Strangi,"Aug 21, 2019",Trafalgar Releasing,Concert/Perfor…
+The Fighting Preacher,The Fighting Preache,"Jul 24, 2019",Purdie Distribution,Drama
+Metallica & San Francisco S…,Metallica & San Fran,"Oct 9, 2019",Trafalgar Releasing,Concert/Perfor…
+Toni Morrison: The Pieces I Am,Toni Morrison: The P,"Jun 21, 2019",Magnolia Pictures,Documentary
+The Goonies,The Goonies,"Jun 7, 1985",,Adventure
+Jesus is King,Jesus is King,"Oct 25, 2019",IMAX Films,Musical
+Woman at War,Woman at War,"Mar 1, 2019",Magnolia Pictures,Action
+Alien,Alien,"May 25, 1979",Fathom Events,Horror
+The Polar Express,The Polar Express,"Nov 10, 2004",,Adventure
+Like Arrows,Like Arrows,"May 1, 2019",Fathom Events,Drama
+Climax,Climax,"Mar 1, 2019",A24,Drama
+Transit,Transit,"Mar 1, 2019",Music Box Films,Drama
+Between Me and My Mind,Between Me and My Mi,"Jul 17, 2019",Trafalgar Releasing,Documentary
+Elf,Elf,"Nov 7, 2003",,Comedy
+Student of the Year 2,Student of the Year ,"May 10, 2019",FIP,Romantic Comedy
+The Church,The Church,"May 24, 2019",Indican Pictures,Horror
+JONI 75: A Birthday Celebra…,JONI 75: A Birthday ,"Feb 7, 2019",Trafalgar Releasing,Concert/Perfor…
+BlacKkKlansman,BlacKkKlansman,"Aug 10, 2018",Focus Features,Black Comedy
+David Crosby: Remember My Name,David Crosby: Rememb,"Jul 19, 2019",Sony Pictures Cla…,Documentary
+Bennett’s War,Bennett’s War,"Aug 30, 2019",ESX Entertainment,Drama
+More Than Blue,More Than Blue,"Mar 15, 2019",China Lion Film D…,Drama
+Thank You For Everything,Thank You For Everyt,"Dec 25, 2019",Entertainment One,Comedy
+Honeyland,Honeyland,"Jul 26, 2019",Neon,Documentary
+The Captain,The Captain,"Oct 18, 2019",Well Go USA,Drama
+Non-Fiction,Non-Fiction,"May 3, 2019",IFC Films,Comedy
+Where’s My Roy Cohn?,Where’s My Roy Cohn?,"Sep 20, 2019",Sony Pictures Cla…,Documentary
+Depeche Mode: Spirits in th…,Depeche Mode: Spirit,"Nov 21, 2019",Trafalgar Releasing,Concert/Perfor…
+Raise Hell: The Life and Ti…,Raise Hell: The Life,"Aug 30, 2019",Magnolia Pictures,Documentary
+The Grizzlies,The Grizzlies,"Apr 19, 2019",,Drama
+Nancy Drew and the Hidden S…,Nancy Drew and the H,"Mar 15, 2019",,Drama
+The Wizard of Oz,The Wizard of Oz,"Sep 23, 2009",,Musical
+Miles Davis: Birth of the Cool,Miles Davis: Birth o,"Aug 23, 2019",Abramorama Films,Documentary
+The Chaperone,The Chaperone,"Mar 29, 2019",PBS Distribution,Drama
+Roger Waters Us + Them,Roger Waters Us + Th,"Oct 2, 2019",Trafalgar Releasing,Documentary
+Furie,Furie,"Mar 1, 2019",Well Go USA,Action
+Bethany Hamilton: Unstoppable,Bethany Hamilton: Un,"Jul 12, 2019",Entertainment Stu…,Documentary
+The Public,The Public,"Apr 5, 2019",Universal,Drama
+The Sky is Pink,The Sky is Pink,"Oct 11, 2019",Gravitas Ventures,Drama
+The Shining,The Shining,"May 23, 1980",,Horror
+Fiddler: A Miracle of Miracles,Fiddler: A Miracle o,"Aug 23, 2019",Roadside Attractions,Documentary
+Everybody’s Everything,Everybody’s Everythi,"Nov 12, 2019",Gunpowder & Sky,Documentary
+Dabangg 3,Dabangg 3,"Dec 20, 2019",Yash Raj Films,Action
+Grateful Dead Meet-Up at th…,Grateful Dead Meet-U,"Aug 1, 2019",Trafalgar Releasing,Documentary
+Shadow,Shadow,"May 3, 2019",Well Go USA,Action
+Long Day’s Journey Into Nig…,Long Day’s Journey I,"Apr 12, 2019",Kino Lorber,Drama
+The Spy Behind Home Plate,The Spy Behind Home ,"May 24, 2019",The Ciesla Founda…,Documentary
+Wild Nights With Emily,Wild Nights With Emi,"Apr 12, 2019",Greenwich,Comedy
+Birds of Passage,Birds of Passage,"Feb 13, 2019",The Orchard,Drama
+Tel Aviv on Fire,Tel Aviv on Fire,"Jul 26, 2019",Cohen Media Group,Romantic Comedy
+Widows,Widows,"Nov 16, 2018",20th Century Fox,Thriller/Suspense
+The Climbers,The Climbers,"Sep 30, 2019",Well Go USA,Adventure
+The Great Alaskan Race,The Great Alaskan Ra,"Oct 25, 2019",P12 Films,Adventure
+Exit,Exit,"Aug 2, 2019",CJ Entertainment,Action
+CatVideoFest 2019,CatVideoFest 2019,"Feb 15, 2019",Oscilloscope Pict…,Documentary
+Cruel Intentions,Cruel Intentions,"Mar 5, 1999",Sony Pictures,Drama
+Panipat,Panipat,"Dec 6, 2019",Reliance Entertai…,Action
+Christmas Jars,Christmas Jars,"Nov 4, 2019",Fathom Events,Drama
+Dear Comrade,Dear Comrade,"Jul 26, 2019",,Action
+Les Misérables - The Staged…,Les Misérables - The,"Dec 6, 2019",Trafalgar Releasing,Concert/Perfor…
+Teen Spirit,Teen Spirit,"Apr 12, 2019",Bleecker Street,Musical
+De De Pyaar De,De De Pyaar De,"May 17, 2019",Yash Raj Films,Romantic Comedy
+En Brazos de un Asesino,En Brazos de un Ases,"Dec 6, 2019",Lionsgate,Thriller/Suspense
+Hail Satan?,Hail Satan?,"Apr 17, 2019",Magnolia Pictures,Documentary
+Ash is Purest White,Ash is Purest White,"Mar 15, 2019",Cohen Media Group,Drama
+Union,Union,"Aug 2, 2019",Indican Pictures,Drama
+The Invisibles,The Invisibles,"Jan 25, 2019",Greenwich,Documentary
+Monos,Monos,"Sep 13, 2019",Neon,Thriller/Suspense
+The Nightingale,The Nightingale,"Aug 2, 2019",IFC Films,Drama
+Mia and the White Lion,Mia and the White Li,"Apr 12, 2019",Ledafilms,Adventure
+The Man Who Killed Don Quixote,The Man Who Killed D,"Apr 10, 2019",,Comedy
+The Wedding Guest,The Wedding Guest,"Mar 1, 2019",IFC Films,Thriller/Suspense
+The Cure: Anniversary 1978-…,The Cure: Anniversar,"Jul 11, 2019",Trafalgar Releasing,Concert/Perfor…
+The Hummingbird Project,The Hummingbird Proj,"Mar 15, 2019",The Orchard,Drama
+Matthias & Maxime,Matthias & Maxime,"Oct 9, 2019",Self Distributed,Drama
+The Tomorrow Man,The Tomorrow Man,"May 22, 2019",Bleecker Street,Drama
+"Cyrano, My Love","Cyrano, My Love","Oct 18, 2019",Roadside Attractions,Comedy
+Photograph,Photograph,"May 17, 2019",Amazon Studios,Drama
+Diane,Diane,"Mar 29, 2019",IFC Films,Drama
+Sword of Trust,Sword of Trust,"Jul 12, 2019",IFC Films,Drama
+Lucy in the Sky,Lucy in the Sky,"Oct 4, 2019",Fox Searchlight,Drama
+At Eternity’s Gate,At Eternity’s Gate,"Nov 16, 2018",CBS Films,Drama
+Out of Liberty,Out of Liberty,"Sep 13, 2019",Purdie Distribution,Western
+Josh Groban Bridges from Ma…,Josh Groban Bridges ,"Feb 12, 2019",Trafalgar Releasing,Concert/Perfor…
+K-12,K-12,"Sep 5, 2019",Abramorama Films,Musical
+Aquarela,Aquarela,"Aug 16, 2019",Sony Pictures Cla…,Documentary
+63 Up,63 Up,"Nov 27, 2019",BritBox,Documentary
+Ask Dr. Ruth,Ask Dr. Ruth,"May 3, 2019",Magnolia Pictures,Documentary
+Line Walker 2: Invisible Spy,Line Walker 2: Invis,"Aug 16, 2019",Well Go USA,Action
+Killerman,Killerman,"Aug 30, 2019",Blue Fox Entertai…,Action
+The Bravest,The Bravest,"Aug 9, 2019",Sony Pictures,Drama
+Khalid: Free Spirit,Khalid: Free Spirit,"Mar 29, 2019",Trafalgar Releasing,Documentary
+Mike Wallace is Here,Mike Wallace is Here,"Jul 26, 2019",Magnolia Pictures,Documentary
+Freaks,Freaks,"Sep 13, 2019",Well Go USA,Thriller/Suspense
+Just Mercy,Just Mercy,"Dec 25, 2019",Warner Bros.,Drama
+Smallfoot,Smallfoot,"Sep 28, 2018",Warner Bros.,Adventure
+Her Smell,Her Smell,"Apr 12, 2019",Gunpowder & Sky,Drama
+One Child Nation,One Child Nation,"Aug 9, 2019",Amazon Studios,Documentary
+When Harry Met Sally…,When Harry Met Sally,"Jul 14, 1989",Fathom Events,Romantic Comedy
+I Got The Hook-Up 2,I Got The Hook-Up 2,"Jul 12, 2019",RLJ Entertainment,Comedy
+Lords of Chaos,Lords of Chaos,"Feb 8, 2019",Gunpowder & Sky,Thriller/Suspense
+Canal Street,Canal Street,"Jan 18, 2019",Smith Global Media,Drama
+Meeting Gorbachev,Meeting Gorbachev,"May 3, 2019",1091 Media,Documentary
+Under the Sea 3D,Under the Sea 3D,"Feb 13, 2009",,Documentary
+311: Enlarged to Show Detail 3,311: Enlarged to Sho,"Mar 11, 2019",Trafalgar Releasing,Concert/Perfor…
+Give Me Liberty,Give Me Liberty,"Aug 23, 2019",Music Box Films,Comedy
+American Woman,American Woman,"Jun 14, 2019",Roadside Attractions,Drama
+Ashfall,Ashfall,"Dec 20, 2019",CJ Entertainment,Action
+Pagalpanti,Pagalpanti,"Nov 22, 2019",Eros Entertainment,Comedy
+First Love,First Love,"Sep 27, 2019",Well Go USA,Drama
+"The Gangster, The Cop, The …","The Gangster, The Co","Jun 7, 2019",Well Go USA,Action
+"Faith, Hope & Love","Faith, Hope & Love","Mar 15, 2019",ArtAffects,Romantic Comedy
+Master Z: Ip Man Legacy,Master Z: Ip Man Leg,"Apr 12, 2019",Well Go USA,Action
+Play the Flute,Play the Flute,"Jan 28, 2019",Five & Two Pictures,Drama
+The Iron Orchard,The Iron Orchard,"Feb 22, 2019",Santa Rita Film Co,Drama
+Hesburgh,Hesburgh,"Apr 26, 2019",O’Malley Creadon …,Documentary
+Chasing the Dragon 2: Wild …,Chasing the Dragon 2,"Jun 7, 2019",Well Go USA,Action
+Family,Family,"Apr 19, 2019",Film Arcade,Drama
+Mr. Klein,Mr. Klein,"Nov 6, 1977",Rialto Pictures,Drama
+Synonyms,Synonyms,"Oct 25, 2019",Kino Lorber,Drama
+The Song of Names,The Song of Names,"Dec 25, 2019",Sony Pictures Cla…,Drama
+To Dust,To Dust,"Feb 8, 2019",Good Deed Enterta…,Drama
+Robin Hood,Robin Hood,"Nov 21, 2018",Lionsgate,Action
+Modest Heroes,Modest Heroes,"Jan 10, 2019",GKIDS,Adventure
+The Warrior Queen of Jhansi,The Warrior Queen of,"Nov 15, 2019",Roadside Attractions,Drama
+India’s Most Wanted,India’s Most Wanted,"May 24, 2019",FIP,Thriller/Suspense
+"Iyengar: The Man, Yoga, The…","Iyengar: The Man, Yo","Apr 12, 2019",Kino Lorber,Documentary
+Tigers Are Not Afraid,Tigers Are Not Afrai,"Aug 21, 2019",Variance Films,Horror
+Frankie,Frankie,"Oct 25, 2019",Sony Pictures Cla…,Drama
+The Bad Guys: Reign of Chaos,The Bad Guys: Reign ,"Sep 13, 2019",CJ Entertainment,Action
+Sunset,Sunset,"Mar 22, 2019",Sony Pictures Cla…,Drama
+Them That Follow,Them That Follow,"Aug 2, 2019",1091 Media,Thriller/Suspense
+Money,Money,"Mar 21, 2019",CJ Entertainment,Drama
+The Possession of Hannah Grace,The Possession of Ha,"Nov 30, 2018",Sony Pictures,Horror
+Halston,Halston,"May 24, 2019",1091 Media,Documentary
+Peterloo,Peterloo,"Apr 5, 2019",Amazon Studios,Drama
+Jay Myself,Jay Myself,"Jul 31, 2019",Oscilloscope Pict…,Documentary
+Before You Know It,Before You Know It,"Aug 30, 2019",1091 Media,Comedy
+The River and the Wall,The River and the Wa,"May 3, 2019",Gravitas Ventures,Documentary
+The Whistleblower,The Whistleblower,"Dec 6, 2019",CMC Pictures,Action
+Little Woods,Little Woods,"Apr 19, 2019",Neon,Western
+Hampstead,Hampstead,"Jun 14, 2019",IFC Films,Drama
+War and Peace,War and Peace,"Apr 28, 1968",Janus Films,Drama
+Trial by Fire,Trial by Fire,"May 17, 2019",Roadside Attractions,Drama
+Dogman,Dogman,"Apr 12, 2019",Magnolia Pictures,Thriller/Suspense
+Hubble 3D,Hubble 3D,"Mar 19, 2010",,Documentary
+Framing John DeLorean,Framing John DeLorea,"Jun 7, 2019",Sundance Selects,Documentary
+The Life of Brian,The Life of Brian,"Aug 17, 1979",Trafalgar Releasing,Comedy
+Who Will Write Our History,Who Will Write Our H,"Jan 18, 2019",Abramorama Films,Documentary
+Rafiki,Rafiki,"Apr 19, 2019",Film Movement,Drama
+The Last Resort,The Last Resort,"Dec 21, 2018",Kino Lorber,Documentary
+The Other Story,The Other Story,"Jun 28, 2019",Strand Releasing,Drama
+Okko’s Inn,Okko’s Inn,"Apr 22, 2019",GKIDS,Adventure
+Palau the Movie,Palau the Movie,"Apr 4, 2019",Trafalgar Releasing,Drama
+Born to be Wild 3D,Born to be Wild 3D,"Apr 8, 2011",,Documentary
+Anthropocene: The Human Epoch,Anthropocene: The Hu,"Sep 28, 2018",Kino Lorber,Documentary
+Peppa Celebrates Chinese Ne…,Peppa Celebrates Chi,"Feb 6, 2019",STX Entertainment,Adventure
+Mister America,Mister America,"Oct 9, 2019",Magnolia Pictures,Comedy
+The Zoya Factor,The Zoya Factor,"Sep 20, 2019",FIP,Romantic Comedy
+The World Before Your Feet,The World Before You,"Nov 21, 2018",Greenwich,Documentary
+Paris is Burning,Paris is Burning,"Mar 13, 1991",,Documentary
+Mary Magdalene,Mary Magdalene,"Apr 12, 2019",IFC Films,Drama
+A Tuba to Cuba,A Tuba to Cuba,"Feb 15, 2019",Blue Fox Entertai…,Documentary
+Free Trip to Egypt,Free Trip to Egypt,"Jun 12, 2019",,Documentary
+"Ruben Brandt, Collector","Ruben Brandt, Collec","Feb 15, 2019",Sony Pictures Cla…,Drama
+Branagh Theatre Live: The W…,Branagh Theatre Live,"Dec 4, 2019",Trafalgar Releasing,Drama
+The Kingmaker,The Kingmaker,"Nov 8, 2019",Greenwich,Documentary
+Be Natural: The Untold Stor…,Be Natural: The Unto,"Apr 19, 2019",Zeitgeist,Documentary
+Police Story/Police Story 2…,Police Story/Police ,"Feb 1, 2019",Janus Films,Action
+Babylon (1980),Babylon (1980),"Mar 8, 2019",Self Distributed,Drama
+Varda by Agnes,Varda by Agnes,"Nov 22, 2019",Janus Films,Documentary
+The Brink,The Brink,"Mar 29, 2019",Magnolia Pictures,Documentary
+Cold Case Hammarskjold,Cold Case Hammarskjo,"Aug 16, 2019",Magnolia Pictures,Documentary
+Downtown 81,Downtown 81,"Jul 13, 2001",Metrograph Pictures,Drama
+Miss & Mrs. Cops,Miss & Mrs. Cops,"May 10, 2019",CJ Entertainment,Comedy
+The Divine Fury,The Divine Fury,"Aug 16, 2019",Well Go USA,Action
+Cunningham,Cunningham,"Dec 13, 2019",Magnolia Pictures,Documentary
+Burning,Burning,"Oct 26, 2018",Well Go USA,Thriller/Suspense
+The Reports on Sarah and Sa…,The Reports on Sarah,"Jun 12, 2019",Dada Films,Drama
+Walking on Water,Walking on Water,"May 17, 2019",Kino Lorber,Documentary
+Tazza: One Eyed Jack,Tazza: One Eyed Jack,"Sep 20, 2019",Well Go USA,Drama
+Rojo,Rojo,"Jul 12, 2019",Distrib Films,Drama
+The Image Book,The Image Book,"Jan 25, 2019",Kino Lorber,Drama
+Always Miss You,Always Miss You,"May 3, 2019",China Lion Film D…,Drama
+Loopers: The Caddie’s Long …,Loopers: The Caddie’,"Jun 7, 2019",Gravitas Ventures,Documentary
+My Dear Liar,My Dear Liar,"Nov 8, 2019",CMC Pictures,Drama
+Mirai no Mirai,Mirai no Mirai,"Nov 29, 2018",GKIDS,Adventure
+The Lumber Baron,The Lumber Baron,"May 24, 2019",Indican Pictures,Drama
+The Chambermaid,The Chambermaid,"Jun 26, 2019",Kino Lorber,Drama
+ECCO,ECCO,"Aug 9, 2019",Citadel,Thriller/Suspense
+Sonchiriya,Sonchiriya,"Mar 1, 2019",PackYourBag Films,Action
+Ramen Shop,Ramen Shop,"Mar 22, 2019",Strand Releasing,Drama
+The Third Wife,The Third Wife,"May 15, 2019",Film Movement,Drama
+Papi Chulo,Papi Chulo,"Jun 7, 2019",Blue Fox Entertai…,Comedy
+Woodstock: Three Days That …,Woodstock: Three Day,"May 24, 2019",Self Distributed,Documentary
+High Strung: Free Dance,High Strung: Free Da,"Oct 11, 2019",GVN Releasing,Drama
+Venom,Venom,"Oct 5, 2018",Sony Pictures,Action
+Christ Stopped at Eboli,Christ Stopped at Eb,"Mar 23, 1980",Rialto Pictures,Drama
+Ms. Purple,Ms. Purple,"Sep 6, 2019",Oscilloscope Pict…,Drama
+Mayday Life,Mayday Life,"May 31, 2019",China Lion Film D…,Concert/Perfor…
+Deadpool 2,Deadpool 2,"May 18, 2018",20th Century Fox,Action
+The Old Man and the Gun,The Old Man and the ,"Sep 28, 2018",Fox Searchlight,Comedy
+The Heiresses,The Heiresses,"Jan 16, 2019",Distrib Films,Drama
+A Faithful Man,A Faithful Man,"Jul 19, 2019",Kino Lorber,Romantic Comedy
+Fast Color,Fast Color,"Apr 19, 2019",Lionsgate,Thriller/Suspense
+Clemency,Clemency,"Dec 27, 2019",Neon,Drama
+Triple Threat,Triple Threat,"Mar 19, 2019",Well Go USA,Thriller/Suspense
+Savage,Savage,"May 3, 2019",Well Go USA,Thriller/Suspense
+The Nutcracker and the Four…,The Nutcracker and t,"Nov 2, 2018",Walt Disney,Adventure
+"Hale County This Morning, T…",Hale County This Mor,"Sep 14, 2018",Cinema Guild,Documentary
+Storm Boy,Storm Boy,"Apr 5, 2019",Good Deed Enterta…,Adventure
+3 Faces,3 Faces,"Mar 8, 2019",Kino Lorber,Drama
+Cliffs of Freedom,Cliffs of Freedom,"Mar 1, 2019",Round Hill Media,Drama
+The Battle of Jangsari,The Battle of Jangsa,"Oct 4, 2019",Well Go USA,Drama
+Styx,Styx,"Feb 27, 2019",Film Movement,Drama
+Edie,Edie,"Sep 6, 2019",Music Box Films,Drama
+Diamantino,Diamantino,"May 24, 2019",Kino Lorber,
+The Divine Move 2: The Wrat…,The Divine Move 2: T,"Nov 15, 2019",CJ Entertainment,Action
+Being Frank,Being Frank,"Jun 14, 2019",Film Arcade,Comedy
+Last Year at Marienbad,Last Year at Marienb,"Jan 18, 2008",Rialto Pictures,Drama
+Working Woman,Working Woman,"Mar 27, 2019",Zeitgeist,Drama
+Vita & Virginia,Vita & Virginia,"Aug 23, 2019",IFC Films,Drama
+By the Grace of God,By the Grace of God,"Oct 18, 2019",Music Box Films,Drama
+The Mountain,The Mountain,"Jul 26, 2019",Kino Lorber,Black Comedy
+Wild,Wild,"Apr 10, 2019",Strand Releasing,Drama
+Greener Grass,Greener Grass,"Oct 18, 2019",IFC Films,Comedy
+Mickey and the Bear,Mickey and the Bear,"Nov 15, 2019",Self Distributed,Drama
+Invisible Life,Invisible Life,"Dec 20, 2019",Amazon Studios,Drama
+Making Waves: The Art of Ci…,Making Waves: The Ar,"Oct 25, 2019",Matson,Documentary
+One Cut of the Dead,One Cut of the Dead,"Sep 13, 2019",Shudder,Horror
+End of the Century,End of the Century,"Aug 16, 2019",Cinema Guild,Drama
+Charlie Says,Charlie Says,"May 10, 2019",IFC Films,Drama
+Mojin: The Worm Valley,Mojin: The Worm Vall,"Jan 4, 2019",Well Go USA,Action
+The Hate U Give,The Hate U Give,"Oct 19, 2018",20th Century Fox,Drama
+Ophelia,Ophelia,"Jun 28, 2019",IFC Films,Drama
+Clinton Road,Clinton Road,"Jun 14, 2019",Nocturnal Features,Horror
+American Dharma,American Dharma,"Nov 1, 2019",Utopia,Documentary
+"Love, Antosha","Love, Antosha","Aug 2, 2019",Lurker Films,Documentary
+The Bounty Killer,The Bounty Killer,"Jan 25, 2019",Indican Pictures,Western
+The Queen,The Queen,"Jun 27, 2019",Kino Lorber,Documentary
+Under The Silver Lake,Under The Silver Lak,"Apr 19, 2019",A24,Thriller/Suspense
+High on the Hog,High on the Hog,"Apr 19, 2019",Indican Pictures,Action
+The Proposal,The Proposal,"May 24, 2019",Oscilloscope Pict…,Documentary
+The Cave,The Cave,"Oct 18, 2019",National Geograph…,Documentary
+What is Democracy,What is Democracy,"Jan 16, 2019",Zeitgeist,Documentary
+Becoming Astrid,Becoming Astrid,"Nov 23, 2018",Music Box Films,Drama
+Carmine Street Guitars,Carmine Street Guita,"Apr 24, 2019",Abramorama Films,Documentary
+For Sama,For Sama,"Jul 26, 2019",PBS Distribution,Documentary
+Fagara,Fagara,"Sep 13, 2019",China Lion Film D…,Drama
+Immortal Hero,Immortal Hero,"Oct 18, 2019",Freestyle Releasing,Drama
+Midnight Traveler,Midnight Traveler,"Sep 18, 2019",Oscilloscope Pict…,Documentary
+Aniara,Aniara,"May 17, 2019",Magnolia Pictures,Drama
+Saint Judy,Saint Judy,"Mar 1, 2019",Blue Fox Entertai…,Drama
+Zilla and Zoe,Zilla and Zoe,"May 17, 2019",Indican Pictures,Comedy
+Shed of the Dead,Shed of the Dead,"May 17, 2019",Indican Pictures,Comedy
+Wildlife,Wildlife,"Oct 19, 2018",,Drama
+Britt-Marie Was Here,Britt-Marie Was Here,"Sep 20, 2019",Cohen Media Group,Comedy
+The Quiet One,The Quiet One,"Jun 21, 2019",IFC Films,Documentary
+Recorder: The Marion Stokes…,Recorder: The Marion,"Nov 15, 2019",Zeitgeist,Documentary
+The Sower,The Sower,"Mar 1, 2019",Film Movement,Drama
+Buñuel in the Labyrinth of …,Buñuel in the Labyri,"Aug 16, 2019",GKIDS,Drama
+Yardie,Yardie,"Mar 15, 2019",Rialto Pictures,Drama
+Loro 1,Loro 1,"Sep 20, 2019",IFC Films,Documentary
+White Snake,White Snake,"Nov 15, 2019",GKIDS,Adventure
+Ága,Ága,"Sep 4, 2019",Big World Pictures,Drama
+Maria by Callas,Maria by Callas,"Nov 2, 2018",Sony Pictures Cla…,Documentary
+Killer Unicorn,Killer Unicorn,"Jun 11, 2019",Indican Pictures,Horror
+The Death of Dick Long,The Death of Dick Lo,"Sep 27, 2019",A24,Black Comedy
+Moonlight Sonata: Deafness …,Moonlight Sonata: De,"Sep 13, 2019",Abramorama Films,Documentary
+The Wild Pear Tree,The Wild Pear Tree,"Jan 30, 2019",Cinema Guild,Drama
+Deep Sea 3-D,Deep Sea 3-D,"Mar 3, 2006",,Documentary
+An Acceptable Loss,An Acceptable Loss,"Jan 18, 2019",IFC Films,Thriller/Suspense
+10E,10E,"Sep 27, 2019",in8 Releasing,Comedy
+Desolation Center,Desolation Center,"Sep 13, 2019",Self Distributed,Documentary
+Knife + Heart,Knife + Heart,"Mar 15, 2019",Altered Innocence,Thriller/Suspense
+Gift,Gift,"Oct 11, 2019",Matson,Documentary
+Memory: The Origins of Alien,Memory: The Origins ,"Oct 4, 2019",Screen Media Films,Documentary
+Pasolini,Pasolini,"May 10, 2019",Kino Lorber,Drama
+Sorry Angel,Sorry Angel,"Feb 15, 2019",Strand Releasing,Drama
+Horn From the Heart: The Pa…,Horn From the Heart:,"Oct 17, 2018",Abramorama Films,Documentary
+The Ground Beneath My Feet,The Ground Beneath M,"Jul 26, 2019",Strand Releasing,Drama
+The Wind,The Wind,"Apr 5, 2019",IFC Midnight,Horror
+In the Aisles,In the Aisles,"Jun 14, 2019",Music Box Films,Drama
+Kind Hearts and Coronets,Kind Hearts and Coro,"Nov 22, 2019",Rialto Pictures,Black Comedy
+Hotel by the River,Hotel by the River,"Feb 15, 2019",Cinema Guild,Drama
+"Leaving Home, Coming Home: …","Leaving Home, Coming","May 29, 2019",Greenwich,Documentary
+The Day Shall Come,The Day Shall Come,"Sep 27, 2019",IFC Films,Comedy
+Wrestle,Wrestle,"Feb 22, 2019",Oscilloscope Pict…,Documentary
+Donnybrook,Donnybrook,"Feb 15, 2019",IFC Films,Drama
+Swing Kids,Swing Kids,"Dec 21, 2018",Well Go USA,Drama
+Return of the Hero,Return of the Hero,"Aug 31, 2018",Distrib Films,Drama
+Chasing Einstein,Chasing Einstein,"Sep 13, 2019",Atlas Distribution,Documentary
+The Nun (1966) (Re-Release),The Nun (1966) (Re-R,"Jan 4, 2019",Rialto Pictures,Drama
+Beautiful Boy,Beautiful Boy,"Oct 12, 2018",Amazon Studios,Drama
+Piranhas,Piranhas,"Aug 2, 2019",Music Box Films,Drama
+Island of Lemurs: Madagascar,Island of Lemurs: Ma,"Apr 4, 2014",,Documentary
+Célébration,Célébration,"Oct 2, 2019",KimStim,Documentary
+Night School,Night School,"Sep 28, 2018",,Comedy
+Little Joe,Little Joe,"Dec 6, 2019",Magnolia Pictures,Drama
+Light From Light,Light From Light,"Nov 1, 2019",Grasshopper Film,Drama
+The House That Jack Built,The House That Jack ,"Dec 14, 2018",IFC Films,Thriller/Suspense
+The White Sheik,The White Sheik,"Apr 25, 1956",Rialto Pictures,Comedy
+Wicked Witches,Wicked Witches,"Aug 9, 2019",Nocturnal Features,Horror
+Redoubt,Redoubt,"Oct 30, 2019",Grasshopper Film,Thriller/Suspense
+The Hole in the Ground,The Hole in the Grou,"Mar 1, 2019",A24,Horror
+The Gospel of Eureka,The Gospel of Eureka,"Feb 8, 2019",Kino Lorber,Documentary
+The All Americans,The All Americans,"Nov 8, 2019",Abramorama Films,Documentary
+The Disappearance of my Mother,The Disappearance of,"Dec 6, 2019",Kino Lorber,Documentary
+The Sound of Silence,The Sound of Silence,"Sep 13, 2019",IFC Films,Drama
+Prassthanam,Prassthanam,"Sep 20, 2019",PackYourBag Films,Drama
+Midnight Family,Midnight Family,"Dec 6, 2019",1091 Media,Documentary
+Tremors,Tremors,"Nov 29, 2019",Film Movement,Drama
+Out of Blue,Out of Blue,"Mar 22, 2019",IFC Films,Drama
+Scandalous: The Untold Stor…,Scandalous: The Unto,"Nov 15, 2019",Magnolia Pictures,Documentary
+Before Stonewall,Before Stonewall,"Jun 21, 2019",First Run Features,Documentary
+Midnight Diner,Midnight Diner,"Sep 20, 2019",Well Go USA,Drama
+"Phoenix, Oregon","Phoenix, Oregon","Apr 26, 2019",Joma Films,Comedy
+To the Arctic 3D,To the Arctic 3D,"Apr 20, 2012",,Documentary
+The Cranes are Flying,The Cranes are Flyin,"Mar 21, 1960",Janus Films,Drama
+Citizen K,Citizen K,"Nov 22, 2019",Greenwich,Documentary
+Jane and Emma,Jane and Emma,"Oct 12, 2018",Excel Entertainment,Drama
+Chained for Life,Chained for Life,"Sep 11, 2019",Kino Lorber,Black Comedy
+Ode to Joy,Ode to Joy,"Aug 9, 2019",IFC Films,Comedy
+Joseph Pulitzer: Voice of t…,Joseph Pulitzer: Voi,"Mar 1, 2019",First Run Features,Documentary
+Balloon,Balloon,"Sep 6, 2019",Distrib Films,Thriller/Suspense
+Three Peaks,Three Peaks,"Jun 28, 2019",Greenwich,Drama
+Virginia Minnesota,Virginia Minnesota,"Mar 1, 2019",Indican Pictures,Comedy
+Piercing,Piercing,"Feb 1, 2019",Greenwich,Horror
+Starfish,Starfish,"Mar 15, 2019",Self Distributed,Horror
+Funan,Funan,"Jun 7, 2019",GKIDS,Drama
+Wrinkles the Clown,Wrinkles the Clown,"Oct 4, 2019",Magnolia Pictures,Documentary
+ZZ Top: That Little Ol’ Ban…,ZZ Top: That Little ,"Aug 19, 2019",Abramorama Films,Documentary
+Frank and Ava,Frank and Ava,"Dec 7, 2018",Gravitas Ventures,Drama
+Our Time,Our Time,"Jun 14, 2019",Monument Releasing,Drama
+Giant Little Ones,Giant Little Ones,"Mar 1, 2019",Vertical Entertai…,Drama
+Boy Erased,Boy Erased,"Nov 2, 2018",,Drama
+The Woman Who Loves Giraffes,The Woman Who Loves ,"Oct 4, 2019",Zeitgeist,Documentary
+Combat Obscura,Combat Obscura,"Mar 15, 2019",Oscilloscope Pict…,Documentary
+Screwball,Screwball,"Mar 29, 2019",Greenwich,Multiple Genres
+Touch Me Not,Touch Me Not,"Jan 11, 2019",Kino Lorber,Documentary
+This One’s For The Ladies,This One’s For The L,"Jun 7, 2019",Super LTD,Documentary
+Crazy Rich Asians,Crazy Rich Asians,"Aug 15, 2018",Warner Bros.,Romantic Comedy
+First Man,First Man,"Oct 12, 2018",,Drama
+The House with a Clock in i…,The House with a Clo,"Sep 21, 2018",,Comedy
+Rapid Response,Rapid Response,"Sep 6, 2019",Atlas Distribution,Documentary
+Hagazussa: A Heathen’s Curse,Hagazussa: A Heathen,"Apr 19, 2019",Doppelganger Rele…,Horror
+Off Season,Off Season,"Mar 15, 2019",Indican Pictures,Thriller/Suspense
+Sympathy For the Devil,Sympathy For the Dev,"Nov 27, 2019",Entertainment One,Action
+Zen for Nothing,Zen for Nothing,"Mar 29, 2019",Zeitgeist,Documentary
+Imprisoned,Imprisoned,"Sep 13, 2019",Cinema Libre,Thriller/Suspense
+Cassandro the Exotico,Cassandro the Exotic,"Jul 19, 2019",Film Movement,Documentary
+Hollywould,Hollywould,"Nov 15, 2019",Indican Pictures,Thriller/Suspense
+Stuffed,Stuffed,"Oct 16, 2019",Music Box Films,Documentary
+Yomeddine,Yomeddine,"May 31, 2019",Strand Releasing,Adventure
+I Do Not Care If We Go Down…,I Do Not Care If We ,"Jul 19, 2019",Big World Pictures,Black Comedy
+Made Me Do It,Made Me Do It,"Apr 12, 2019",Indican Pictures,Horror
+Ferrante Fever,Ferrante Fever,"Mar 8, 2019",Greenwich,Documentary
+If the Dancer Dances,If the Dancer Dances,"Apr 26, 2019",Monument Releasing,Documentary
+Vision Portraits,Vision Portraits,"Aug 9, 2019",Self Distributed,Documentary
+Prescience,Prescience,"Oct 25, 2019",Indican Pictures,Drama
+Suburban Birds,Suburban Birds,"Apr 5, 2019",Cinema Guild,Drama
+The Eyes of Orson Welles,The Eyes of Orson We,"Mar 15, 2019",Janus Films,Documentary
+A Private War,A Private War,"Nov 2, 2018",Aviron Pictures,Drama
+Shooting the Mafia,Shooting the Mafia,"Nov 22, 2019",Cohen Media Group,Documentary
+Olivia,Olivia,"Apr 8, 1954",Distrib Films,Drama
+Streetwise,Streetwise,"Jul 19, 2019",Janus Films,Documentary
+Studio 54,Studio 54,"Oct 5, 2018",Zeitgeist,Documentary
+Fritz Lang’s Indian Epic,Fritz Lang’s Indian ,"Sep 27, 2019",Film Movement,
+When Lambs Become Lions,When Lambs Become Li,"Nov 22, 2019",Oscilloscope Pict…,Documentary
+Tyrel,Tyrel,"Dec 5, 2018",Magnolia Pictures,Drama
+The Aspern Papers,The Aspern Papers,"Jan 11, 2019",Cohen Media Group,Drama
+Liyana,Liyana,"Oct 10, 2018",Abramorama Films,Documentary
+Cracked Up,Cracked Up,"Sep 13, 2019",Abramorama Films,Documentary
+Advocate,Advocate,,,Documentary
+"Frantz Fanon: Black Skin, W…",Frantz Fanon: Black ,"Mar 15, 2019",Film Movement,Documentary
+Grass,Grass,"Apr 19, 2019",Cinema Guild,Drama
+That Pärt Feeling—The Unive…,That Pärt Feeling—Th,"May 24, 2019",Film Movement,Documentary
+The Dead Center,The Dead Center,"Oct 11, 2019",Arrow Releasing,Thriller/Suspense
+This Magnificent Cake!,This Magnificent Cak,"Mar 1, 2019",GKIDS,
+Ghost Fleet,Ghost Fleet,"Jun 7, 2019",Abramorama Films,Documentary
+Girls of the Sun,Girls of the Sun,"Apr 12, 2019",Cohen Media Group,Drama
+Gregory’s Girl,Gregory’s Girl,"May 26, 1982",Film Movement,Romantic Comedy
+I’ll Take Your Dead,I’ll Take Your Dead,"Jul 5, 2019",Breakthrough Ente…,Horror
+Beloved Beast,Beloved Beast,"Oct 11, 2019",Indican Pictures,Horror
+My Son,My Son,"May 10, 2019",Cohen Media Group,Thriller/Suspense
+Rosie,Rosie,"Jul 19, 2019",Blue Fox Entertai…,Drama
+Genesis,Genesis,"Aug 23, 2019",Film Movement,Drama
+Dying to Survive,Dying to Survive,"Aug 9, 2019",China Lion Film D…,Drama
+Life & Nothing More,Life & Nothing More,"Oct 24, 2018",CFI,Drama
+Under the Eiffel Tower,Under the Eiffel Tow,"Feb 8, 2019",The Orchard,Romantic Comedy
+To Be of Service,To Be of Service,"Nov 1, 2019",First Run Features,Documentary
+Relaxer,Relaxer,"Mar 22, 2019",Oscilloscope Pict…,Comedy
+The Charmer,The Charmer,"Dec 5, 2018",Film Movement,Thriller/Suspense
+The Golden Glove,The Golden Glove,"Sep 27, 2019",Strand Releasing,Drama
+"Monrovia, Indiana","Monrovia, Indiana","Oct 26, 2018",Zipporah,Documentary
+Of Fathers and Sons,Of Fathers and Sons,"Nov 16, 2018",Kino Lorber,Documentary
+Serie noire,Serie noire,"Jun 25, 1982",Rialto Pictures,Drama
+The Miracle of the Little P…,The Miracle of the L,"Aug 28, 2019",Film Movement,Documentary
+Halloween,Halloween,"Oct 19, 2018",,Horror
+Spiral Farm,Spiral Farm,"Dec 13, 2019",Indican Pictures,Drama
+Daughter of Mine,Daughter of Mine,"Feb 1, 2019",Strand Releasing,Drama
+100 Acres of Hell,100 Acres of Hell,"Oct 11, 2019",Indican Pictures,Horror
+Body at Brighton Rock,Body at Brighton Roc,"Apr 26, 2019",Magnolia Pictures,Thriller/Suspense
+The Garden,The Garden,"Dec 31, 1990",Zeitgeist,Drama
+Un Traductor,Un Traductor,"Oct 19, 2018",Film Movement,Drama
+Crepitus,Crepitus,"Nov 1, 2019",Indican Pictures,Horror
+Ballet Blanc,Ballet Blanc,"Nov 8, 2019",Indican Pictures,Horror
+What You Gonna Do When The …,What You Gonna Do Wh,"Aug 16, 2019",KimStim,Documentary
+Slaughterhouse Rulez,Slaughterhouse Rulez,"May 17, 2019",Sony Pictures,Action
+At War,At War,"Jul 19, 2019",Cinema Libre,Drama
+I’m Leaving Now,I’m Leaving Now,"Sep 6, 2019",Cinema Guild,Documentary
+Tito and the Birds,Tito and the Birds,"Jan 25, 2019",Shout! Factory,Adventure
+The Fate of Lee Khan (1973)…,The Fate of Lee Khan,"Apr 5, 2019",Film Movement,Action
+The Gliksmans,The Gliksmans,"Sep 27, 2019",Indican Pictures,Comedy
+Sicilian Ghost Story,Sicilian Ghost Story,"Nov 30, 2018",Strand Releasing,Drama
+Mother of a Day,Mother of a Day,"May 4, 2019",Sumbadhat Product…,Comedy
+Crown Vic,Crown Vic,"Nov 8, 2019",Screen Media Films,Action
+The Wandering Soap Opera,The Wandering Soap O,"May 17, 2019",Cinema Guild,Comedy
+Another Day of Life,Another Day of Life,"Sep 13, 2019",GKIDS,Drama
+Chasing Portraits,Chasing Portraits,"Feb 26, 2019",First Run Features,Documentary
+Filmworker,Filmworker,"May 11, 2018",Kino Lorber,Documentary
+Wings of Desire (1987) (Re-…,Wings of Desire (198,"Oct 19, 2018",Janus Films,Drama
+Back to the Fatherland,Back to the Fatherla,"Jun 14, 2019",First Run Features,Documentary
+"No Date, No Signature","No Date, No Signatur","Aug 1, 2018",Distrib Films,Drama
+TINY: The Life of Erin Blac…,TINY: The Life of Er,"Jul 19, 2019",Janus Films,Documentary
+Serendipity,Serendipity,"Oct 18, 2019",Cohen Media Group,Documentary
+A German Youth,A German Youth,"Oct 11, 2019",Big World Pictures,Documentary
+Iceman,Iceman,"Mar 15, 2019",Film Movement,Thriller/Suspense
+Jihadists,Jihadists,"Jan 25, 2019",Cinema Libre,Documentary
+In Safe Hands,In Safe Hands,"Jul 26, 2019",Distrib Films,Drama
+Little Q,Little Q,"Dec 6, 2019",Well Go USA,Drama
+The Killing Floor,The Killing Floor,"Nov 22, 2019",Film Movement,Drama
+Detour,Detour,"Nov 30, 1945",Janus Films,Drama
+State Like Sleep,State Like Sleep,"Jan 4, 2019",The Orchard,Drama
+The Hours and Times,The Hours and Times,"Mar 1, 2019",Oscilloscope Pict…,Drama
+Chinese Portrait,Chinese Portrait,"Dec 13, 2019",Cinema Guild,Documentary
+A Fish in the Bathtub,A Fish in the Bathtu,"Nov 8, 2019",Cohen Media Group,Comedy
+Narcissister Organ Player,Narcissister Organ P,"Nov 7, 2018",Film Movement,Documentary
+Chef Flynn,Chef Flynn,"Nov 9, 2018",Kino Lorber,Documentary
+I am Not a Witch,I am Not a Witch,"Sep 7, 2018",Film Movement,Drama
+Divide and Conquer: The Sto…,Divide and Conquer: ,"Dec 7, 2018",Magnolia Pictures,Documentary
+Senso,Senso,"Jul 8, 1968",Fleetwood Films,Drama
+Never-Ending Man: Hayao Miy…,Never-Ending Man: Ha,"Dec 13, 2018",GKIDS,Documentary
