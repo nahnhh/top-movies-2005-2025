@@ -34,7 +34,7 @@ Rank,Movie,Worldwide Box Office,Domestic Box Office,International Box Office,Dom
 33,No Country for Old Men,"$164,035,753","$74,273,505","$89,762,248",45.28%,No Country for Old M,https://www.the-numbers.com/movie/No-Country-for-Old-Men#tab=summary
 34,Norbit,"$158,973,607","$95,673,607","$63,300,000",60.18%,Norbit,https://www.the-numbers.com/movie/Norbit#tab=summary
 35,"P.S., I Love You","$155,769,678","$53,695,808","$102,073,870",34.47%,"P.S., I Love You",https://www.the-numbers.com/movie/P-S-I-Love-You#tab=summary
-36,Sweeney Todd: The Demon Barber of Fleet Street,"$153,329,844","$52,898,073","$100,431,771",34.50%,Sweeney Todd: The De,https://www.the-numbers.com/movie/Sweeney-Todd-The-Demon-Barber-of-Fleet-Street#tab=summary
+36,Sweeney Todd: The Demon Barber of Fleet Street,"$153,329,844","$52,898,073","$100,431,771",34.50%,Sweeney Todd: The De,https://www.the-numbers.com/movie/Sweeney-Todd-The-Demon-Barber-of-Fleet-Street-(2007)#tab=summary
 37,Resident Evil: Extinction,"$149,871,103","$50,648,679","$99,222,424",33.79%,Resident Evil: Extin,https://www.the-numbers.com/movie/Resident-Evil-Extinction#tab=summary
 38,The Game Plan,"$146,590,987","$90,648,202","$55,942,785",61.84%,The Game Plan,https://www.the-numbers.com/movie/Game-Plan-The#tab=summary
 39,Music and Lyrics,"$146,196,885","$50,572,589","$95,624,296",34.59%,Music and Lyrics,https://www.the-numbers.com/movie/Music-and-Lyrics#tab=summary
@@ -65,8 +65,8 @@ Rank,Movie,Worldwide Box Office,Domestic Box Office,International Box Office,Dom
 64,Premonition,"$84,146,832","$47,852,604","$36,294,228",56.87%,Premonition,https://www.the-numbers.com/movie/Premonition-(2007)#tab=summary
 65,Zodiac,"$83,027,938","$33,080,084","$49,947,854",39.84%,Zodiac,https://www.the-numbers.com/movie/Zodiac-(2007)#tab=summary
 66,Das Leben der Anderen,"$81,197,047","$11,284,657","$69,912,390",13.90%,Das Leben der Andere,https://www.the-numbers.com/movie/Leben-der-Anderen-Das#tab=summary
-67,Hot Fuzz,"$80,591,470","$23,618,786","$56,972,684",29.31%,Hot Fuzz,https://www.the-numbers.com/movie/Hot-Fuzz#tab=summary
-68,Hannibal Rising,"$80,583,311","$27,669,725","$52,913,586",34.34%,Hannibal Rising,https://www.the-numbers.com/movie/Hannibal-Rising#tab=summary
+67,Hannibal Rising,"$80,583,311","$27,669,725","$52,913,586",34.34%,Hannibal Rising,https://www.the-numbers.com/movie/Hannibal-Rising#tab=summary
+68,Hot Fuzz,"$80,477,865","$23,618,786","$56,859,079",29.35%,Hot Fuzz,https://www.the-numbers.com/movie/Hot-Fuzz#tab=summary
 69,30 Days of Night,"$80,276,156","$39,568,996","$40,707,160",49.29%,30 Days of Night,https://www.the-numbers.com/movie/30-Days-of-Night#tab=summary
 70,Dragon Wars: D-War,"$79,915,361","$10,977,721","$68,937,640",13.74%,Dragon Wars: D-War,https://www.the-numbers.com/movie/Dragon-Wars-D-War#tab=summary
 71,El orfanato,"$79,250,193","$7,159,147","$72,091,046",9.03%,El orfanato,https://www.the-numbers.com/movie/Orfanato-El#tab=summary
@@ -124,7 +124,7 @@ Rank,Movie,Worldwide Box Office,Domestic Box Office,International Box Office,Dom
 123,Sicko,"$36,535,837","$24,538,513","$11,997,324",67.16%,Sicko,https://www.the-numbers.com/movie/Sicko#tab=summary
 124,The Darjeeling Limited,"$35,077,571","$11,902,715","$23,174,856",33.93%,The Darjeeling Limit,https://www.the-numbers.com/movie/Darjeeling-Limited-The#tab=summary
 125,Breach,"$34,458,779","$33,000,880","$1,457,899",95.77%,Breach,https://www.the-numbers.com/movie/Breach-(2007)#tab=summary
-126,Gone Baby Gone,"$34,359,030","$20,300,218","$14,058,812",59.08%,Gone Baby Gone,https://www.the-numbers.com/movie/Gone-Baby-Gone-(2007)#tab=summary
+126,"Gone, Baby, Gone","$34,359,030","$20,300,218","$14,058,812",59.08%,"Gone, Baby, Gone",https://www.the-numbers.com/movie/Gone-Baby-Gone-(2007)#tab=summary
 127,Monkey Magic,"$33,824,181",,"$33,824,181",,Monkey Magic,https://www.the-numbers.com/movie/Monkey-Magic-(2007-Japan)#tab=summary
 128,Always zoku san-chôme no yûhi,"$33,755,260",,"$33,755,260",,Always zoku san-chôm,https://www.the-numbers.com/movie/Always-zoku-san-chome-no-yuhi-(2007-Japan)#tab=summary
 129,Hostel: Part II,"$33,606,409","$17,544,812","$16,061,597",52.21%,Hostel: Part II,https://www.the-numbers.com/movie/Hostel-Part-II#tab=summary
@@ -154,13 +154,13 @@ Rank,Movie,Worldwide Box Office,Domestic Box Office,International Box Office,Dom
 153,A Tale of Mari and Three Puppies,"$25,513,520",,"$25,513,520",,A Tale of Mari and T,https://www.the-numbers.com/movie/Tale-of-Mari-and-Three-Puppies-A#tab=summary
 154,Persepolis,"$25,397,187","$4,443,403","$20,953,784",17.50%,Persepolis,https://www.the-numbers.com/movie/Persepolis#tab=summary
 155,The Last Legion,"$25,357,771","$5,932,060","$19,425,711",23.39%,The Last Legion,https://www.the-numbers.com/movie/Last-Legion-The#tab=summary
-156,Before the Devil Knows You're Dead,"$24,909,088","$7,085,511","$17,823,577",28.45%,Before the Devil Kno,https://www.the-numbers.com/movie/Before-the-Devil-Knows-Youre-Dead#tab=summary
+156,Before the Devil Knows You’re Dead,"$24,909,088","$7,085,511","$17,823,577",28.45%,Before the Devil Kno,https://www.the-numbers.com/movie/Before-the-Devil-Knows-Youre-Dead#tab=summary
 157,Bushi no ichibun,"$24,724,488","$60,910","$24,663,578",0.25%,Bushi no ichibun,https://www.the-numbers.com/movie/Bushi-no-ichibun#tab=summary
 158,In the Valley of Elah,"$24,489,150","$6,777,741","$17,711,409",27.68%,In the Valley of Ela,https://www.the-numbers.com/movie/In-the-Valley-of-Elah#tab=summary
 159,Vacancy,"$24,363,007","$19,063,007","$5,300,000",78.25%,Vacancy,https://www.the-numbers.com/movie/Vacancy#tab=summary
 160,Lissi und der wilde Kaiser,"$23,828,403",,"$23,828,403",,Lissi und der wilde ,https://www.the-numbers.com/movie/Lissi-und-der-wilde-Kaiser#tab=summary
 161,The Invisible,"$23,540,266","$20,568,319","$2,971,947",87.38%,The Invisible,https://www.the-numbers.com/movie/Invisible-The#tab=summary
-162,[Rec],"$23,266,821",,"$23,266,821",,[Rec],https://www.the-numbers.com/movie/Rec-(Spain-2007)#tab=summary
+162,[Rec],"$23,045,818",,"$23,045,818",,[Rec],https://www.the-numbers.com/movie/Rec-(Spain-2007)#tab=summary
 163,Once,"$22,964,998","$9,445,857","$13,519,141",41.13%,Once,https://www.the-numbers.com/movie/Once#tab=summary
 164,Alatriste,"$22,860,477",,"$22,860,477",,Alatriste,https://www.the-numbers.com/movie/Alatriste#tab=summary
 165,Le Scaphandre et le Papillon,"$22,754,472","$5,990,075","$16,764,397",26.32%,Le Scaphandre et le ,https://www.the-numbers.com/movie/Scaphandre-et-le-Papillon-Le#tab=summary
