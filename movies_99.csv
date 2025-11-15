@@ -112,7 +112,7 @@
 2005,126,"The Upside of Anger",2005-03-11,"2005","03",117,12,"New Line","Drama","Live Action","Contemporary Fiction","R","None","United States",28.915761
 2005,127,"Mrs. Henderson Presents",2005-12-09,"2005","12",103,20,"Weinstein Co.","Comedy","Live Action","Historical Fiction","R","None","United Kingdom",27.836366
 2005,128,"The Cave",2005-08-26,"2005","08",97,30,"Sony Pictures","Horror","Live Action","Science Fiction","PG-13","None","United States",27.147991
-2005,130,"The New World",2005-12-25,"2005","12",150,30,"New Line","Drama","Live Action","Factual","PG-13","None","United States",26.1844
+2005,130,"The New World",2005-12-25,"2005","12",150,30,"New Line","Drama","Live Action","Dramatization","PG-13","None","United States",26.1844
 2005,131,"Ice Princess",2005-03-18,"2005","03",98,25,"Walt Disney","Comedy","Live Action","Contemporary Fiction","G","None","United States",25.732334
 2005,134,"Cursed",2005-02-25,"2005","02",97,35,"Miramax/Dimension","Horror","Live Action","Fantasy","PG-13","None","United States,Germany",25.114901
 2005,136,"North Country",2005-10-21,"2005","10",123,30,"Warner Bros.","Drama","Live Action","Dramatization","R","None","United States",23.676771
@@ -820,7 +820,7 @@
 2010,39,"Red",2010-10-15,"2010","10",110,60,"Summit Entertainment","Action","Live Action","Contemporary Fiction","PG-13","RED","United States",196.439693
 2010,40,"Paranormal Activity 2",2010-10-20,"2010","10",91,3,"Paramount Pictures","Horror","Live Action","Contemporary Fiction","R","Paranormal Activity","United States",177.512032
 2010,41,"The A-Team",2010-06-11,"2010","06",118,110,"20th Century Fox","Action","Live Action","Contemporary Fiction","PG-13","None","United States",177.241171
-2010,42,"Jackass 3D",2010-10-15,"2010","10",93,20,"Paramount Pictures","Comedy","Live Action","Factual","R","Jackass","United States",171.471521
+2010,42,"Jackass 3D",2010-10-15,"2010","10",93,20,"Paramount Pictures","Comedy","Live Action","Dramatization","R","Jackass","United States",171.471521
 2010,43,"The Other Guys",2010-08-06,"2010","08",97,100,"Sony Pictures","Comedy","Live Action","Contemporary Fiction","PG-13","None","United States",170.93647
 2010,44,"Step Up 3D",2010-08-06,"2010","08",97,30,"Walt Disney","Drama","Live Action","Contemporary Fiction","PG-13","Step Up","United States",165.889117
 2010,45,"Unstoppable",2010-11-12,"2010","11",98,95,"20th Century Fox","Action","Live Action","Dramatization","PG-13","None","United States",165.720921
@@ -1166,7 +1166,7 @@
 2012,56,"The Best Exotic Marigold Hotel",2012-02-24,"2012","02",122,10,"Fox Searchlight","Comedy","Live Action","Contemporary Fiction","PG-13","Best Exotic Marigold Hotel","United States,United Kingdom",134.63978
 2012,57,"Zero Dark Thirty",2012-12-19,"2012","12",137,52.5,"Sony Pictures","Horror","Live Action","Dramatization","R","None","United States",134.612435
 2012,58,"Hope Springs",2012-08-08,"2012","08",100,30,"Sony Pictures","Comedy","Live Action","Contemporary Fiction","PG-13","None","United States",133.085295
-2012,59,"Cloud Atlas",2012-10-26,"2012","10",172,102,"Warner Bros.","Drama","Live Action","Multiple Creative Types","R","None","Germany",130.673154
+2012,59,"Cloud Atlas",2012-10-26,"2012","10",172,102,"Warner Bros.","Drama","Live Action","Science Fiction","R","None","Germany",130.673154
 2012,60,"The Woman in Black",2012-02-03,"2012","02",95,15,"CBS Films","Horror","Live Action","Fantasy","PG-13","The Woman in Black","United Kingdom,Canada,Sweden",128.955898
 2012,62,"Chronicle",2012-02-02,"2012","02",106,12,"20th Century Fox","Horror","Live Action","Science Fiction","PG-13","None","United States",123.68179
 2012,63,"Parental Guidance",2012-12-25,"2012","12",104,25,"20th Century Fox","Comedy","Live Action","Contemporary Fiction","PG","None","United States",120.832383
@@ -1238,7 +1238,7 @@
 2012,156,"Bait 3D",2012-09-09,"2012","09",91,20,"Screen Australia","Horror","Live Action","Contemporary Fiction","R","None","Australia,Singapore",32.58867
 2012,160,"Housefull 2",2012-04-05,"2012","04",145,25,"Eros Entertainment","Comedy","Live Action","Contemporary Fiction","R","Housefull","India",31.46557
 2012,161,"Premium Rush",2012-08-23,"2012","08",91,35,"Sony Pictures","Horror","Live Action","Contemporary Fiction","PG-13","None","United States",31.393201
-2012,162,"Movie 43",2012-02-08,"2012","02",97,10,"Relativity Media","Comedy","Multiple","Multiple Creative Types","R","None","United States",31.164747
+2012,162,"Movie 43",2012-02-08,"2012","02",97,10,"Relativity Media","Comedy","Multiple","Science Fiction","R","None","United States",31.164747
 2012,164,"The Raven",2012-04-12,"2012","04",111,26,"Relativity","Horror","Live Action","Historical Fiction","R","None","United States,Spain",30.601801
 2012,166,"De rouille et d’os",2012-11-23,"2012","11",120,19.5,"Page 114","Drama","Live Action","Contemporary Fiction","R","None","France,Belgium",29.393634
 2012,168,"Wu Xia",2012-11-30,"2012","11",116,80,"Steller Mega Films","Action","Live Action","Historical Fiction","R","None","Hong Kong,China",29.284214
@@ -1351,7 +1351,7 @@
 2013,47,"Olympus Has Fallen",2013-03-20,"2013","03",120,70,"FilmDistrict","Horror","Live Action","Contemporary Fiction","R","Has Fallen","United States",172.836993
 2013,48,"Anchorman 2: The Legend Continues",2013-12-18,"2013","12",118,50,"Paramount Pictures","Comedy","Live Action","Historical Fiction","PG-13","Anchorman","United States",172.246223
 2013,49,"Insidious Chapter 2",2013-09-13,"2013","09",105,5,"FilmDistrict","Horror","Live Action","Contemporary Fiction","PG-13","Insidious","United States",161.921515
-2013,50,"Jackass Presents: Bad Grandpa",2013-10-23,"2013","10",92,15,"Paramount Pictures","Comedy","Live Action","Factual","R","JackassBad Grandpa","United States",160.903019
+2013,50,"Jackass Presents: Bad Grandpa",2013-10-23,"2013","10",92,15,"Paramount Pictures","Comedy","Live Action","Dramatization","R","JackassBad Grandpa","United States",160.903019
 2013,51,"47 Ronin",2013-12-06,"2013","12",127,175,"Universal","Action","Live Action","Contemporary Fiction","PG-13","47 Ronin","United States",151.716815
 2013,52,"Lone Survivor",2013-12-25,"2013","12",121,40,"Universal","Action","Live Action","Dramatization","R","None","United States",149.804632
 2013,53,"Mama",2013-01-17,"2013","01",109,15,"Universal","Horror","Live Action","Fantasy","PG-13","None","Spain,Canada",148.095566
@@ -1610,7 +1610,7 @@
 2014,167,"Fading Gigolo",2014-04-17,"2014","04",98,25,"Alchemy","Comedy","Live Action","Contemporary Fiction","R","None","United States",25.770059
 2014,170,"Mr. Turner",2014-10-31,"2014","10",149,14,"Sony Pictures Cla…","Drama","Live Action","Dramatization","R","None","United Kingdom",25.100642
 2014,171,"The Railway Man",2014-04-11,"2014","04",116,18,"Weinstein Co.","Drama","Live Action","Dramatization","R","None","Australia,United Kingdom",23.91021
-2014,172,"A Haunted House 2",2014-04-18,"2014","04",87,4,"Open Road","Comedy","Live Action","Multiple Creative Types","R","A Haunted House","United States",21.206861
+2014,172,"A Haunted House 2",2014-04-18,"2014","04",87,4,"Open Road","Comedy","Live Action","Science Fiction","R","A Haunted House","United States",21.206861
 2014,173,"El Nino",2014-08-29,"2014","08",136,20,"Telecinco Cinema","Horror","Live Action","Contemporary Fiction","R","None","Spain",20.917985
 2014,174,"Left Behind",2014-10-03,"2014","10",111,16,"Freestyle Releasing","Horror","Live Action","Science Fiction","PG-13","Left Behind","United States",20.769209
 2014,176,"Legends of Oz: Dorothy’s Return",2014-05-09,"2014","05",88,70,"Clarius Entertain…","Adventure","Animation","Kids Fiction","PG","None","United States",20.107933
@@ -2377,7 +2377,7 @@
 2019,21,"Godzilla: King of the Monsters",2019-05-29,"2019","05",132,170,"Warner Bros.","Action","Live Action","Science Fiction","PG-13","GodzillaMonsterVerse","United States",387.300138
 2019,22,"1917",2019-12-25,"2019","12",119,100,"Universal","Horror","Live Action","Historical Fiction","R","None","United States,United Kingdom",383.710072
 2019,23,"Once Upon a Time…in Hollywood",2019-07-24,"2019","07",159,90,"Sony Pictures","Horror","Live Action","Dramatization","R","None","United States,United Kingdom",377.426903
-2019,24,"Zhongguo jizhang",2019-09-28,"2019","09",110,20,"Bona Entertainment Company","Drama","Live Action","Factual","R","None","China",372.563758
+2019,24,"Zhongguo jizhang",2019-09-28,"2019","09",110,20,"Bona Entertainment Company","Drama","Live Action","Dramatization","R","None","China",372.563758
 2019,25,"Shazam!",2019-04-03,"2019","04",132,85,"Warner Bros.","Action","Live Action","Super Hero","PG-13","DC Extended UniverseShazam","United States",365.971656
 2019,26,"Dumbo",2019-03-27,"2019","03",130,170,"Walt Disney","Adventure","Multiple","Kids Fiction","PG","Dumbo","United States",353.166307
 2019,27,"John Wick: Chapter 3 — Parabellum",2019-05-15,"2019","05",131,75,"Lionsgate","Action","Live Action","Contemporary Fiction","R","John Wick","United States",326.685379
